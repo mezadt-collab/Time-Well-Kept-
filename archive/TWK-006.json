@@ -1,0 +1,136 @@
+{
+  "id": "twk-006",
+  "catalogNumber": "TWK-006",
+
+  "chapter": {
+    "number": 6,
+    "title": "A Gift Chosen with Care",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Ted Baker",
+    "collection": null,
+    "displayName": "Ted Baker Small Seconds",
+    "model": "Small Seconds",
+    "reference": "TE15193006",
+    "countryOfOrigin": "United Kingdom"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": "44 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "White",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Blue Leather Strap",
+    "currentStrap": "Blue Leather Strap",
+    "lugWidth": null,
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2018,
+    "type": "Gift",
+    "from": "Elder Cousin",
+    "occasion": "Wedding",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Ted Baker Small Seconds",
+    "caption": "A thoughtful gift that carries the warmth of family.",
+    "milestone": "Wedding Gift",
+    "importance": 8
+  },
+
+  "story": {
+    "opening": "The best gifts are not always surprises. Sometimes they are the ones you are invited to choose yourself.",
+
+    "background": "Shortly after my wedding, my elder cousin wanted to gift both my wife and me something special. Instead of choosing for us, he took us shopping and asked each of us to select a watch we genuinely liked.",
+
+    "acquisition": "Among the many options, this Ted Baker immediately stood out. The crisp white dial, elegant small seconds display and striking blue leather strap gave it a character that was different from anything else in my collection. It felt refined without trying too hard.",
+
+    "experience": "Over the years, the watch has remained in good condition. While it doesn't receive as much wrist time today, every time I see it I remember the generosity behind the gift rather than the watch itself.",
+
+    "whyItMatters": "This watch represents the people who wanted us to begin married life with something meaningful that we had chosen ourselves.",
+
+    "favoriteMemory": "Shopping together with my wife while my cousin encouraged us to choose the watches we truly wanted, making the gift feel deeply personal.",
+
+    "reflection": "This watch reminds me that the thought behind a gift often matters far more than its value. It wasn't just a wedding present—it was a gesture of kindness and affection that has stayed with me ever since.",
+
+    "collectorReflection": "The finest gifts are not those chosen for us, but those that allow us to express who we are."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Good",
+    "sentimentalRating": 8,
+    "dailyWear": "Rare",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "United Kingdom",
+    "brand": "Ted Baker",
+    "collectionTheme": "Family",
+    "lifeLesson": "The Thought Behind the Gift Matters Most",
+    "isMilestone": false,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": false,
+    "showOnHomepage": true,
+    "searchTags": [
+      "ted baker",
+      "small seconds",
+      "te15193006",
+      "wedding",
+      "gift",
+      "family",
+      "white dial",
+      "blue strap",
+      "dress watch",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk006_ted_baker_small_seconds",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The most meaningful gifts are the ones chosen with love.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "twk-012",
+  "catalogNumber": "TWK-012",
+
+  "chapter": {
+    "number": 12,
+    "title": "The Honest Workhorse",
+    "featured": false
+  },
+
+  "identity": {
+    "brand": "Casio",
+    "collection": "Standard",
+    "displayName": "Casio MRW200H-2BV",
+    "model": "MRW200H-2BV",
+    "reference": "MRW200H-2BV",
+    "countryOfOrigin": "Japan"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": "44 mm",
+    "caseMaterial": "Resin Case and Bezel",
+    "crystal": "Resin Crystal",
+    "dialColor": "Blue",
+    "bezel": "Bi-directional Resin Bezel",
+    "originalStrap": "Black Resin Strap",
+    "currentStrap": "Aftermarket Plastic Strap",
+    "lugWidth": "18 mm",
+    "waterResistance": "100 m"
+  },
+
+  "acquisition": {
+    "year": 2024,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Beater Watch",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Casio MRW200H-2BV",
+    "caption": "A dependable companion built for the days when practicality matters most.",
+    "milestone": "Dedicated Beater Watch",
+    "importance": 8
+  },
+
+  "story": {
+    "opening": "Not every watch is bought to be admired. Some are bought to be trusted.",
+
+    "background": "I wanted a watch that I could wear without hesitation. Something inexpensive, dependable and capable of handling situations where I wouldn't want to risk damaging my other watches.",
+
+    "acquisition": "The Casio MRW200H was the obvious choice. It offered everything I needed—excellent water resistance, outstanding reliability and a price that encouraged me to wear it freely rather than worry about it.",
+
+    "experience": "This watch has seen rain, outdoor activities, water and the kind of everyday abuse that would make me think twice about wearing many other watches. It has never let me down. The original resin strap was eventually replaced with an aftermarket plastic strap, but the watch continues to perform exactly as it always has. Its honest signs of wear are proof that it has fulfilled the role it was purchased for.",
+
+    "whyItMatters": "This watch taught me that reliability often matters far more than luxury. It has always done exactly what I asked of it.",
+
+    "favoriteMemory": "Reaching for it without a second thought whenever the weather looked bad or the day promised to be rough on a watch.",
+
+    "reflection": "The MRW200H will never be the most expensive watch in my collection, nor the rarest. Yet it earns my respect every time I wear it because it has never once failed to do its job.",
+
+    "collectorReflection": "Every collection needs at least one watch that asks for nothing except to be worn."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Honest Wear",
+    "sentimentalRating": 8,
+    "dailyWear": "Frequent",
+    "wouldSell": false,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": false,
+    "country": "Japan",
+    "brand": "Casio",
+    "collectionTheme": "Utility",
+    "lifeLesson": "Reliability Is a Virtue",
+    "isMilestone": false,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": false,
+    "showOnHomepage": true,
+    "searchTags": [
+      "casio",
+      "mrw200h",
+      "beater",
+      "outdoor",
+      "100m",
+      "resin",
+      "blue",
+      "quartz",
+      "daily wear"
+    ]
+  },
+
+  "images": {
+    "folder": "twk012_casio_mrw200h",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "bezel.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The watches we trust the most are often the ones we worry about the least.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "twk-015",
+  "catalogNumber": "TWK-015",
+
+  "chapter": {
+    "number": 15,
+    "title": "Sometimes Someone Else Knows Better",
+    "featured": false
+  },
+
+  "identity": {
+    "brand": "Sonata",
+    "collection": "Poze",
+    "displayName": "Sonata Poze",
+    "model": "Poze",
+    "reference": "SP70050SP01W",
+    "countryOfOrigin": "India"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": "42 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Blue",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Blue Silicone Strap",
+    "currentStrap": "Blue Silicone Strap",
+    "lugWidth": null,
+    "waterResistance": "30 m"
+  },
+
+  "acquisition": {
+    "year": 2025,
+    "type": "Gift",
+    "from": "Wife",
+    "occasion": "Casual Gift",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Sonata Poze",
+    "caption": "A simple watch that reminds me that good choices are sometimes made for us.",
+    "milestone": "Everyday Beater",
+    "importance": 6
+  },
+
+  "story": {
+    "opening": "Not every watch in a collection is chosen by the collector.",
+
+    "background": "When my wife decided to gift me this watch, I already had my eyes on the green version. Green had become one of my favourite dial colours, and naturally that was the one I wanted.",
+
+    "acquisition": "She looked at my collection and simply said, 'You already have too many green watches.' Instead, she chose the blue version. At first, I wasn't entirely convinced, but I trusted her judgement.",
+
+    "experience": "The more I wore the watch, the more I appreciated her decision. The blue dial brought variety to my collection and quickly became a dependable everyday beater. It is comfortable, practical and has proven to be exactly the kind of watch I can wear without giving it a second thought.",
+
+    "whyItMatters": "This watch reminds me that collecting is sometimes about balance rather than simply buying another version of what you already love.",
+
+    "favoriteMemory": "Hearing my wife's reasoning for choosing the blue dial instead of the green one I originally wanted.",
+
+    "reflection": "Looking back, I think she made the right decision. The blue dial filled a gap in my collection that I probably wouldn't have noticed myself. Every collection benefits from a different perspective.",
+
+    "collectorReflection": "Sometimes the best additions to a collection are the ones we didn't choose ourselves."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Great",
+    "sentimentalRating": 6,
+    "dailyWear": "Regular",
+    "wouldSell": true,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "May Sell"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "India",
+    "brand": "Sonata",
+    "collectionTheme": "Everyday Wear",
+    "lifeLesson": "A Different Perspective Can Improve a Collection",
+    "isMilestone": false,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": false,
+    "showOnHomepage": true,
+    "searchTags": [
+      "sonata",
+      "poze",
+      "sp70050sp01w",
+      "blue",
+      "gift",
+      "wife",
+      "beater",
+      "india",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk015_sonata_poze",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Sometimes the watch you need isn't the one you would have chosen.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

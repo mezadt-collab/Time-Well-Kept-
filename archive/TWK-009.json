@@ -1,0 +1,134 @@
+{
+  "id": "twk-009",
+  "catalogNumber": "TWK-009",
+
+  "chapter": {
+    "number": 9,
+    "title": "Making It My Own",
+    "featured": false
+  },
+
+  "identity": {
+    "brand": "Casio",
+    "collection": "Standard",
+    "displayName": "Casio MTP-VD02BL-2EUDF",
+    "model": "MTP-VD02BL-2EUDF",
+    "reference": "MTP-VD02BL-2EUDF",
+    "countryOfOrigin": "Japan"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": "41 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Blue Sunburst",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Blue Synthetic Leather",
+    "currentStrap": "Red Leather Strap",
+    "lugWidth": null,
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2024,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Dress Watch",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Casio MTP-VD02BL-2EUDF",
+    "caption": "A simple Casio that became uniquely mine.",
+    "milestone": "Modern Dress Watch",
+    "importance": 8
+  },
+
+  "story": {
+    "opening": "Not every watch needs to be expensive to feel special.",
+
+    "background": "I was looking for a simple Casio dress watch that I could wear regularly. Among the many options, this model stood out because of its beautiful blue sunburst dial. It offered exactly the clean and understated look I wanted.",
+
+    "acquisition": "Although the watch came with a blue synthetic leather strap, I never really liked the straps Casio paired with its dress watches. Soon after buying it, I replaced it with a red leather strap. That single change completely transformed the watch and gave it a personality of its own.",
+
+    "experience": "Since then, it has become one of my most frequently worn dress watches. The strap now shows honest signs of wear, reflecting just how often it has accompanied me. Every crease in the leather reminds me that this watch was bought to be enjoyed rather than preserved.",
+
+    "whyItMatters": "This watch taught me that collecting isn't only about buying watches. It's also about making them your own.",
+
+    "favoriteMemory": "Seeing how dramatically the watch changed after replacing the original strap with the red leather strap.",
+
+    "reflection": "Sometimes the smallest modification can completely change how a watch feels on the wrist. Personalisation allowed this affordable Casio to become something uniquely mine.",
+
+    "collectorReflection": "A collection reflects its owner best when it carries small personal touches that no catalogue can provide."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Well Worn",
+    "sentimentalRating": 8,
+    "dailyWear": "Frequent",
+    "wouldSell": false,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": false,
+    "country": "Japan",
+    "brand": "Casio",
+    "collectionTheme": "Personalisation",
+    "lifeLesson": "Make It Your Own",
+    "isMilestone": false,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": false,
+    "showOnHomepage": true,
+    "searchTags": [
+      "casio",
+      "mtp-vd02bl-2eudf",
+      "dress watch",
+      "blue sunburst",
+      "red leather strap",
+      "strap change",
+      "quartz",
+      "2024"
+    ]
+  },
+
+  "images": {
+    "folder": "twk009_casio_mtp_vd02bl",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "strap.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Sometimes making a watch your own is the most rewarding modification of all.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

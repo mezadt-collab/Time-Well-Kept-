@@ -1,0 +1,147 @@
+/*==========================================================
+TIME WELL KEPT
+WORLD MAP
+==========================================================*/
+
+.world-map-wrapper{
+
+    position:relative;
+
+}
+
+.world-map{
+
+    width:100%;
+    max-width:900px;
+    margin:0 auto;
+
+}
+
+.world-map svg{
+
+    width:100%;
+    height:auto;
+    display:block;
+
+}
+
+.country{
+
+    cursor:pointer;
+    transition:
+        fill .25s ease,
+        stroke .25s ease,
+        filter .25s ease;
+
+}
+
+/*==========================================================
+TOOLTIP
+==========================================================*/
+
+.map-tooltip{
+
+    position:fixed;
+
+    min-width:220px;
+
+    background:#171717;
+
+    border:1px solid rgba(176,141,87,.35);
+
+    border-radius:14px;
+
+    padding:18px;
+
+    pointer-events:none;
+
+    opacity:0;
+
+    transform:
+        translate(-50%,-120%)
+        scale(.95);
+
+    transition:
+    opacity .20s ease,
+    transform .20s cubic-bezier(.22,.61,.36,1);
+
+    box-shadow:
+        0 18px 40px rgba(0,0,0,.45);
+
+    z-index:9999;
+    backdrop-filter: blur(12px);
+-webkit-backdrop-filter: blur(12px);
+
+}
+
+.map-tooltip.visible{
+
+    opacity:1;
+
+    transform:
+        translate(-50%,-120%)
+        scale(1);
+
+}
+
+.tooltip-title{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:1.65rem;
+
+    color:#b08d57;
+
+    letter-spacing:.22em;
+
+    text-align:center;
+
+    margin-bottom:8px;
+
+}
+
+.tooltip-count{
+
+    text-align:center;
+
+    color:#bcbcbc;
+
+    font-size:.72rem;
+
+    letter-spacing:.28em;
+
+    text-transform:uppercase;
+
+    margin-bottom:14px;
+
+    padding-bottom:14px;
+
+    border-bottom:1px solid rgba(176,141,87,.18);
+
+}
+
+.tooltip-row{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin:8px 0;
+
+}
+
+.tooltip-brand{
+
+    color:#efefef;
+
+}
+
+.tooltip-number{
+
+    color:#b08d57;
+
+    font-weight:600;
+
+}

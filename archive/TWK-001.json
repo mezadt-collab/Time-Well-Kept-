@@ -1,0 +1,135 @@
+{
+  "id": "twk-001",
+  "catalogNumber": "TWK-001",
+
+  "chapter": {
+    "number": 1,
+    "title": "Where It All Began",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "GIO Collection",
+    "collection": null,
+    "displayName": "GIO Collection Retirement Watch",
+    "model": "Retirement Watch",
+    "reference": null,
+    "countryOfOrigin": null
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": null,
+    "caseMaterial": "Stainless Steel",
+    "crystal": null,
+    "dialColor": null,
+    "bezel": null,
+    "originalStrap": null,
+    "currentStrap": null,
+    "lugWidth": null,
+    "waterResistance": null
+  },
+
+  "acquisition": {
+    "year": 2014,
+    "type": "Gift",
+    "from": "Father",
+    "occasion": "Passed down after his retirement",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "GIO Collection Retirement Watch",
+    "caption": "The watch that unknowingly began a lifetime of collecting.",
+    "milestone": "The Beginning",
+    "importance": 10
+  },
+
+  "story": {
+    "opening": "Every collection has a beginning. Mine began long before I knew I would become a collector.",
+
+    "background": "This watch was originally presented to my father when he retired in 2014 after years of dedicated service. At the time, it was simply his retirement watch.",
+
+    "acquisition": "Not long after his retirement, my father handed the watch to me. It was much too large for my wrist, but I wore it anyway. I didn't become a collector overnight. Instead, I simply started wearing a watch every day, and that habit quietly became a lifelong passion.",
+
+    "experience": "Today, only the dial remains. The watch itself has long since reached the end of its life, but I could never bring myself to throw it away. It represents something far greater than a functioning timepiece.",
+
+    "whyItMatters": "Without this watch there would be no collection. It quietly introduced me to wearing a watch every day and unknowingly started everything that followed.",
+
+    "favoriteMemory": "Receiving the watch from my father and proudly wearing it despite it being much too large for my wrist.",
+
+    "reflection": "Some objects eventually stop serving their original purpose. Instead of telling the time, this watch now preserves a memory that can never be replaced.",
+
+    "collectorReflection": "Every collector remembers their first watch. Mine wasn't chosen by me, but it became the foundation of everything that followed."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Only the dial remains",
+    "sentimentalRating": 10,
+    "dailyWear": "No",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "India",
+    "brand": "GIO Collection",
+    "collectionTheme": "Family",
+    "lifeLesson": "Legacy",
+    "isMilestone": true,
+    "isDressWatch": false,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "gio",
+      "father",
+      "retirement",
+      "family",
+      "legacy",
+      "gift",
+      "quartz",
+      "first watch",
+      "india"
+    ]
+  },
+
+  "images": {
+    "folder": "twk001_gio_retirement",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "dial.jpg",
+      "caseback.jpg",
+      "family.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Every collection has a beginning.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

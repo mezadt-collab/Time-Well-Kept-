@@ -1,0 +1,134 @@
+{
+  "id": "twk-021",
+  "catalogNumber": "TWK-021",
+
+  "chapter": {
+    "number": 21,
+    "title": "Not Every Watch Is Forever",
+    "featured": false
+  },
+
+  "identity": {
+    "brand": "Timex",
+    "collection": null,
+    "displayName": "Timex TWEG25301",
+    "model": "TWEG25301",
+    "reference": "TWEG25301",
+    "countryOfOrigin": "USA"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": "43 mm",
+    "caseMaterial": "Brass",
+    "crystal": "Mineral Crystal",
+    "dialColor": "White",
+    "bezel": "Fixed Gold-Tone Bezel",
+    "originalStrap": "Two-Tone Folded Steel Bracelet",
+    "currentStrap": "Green NATO Strap",
+    "lugWidth": "20 mm",
+    "waterResistance": "30 m"
+  },
+
+  "acquisition": {
+    "year": 2026,
+    "type": "Gift",
+    "from": "Friend",
+    "occasion": "Passed On",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Timex TWEG25301",
+    "caption": "A reminder that every collection evolves over time.",
+    "milestone": "An Unexpected Addition",
+    "importance": 5
+  },
+
+  "story": {
+    "opening": "Not every watch joins a collection because you were searching for it.",
+
+    "background": "A friend had ordered this Timex for himself, but once it arrived, he realised the 43 mm case was simply too large for his wrist. Knowing that I collected watches, he decided to pass it on to me.",
+
+    "acquisition": "When I first tried it on, I immediately understood why he had decided to let it go. I also found it larger than I usually prefer. Nevertheless, I appreciated the gesture and welcomed it into my collection.",
+
+    "experience": "Over time, I replaced the original two-tone folded steel bracelet with a green NATO strap. The change gave the watch a more casual personality and made it far more enjoyable to wear. Even so, the case size has always prevented it from becoming a regular part of my rotation.",
+
+    "whyItMatters": "This watch reminds me that collecting isn't only about finding perfect watches. It's also about appreciating the stories and friendships behind them.",
+
+    "favoriteMemory": "Receiving the watch from a friend who knew it would be appreciated more in my collection than sitting unworn in his.",
+
+    "reflection": "Unlike many of my watches, I don't expect this one to stay with me forever. One day it will probably be sold or gifted to another collector, continuing the journey that brought it to me in the first place.",
+
+    "collectorReflection": "A collection is never static. Some watches become lifelong companions, while others simply accompany us for a chapter of the journey."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Good",
+    "sentimentalRating": 3,
+    "dailyWear": "Rare",
+    "wouldSell": true,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Sell or Gift Away"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "USA",
+    "brand": "Timex",
+    "collectionTheme": "Evolution",
+    "lifeLesson": "Not Every Watch Is Meant to Stay Forever",
+    "isMilestone": false,
+    "isDressWatch": false,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": false,
+    "showOnHomepage": true,
+    "searchTags": [
+      "timex",
+      "tweg25301",
+      "quartz",
+      "gift",
+      "friend",
+      "green nato",
+      "43mm",
+      "collection evolution"
+    ]
+  },
+
+  "images": {
+    "folder": "twk021_timex_tweg25301",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "strap.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Every collector eventually learns that some watches are chapters, not the whole story.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

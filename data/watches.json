@@ -1,0 +1,3004 @@
+{
+  "collection": {
+    "title": "Time Well Kept",
+    "collector": "Tanveer Mezad",
+    "version": "1.0",
+    "watchCount": 23
+  },
+  "watches": [
+    {
+      "id": "twk-001",
+      "catalogNumber": "TWK-001",
+      "chapter": {
+        "number": 1,
+        "title": "Where It All Began",
+        "featured": true
+      },
+      "identity": {
+        "brand": "GIO Collection",
+        "collection": null,
+        "displayName": "GIO Collection Retirement Watch",
+        "model": "Retirement Watch",
+        "reference": null,
+        "countryOfOrigin":"Italy",
+        "countryCode": "ITA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": null,
+        "caseMaterial": "Stainless Steel",
+        "crystal": null,
+        "dialColor": null,
+        "bezel": null,
+        "originalStrap": null,
+        "currentStrap": null,
+        "lugWidth": null,
+        "waterResistance": null
+      },
+      "acquisition": {
+        "year": 2014,
+        "type": "Gift",
+        "from": "Father",
+        "occasion": "Passed down after his retirement",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "GIO Collection Retirement Watch",
+        "caption": "The watch that unknowingly began a lifetime of collecting.",
+        "milestone": "The Beginning",
+        "importance": 10
+      },
+      "story": {
+        "opening": "Every collection has a beginning. Mine began long before I knew I would become a collector.",
+        "background": "This watch was originally presented to my father when he retired in 2014 after years of dedicated service. At the time, it was simply his retirement watch.",
+        "acquisition": "Not long after his retirement, my father handed the watch to me. It was much too large for my wrist, but I wore it anyway. I didn't become a collector overnight. Instead, I simply started wearing a watch every day, and that habit quietly became a lifelong passion.",
+        "experience": "Today, only the dial remains. The watch itself has long since reached the end of its life, but I could never bring myself to throw it away. It represents something far greater than a functioning timepiece.",
+        "whyItMatters": "Without this watch there would be no collection. It quietly introduced me to wearing a watch every day and unknowingly started everything that followed.",
+        "favoriteMemory": "Receiving the watch from my father and proudly wearing it despite it being much too large for my wrist.",
+        "reflection": "Some objects eventually stop serving their original purpose. Instead of telling the time, this watch now preserves a memory that can never be replaced.",
+        "collectorReflection": "Every collector remembers their first watch. Mine wasn't chosen by me, but it became the foundation of everything that followed."
+      },
+      "collectionNotes": {
+        "currentCondition": "Only the dial remains",
+        "sentimentalRating": 10,
+        "dailyWear": "No",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Everyday",
+        "acquiredAsGift": true,
+        "country": "India",
+        "brand": "GIO Collection",
+        "collectionTheme": "Family",
+        "lifeLesson": "Legacy",
+        "isMilestone": true,
+        "isDressWatch": false,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "gio",
+          "father",
+          "retirement",
+          "family",
+          "legacy",
+          "gift",
+          "quartz",
+          "first watch",
+          "india"
+        ]
+      },
+    "images": {
+  "folder": "TWK-001",
+  "cover": "TWK-001 cover.jpg",
+  "hero": "TWK-001 hero.jpg",
+  "thumbnail": "TWK-001 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-001 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-001 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-001 caseback.jpg",
+      "title": "Caseback"
+    },
+    {
+      "file": "TWK-001 family.jpg",
+      "title": "Family Legacy"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Every collection has a beginning.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-002",
+      "catalogNumber": "TWK-002",
+      "chapter": {
+        "number": 2,
+        "title": "The First Chronograph",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Fossil",
+        "collection": "Grant",
+        "displayName": "Fossil Grant Chronograph",
+        "model": "Grant Chronograph",
+        "reference": null,
+        "countryOfOrigin": "USA",
+        "countryCode": "USA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Chronograph",
+        "caseDiameter": "44 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Navy Blue",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Stainless Steel Bracelet",
+        "currentStrap": "Black Silicon Strap",
+        "lugWidth": null,
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2014,
+        "type": "Gift",
+        "from": null,
+        "occasion": null,
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Fossil Grant Chronograph",
+        "caption": "One of the earliest companions in my collecting journey.",
+        "milestone": "First Chronograph",
+        "importance": 9
+      },
+      "story": {
+        "opening": "Some watches become memorable because of how they were acquired. Others become memorable because they simply stayed with you through the years.",
+        "background": "This Fossil Grant Chronograph became part of my collection in 2014. At the time, my appreciation for watches was still developing, and this watch quickly became one of my most frequently worn pieces.",
+        "acquisition": "Its navy blue dial immediately stood out to me. It was versatile enough to wear almost anywhere, yet distinctive enough to feel special every time I put it on.",
+        "experience": "Over the years, the watch became well worn through regular use. Every scratch and mark tells the story of a watch that was enjoyed rather than preserved inside a watch box. It is on a silicon strp currently, which I can still swap to the original whenever I choose.",
+        "whyItMatters": "This was my first chronograph and one of the watches that transformed wearing a watch from a habit into something I genuinely enjoyed.",
+        "favoriteMemory": "Watching the watch age naturally over the years, knowing every mark came from moments lived rather than time spent in storage.",
+        "reflection": "Looking at it today, I don't see an old Fossil. I see one of the watches that quietly accompanied me through the early years of my collecting journey. It reminds me that sentimental value is earned through time on the wrist.",
+        "collectorReflection": "A watch doesn't become important because it stays perfect. It becomes important because it stays with you."
+      },
+      "collectionNotes": {
+        "currentCondition": "Well Worn",
+        "sentimentalRating": 9,
+        "dailyWear": "No",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Chronograph",
+        "acquiredAsGift": true,
+        "country": "USA",
+        "brand": "Fossil",
+        "collectionTheme": "Early Collection",
+        "lifeLesson": "The watches we wear become the ones we remember.",
+        "isMilestone": true,
+        "isDressWatch": false,
+        "isSportsWatch": false,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "fossil",
+          "grant",
+          "chronograph",
+          "blue",
+          "navy",
+          "quartz",
+          "first chronograph",
+          "well worn",
+          "early collection"
+        ]
+      },
+      "images": {
+  "folder": "TWK-002",
+  "cover": "TWK-002 cover.jpg",
+  "hero": "TWK-002 hero.jpg",
+  "thumbnail": "TWK-002 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-002 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-002 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-002 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-002 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Some watches stay long enough to become part of your story.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-003",
+      "catalogNumber": "TWK-003",
+      "chapter": {
+        "number": 3,
+        "title": "Love at First Sight",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Fossil",
+        "collection": "Grant",
+        "displayName": "Fossil FS5190",
+        "model": "FS5190",
+        "reference": "FS5190",
+        "countryOfOrigin": "USA",
+        "countryCode": "USA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Chronograph",
+        "caseDiameter": "45 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Green",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Black Leather",
+        "currentStrap": "Black Silicone",
+        "lugWidth": "24 mm",
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2015,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Walk-in Purchase",
+        "purchaseLocation": "Fossil Store",
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Fossil FS5190",
+        "caption": "The watch that proved instinct can be as important as research.",
+        "milestone": "First Design-Led Purchase",
+        "importance": 9
+      },
+      "story": {
+        "opening": "Sometimes a watch doesn't need months of research. Sometimes it only needs a single glance.",
+        "background": "I wasn't planning to buy a watch that day. I was simply browsing inside a Fossil store when one particular watch immediately caught my attention.",
+        "acquisition": "What stopped me wasn't the chronograph layout or the size of the case. It was the distinctive green crystal. It gave the entire watch a unique appearance unlike anything else I had seen. Without overthinking the decision, I bought it almost immediately.",
+        "experience": "The watch quickly became one of the most frequently worn pieces in my collection. Years of regular use eventually wore out the original black leather strap, which I replaced with a black silicone strap. Finding a suitable replacement wasn't easy because of its uncommon 24 mm lug width, but the watch continued to earn its place in my rotation. Every mark it carries today reflects years of honest wear rather than neglect.",
+        "whyItMatters": "This was the first watch I bought purely because I fell in love with its design. It taught me that sometimes your instincts are worth trusting.",
+        "favoriteMemory": "The moment I saw the green crystal and knew almost instantly that I wasn't leaving the store without the watch.",
+        "reflection": "Looking at it today, I still remember exactly what caught my eye all those years ago. Good design has a timeless quality, and this watch continues to remind me why I bought it in the first place.",
+        "collectorReflection": "Collectors often spend months researching a purchase. This watch reminds me that occasionally the heart reaches the right decision before the mind does."
+      },
+      "collectionNotes": {
+        "currentCondition": "Well Worn",
+        "sentimentalRating": 9,
+        "dailyWear": "Occasional",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Chronograph",
+        "acquiredAsGift": false,
+        "country": "USA",
+        "brand": "Fossil",
+        "collectionTheme": "Personal Discovery",
+        "lifeLesson": "Trust Your Instincts",
+        "isMilestone": true,
+        "isDressWatch": false,
+        "isSportsWatch": false,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "fossil",
+          "fs5190",
+          "green",
+          "chronograph",
+          "quartz",
+          "self purchase",
+          "design",
+          "green crystal",
+          "2015"
+        ]
+      },
+"images": {
+  "folder": "TWK-003",
+  "hero": "TWK-003 hero.jpg",
+  "gallery": [
+    {
+      "file": "TWK-003 hero.jpg",
+      "title": "Hero View"
+    },
+    {
+      "file": "TWK-003 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-003 dial.jpg",
+      "title": "Dial Close-up"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Sometimes the best decisions are made in a single moment.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-004",
+      "catalogNumber": "TWK-004",
+      "chapter": {
+        "number": 4,
+        "title": "A New Beginning",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Michael Kors",
+        "collection": "Ryker",
+        "displayName": "Michael Kors Ryker Chronograph",
+        "model": "Ryker Chronograph",
+        "reference": "MK8528",
+        "countryOfOrigin": "USA",
+        "countryCode": "USA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Chronograph",
+        "caseDiameter": "43 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Grey",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Stainless Steel Bracelet",
+        "currentStrap": "Stainless Steel Bracelet",
+        "lugWidth": null,
+        "waterResistance": "100 m"
+      },
+      "acquisition": {
+        "year": 2017,
+        "type": "Gift",
+        "from": "In-Laws",
+        "occasion": "Birthday after Engagement",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Michael Kors Ryker Chronograph",
+        "caption": "A watch that celebrates the beginning of a new chapter in life.",
+        "milestone": "Engagement Gift",
+        "importance": 9
+      },
+      "story": {
+        "opening": "Some watches mark moments in time. Others mark entirely new chapters in life.",
+        "background": "This Michael Kors Ryker Chronograph entered my collection shortly after my engagement. It was presented to me by my in-laws as a birthday gift, making it one of the first watches connected to an important milestone in my personal life.",
+        "acquisition": "At the time, I wasn't particularly familiar with Michael Kors watches. That didn't matter. What made this watch special was never the name on the dial\u2014it was the thought behind the gift and the occasion it represented.",
+        "experience": "The watch accompanied me through an exciting period filled with anticipation as I prepared for marriage. Although it doesn't receive as much wrist time today, it remains in excellent condition and continues to occupy an important place in the collection because of the memories attached to it.",
+        "whyItMatters": "This watch represents the beginning of a new family and reminds me that the most meaningful watches are often those connected to life's biggest milestones.",
+        "favoriteMemory": "Receiving the watch as a birthday gift shortly after my engagement and recognising that it marked the beginning of a completely new chapter in my life.",
+        "reflection": "Today, I don't look at this watch through the lens of specifications or brand prestige. I see it as a reminder of a joyful period filled with excitement, family and new beginnings.",
+        "collectorReflection": "Some watches become valuable because of what they are. Others become priceless because of when they entered our lives."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 9,
+        "dailyWear": "Rare",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Chronograph",
+        "acquiredAsGift": true,
+        "country": "USA",
+        "brand": "Michael Kors",
+        "collectionTheme": "Family",
+        "lifeLesson": "New Beginnings",
+        "isMilestone": true,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "michael kors",
+          "ryker",
+          "mk8528",
+          "chronograph",
+          "engagement",
+          "birthday",
+          "gift",
+          "family",
+          "grey",
+          "quartz"
+        ]
+      },
+      "images": {
+  "folder": "TWK-004",
+  "cover": "TWK-004 cover.jpg",
+  "hero": "TWK-004 hero.jpg",
+  "thumbnail": "TWK-004 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-004 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-004 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-004 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-004 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The most meaningful milestones deserve to be remembered.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-005",
+      "catalogNumber": "TWK-005",
+      "chapter": {
+        "number": 5,
+        "title": "A Wedding to Remember",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Emporio Armani",
+        "collection": "Ceramica",
+        "displayName": "Emporio Armani Ceramica Renato Chronograph",
+        "model": "Ceramica Renato Chronograph",
+        "reference": "AR1452",
+        "countryOfOrigin": "Italy",
+        "countryCode": "ITA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Chronograph",
+        "caseDiameter": "43 mm",
+        "caseMaterial": "Stainless Steel coated with Black Ceramic",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Black",
+        "bezel": "Fixed Ceramic Bezel",
+        "originalStrap": "Black Ceramic Bracelet",
+        "currentStrap": "Black Ceramic Bracelet",
+        "lugWidth": null,
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2018,
+        "type": "Gift",
+        "from": "In-Laws",
+        "occasion": "Wedding",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Emporio Armani Ceramica Renato Chronograph",
+        "caption": "A reminder of one of the happiest days of my life.",
+        "milestone": "Wedding Gift",
+        "importance": 9
+      },
+      "story": {
+        "opening": "Some watches become special because of where they take you. Others because they remind you where your new life began.",
+        "background": "This Emporio Armani Ceramica Renato Chronograph was presented to me on my wedding day by my in-laws. By then, watches had already become an important part of my life, making the gift even more meaningful.",
+        "acquisition": "Finished in black ceramic, the watch immediately stood out from everything else I owned. Its sleek monochromatic design felt modern and elegant, making it perfectly suited to the occasion it represented.",
+        "experience": "Although it no longer receives regular wrist time, every time I open the watch box and see it, I'm reminded of my wedding day and everything that followed. It remains in excellent condition and continues to occupy an important place within the collection.",
+        "whyItMatters": "This watch isn't simply a wedding gift. It represents the beginning of married life and the memories that came with it.",
+        "favoriteMemory": "Wearing the watch on one of the most important days of my life and knowing it would always remind me of that occasion.",
+        "reflection": "As collectors, we often speak about watches marking moments in time. Few moments are as significant as the day you begin a new chapter with someone you love. This watch preserves that memory better than any photograph ever could.",
+        "collectorReflection": "Some watches measure hours. Others measure milestones."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 9,
+        "dailyWear": "Rare",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Dress",
+        "acquiredAsGift": true,
+        "country": "Italy",
+        "brand": "Emporio Armani",
+        "collectionTheme": "Marriage",
+        "lifeLesson": "Celebrate Life's Milestones",
+        "isMilestone": true,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "emporio armani",
+          "ar1452",
+          "ceramica",
+          "renato",
+          "chronograph",
+          "wedding",
+          "gift",
+          "ceramic",
+          "black",
+          "quartz"
+        ]
+      },
+      "images": {
+  "folder": "TWK-005",
+  "cover": "TWK-005 cover.jpg",
+  "hero": "TWK-005 hero.jpg",
+  "thumbnail": "TWK-005 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-005 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-005 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-005 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-005 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Some moments deserve to be remembered forever.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-006",
+      "catalogNumber": "TWK-006",
+      "chapter": {
+        "number": 6,
+        "title": "A Gift Chosen with Care",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Ted Baker",
+        "collection": null,
+        "displayName": "Ted Baker Small Seconds",
+        "model": "Small Seconds",
+        "reference": "TE15193006",
+        "countryOfOrigin": "United Kingdom",
+        "countryCode": "GBR"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": "44 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "White",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Brown Leather Strap",
+        "currentStrap": "Brown Leather Strap",
+        "lugWidth": null,
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2018,
+        "type": "Gift",
+        "from": "Elder Cousin",
+        "occasion": "Wedding",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Ted Baker Small Seconds",
+        "caption": "A thoughtful gift that carries the warmth of family.",
+        "milestone": "Wedding Gift",
+        "importance": 8
+      },
+      "story": {
+        "opening": "The best gifts are not always surprises. Sometimes they are the ones you are invited to choose yourself.",
+        "background": "Shortly after my wedding, my elder cousin wanted to gift both my wife and me something special. Instead of choosing for us, he asked us to select a watch we genuinely liked.",
+        "acquisition": "Among the many options, this Ted Baker immediately stood out. The crisp white dial, elegant small seconds display and striking brown leather strap gave it a character that was different from anything else in my collection. It felt refined without trying too hard.",
+        "experience": "Over the years, the watch has remained in good condition. While it doesn't receive as much wrist time today, every time I see it I remember the generosity behind the gift rather than the watch itself.",
+        "whyItMatters": "This watch represents the people who wanted us to begin married life with something meaningful that we had chosen ourselves.",
+        "favoriteMemory": "Shopping together with my wife while my cousin encouraged us to choose the watches we truly wanted, making the gift feel deeply personal.",
+        "reflection": "This watch reminds me that the thought behind a gift often matters far more than its value. It wasn't just a wedding present\u2014it was a gesture of kindness and affection that has stayed with me ever since.",
+        "collectorReflection": "The finest gifts are not those chosen for us, but those that allow us to express who we are."
+      },
+      "collectionNotes": {
+        "currentCondition": "Good",
+        "sentimentalRating": 8,
+        "dailyWear": "Rare",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Dress",
+        "acquiredAsGift": true,
+        "country": "United Kingdom",
+        "brand": "Ted Baker",
+        "collectionTheme": "Family",
+        "lifeLesson": "The Thought Behind the Gift Matters Most",
+        "isMilestone": false,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "ted baker",
+          "small seconds",
+          "te15193006",
+          "wedding",
+          "gift",
+          "family",
+          "white dial",
+          "blue strap",
+          "dress watch",
+          "quartz"
+        ]
+      },
+      "images": {
+  "folder": "TWK-006",
+  "cover": "TWK-006 cover.jpg",
+  "hero": "TWK-006 hero.jpg",
+  "thumbnail": "TWK-006 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-006 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-006 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-006 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-006 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The most meaningful gifts are the ones chosen with love.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-007",
+      "catalogNumber": "TWK-007",
+      "chapter": {
+        "number": 7,
+        "title": "The Surprise",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Daniel Wellington",
+        "collection": "Dapper",
+        "displayName": "Daniel Wellington Dapper",
+        "model": "Dapper",
+        "reference": "B38S9",
+        "countryOfOrigin": "Sweden",
+        "countryCode": "SWE" 
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": "38 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "White",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Brown Leather",
+        "currentStrap": "Brown Leather",
+        "lugWidth": null,
+        "waterResistance": "30 m"
+      },
+      "acquisition": {
+        "year": 2019,
+        "type": "Gift",
+        "from": "Wife",
+        "occasion": "Surprise Gift",
+        "purchaseLocation": "Daniel Wellington Boutique",
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Daniel Wellington Dapper",
+        "caption": "A reminder that the greatest surprises come from the people who know us best.",
+        "milestone": "First Watch Gifted by My Wife",
+        "importance": 10
+      },
+      "story": {
+        "opening": "Some watches remind us of a moment. This one reminds me of the person who created that moment.",
+        "background": "My wife and I were walking through a shopping mall with no intention of buying anything. We wandered into a Daniel Wellington boutique, where this watch immediately caught my eye. I casually mentioned that I liked it, and we continued walking through the mall.",
+        "acquisition": "A little later, she told me she was going to the washroom. After waiting longer than expected, I went looking for her. Instead of finding her outside the restroom, I found her inside the Daniel Wellington store, standing at the counter and paying for the watch. She had quietly gone back to buy it as a surprise.",
+        "experience": "I wore the watch regularly for many years. Its clean white dial, Roman numerals and blue hands gave it a timeless elegance that made it one of my favourite dress watches. Every time I fastened it to my wrist, I was reminded of that unexpected moment inside the boutique.",
+        "whyItMatters": "This isn't simply a watch from my wife. It is a reminder of the thoughtfulness behind an unexpected gesture and the joy of being truly known by someone.",
+        "favoriteMemory": "Walking into the boutique expecting to find my wife after a long wait and discovering that she was secretly buying the very watch I had admired only minutes earlier.",
+        "reflection": "Years later, the watch still represents much more than its minimalist design. It reminds me that love often reveals itself in the quietest gestures rather than the grandest occasions.",
+        "collectorReflection": "The finest surprises are the ones that show someone was listening, even when you didn't expect them to."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 10,
+        "dailyWear": "Occasional",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Dress",
+        "acquiredAsGift": true,
+        "country": "Sweden",
+        "brand": "Daniel Wellington",
+        "collectionTheme": "Marriage",
+        "lifeLesson": "Love Is Found in the Little Things",
+        "isMilestone": true,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "daniel wellington",
+          "dapper",
+          "b38s9",
+          "wife",
+          "surprise",
+          "gift",
+          "dress watch",
+          "white dial",
+          "roman numerals",
+          "quartz"
+        ]
+      },
+      "images": {
+  "folder": "TWK-007",
+  "cover": "TWK-007 cover.jpg",
+  "hero": "TWK-007 hero.jpg",
+  "thumbnail": "TWK-007 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-007 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-007 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-007 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-007 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The best surprises are the ones that come from the people who know us best.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-008",
+      "catalogNumber": "TWK-008",
+      "chapter": {
+        "number": 8,
+        "title": "The First Swiss",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Tissot",
+        "collection": "T-Sport",
+        "displayName": "Tissot V8 Chronograph",
+        "model": "V8 Chronograph",
+        "reference": "T106.417.36.031.00",
+        "countryOfOrigin": "Switzerland",
+        "countryCode": "CHE"
+      },
+      "technicalSpecifications": {
+        "movement": "Swiss Quartz Chronograph",
+        "caseDiameter": "42.5 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Sapphire Crystal",
+        "dialColor": "White",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Black Leather",
+        "currentStrap": "Black Leather",
+        "lugWidth": null,
+        "waterResistance": "100 m"
+      },
+      "acquisition": {
+        "year": 2022,
+        "type": "Gift",
+        "from": "Wife and Brothers-in-Law",
+        "occasion": "Birthday",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Tissot V8 Chronograph",
+        "caption": "My first Swiss watch, given as an unforgettable surprise.",
+        "milestone": "First Swiss Watch",
+        "importance": 10
+      },
+      "story": {
+        "opening": "Some surprises become memories for a lifetime.",
+        "background": "A few days after my birthday, we were planning to buy a watch for my brother-in-law's tenth wedding anniversary. I had asked my wife to help me choose a suitable gift(watch), completely unaware that she and her two brothers had other plans.",
+        "acquisition": "Instead of buying a watch for someone else, they decided to surprise me with my very first Swiss watch. On my birthday, they presented me with this Tissot V8 Chronograph. It was completely unexpected and made the occasion even more special.",
+        "experience": "Beyond being my first Swiss watch, it represented a significant milestone in my collecting journey. The sapphire crystal, refined finishing and understated sporty design showed me why Swiss watchmaking has earned its reputation. Every time I wear it, I remember not only the watch itself but also the generosity and thoughtfulness behind the gift.",
+        "whyItMatters": "This watch represents my entry into Swiss watchmaking and reminds me that some of the most meaningful milestones are the ones we never see coming.",
+        "favoriteMemory": "Opening the gift on my birthday and realising that my wife and her brothers had secretly planned to surprise me with my first Swiss watch.",
+        "reflection": "Many collectors remember their first Swiss watch because of the brand. I remember mine because of the people who placed it on my wrist. That is what makes it truly irreplaceable.",
+        "collectorReflection": "The finest milestones are not always achieved alone. Sometimes they are gifted by the people who want to celebrate your journey."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 10,
+        "dailyWear": "Occasional",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Chronograph",
+        "acquiredAsGift": true,
+        "country": "Switzerland",
+        "brand": "Tissot",
+        "collectionTheme": "Family",
+        "lifeLesson": "The Greatest Surprises Are Given With Love",
+        "isMilestone": true,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "tissot",
+          "v8",
+          "t1064173603100",
+          "swiss",
+          "first swiss",
+          "chronograph",
+          "birthday",
+          "surprise",
+          "gift",
+          "sapphire"
+        ]
+      },
+      "images": {
+  "folder": "TWK-008",
+  "cover": "TWK-008 cover.jpg",
+  "hero": "TWK-008 hero.jpg",
+  "thumbnail": "TWK-008 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-008 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-008 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-008 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-008 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The greatest surprises are the ones we never see coming.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-009",
+      "catalogNumber": "TWK-009",
+      "chapter": {
+        "number": 9,
+        "title": "Making It My Own",
+        "featured": false
+      },
+      "identity": {
+        "brand": "Casio",
+        "collection": "Standard",
+        "displayName": "Casio MTP-VD02BL-2EUDF",
+        "model": "MTP-VD02BL-2EUDF",
+        "reference": "MTP-VD02BL-2EUDF",
+        "countryOfOrigin": "Japan",
+        "countryCode": "JPN"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": "41 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Blue Sunburst",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Blue Synthetic Leather",
+        "currentStrap": "Red Leather Strap",
+        "lugWidth": null,
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2024,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Dress Watch",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Casio MTP-VD02BL-2EUDF",
+        "caption": "A simple Casio that became uniquely mine.",
+        "milestone": "Modern Dress Watch",
+        "importance": 8
+      },
+      "story": {
+        "opening": "Not every watch needs to be expensive to feel special.",
+        "background": "I was looking for a simple Casio dress watch that I could wear regularly. Among the many options, this model stood out because of its beautiful blue sunburst dial. It offered exactly the clean and understated look I wanted.",
+        "acquisition": "Although the watch came with a blue synthetic leather strap, I never really liked the straps Casio paired with its dress watches. Soon after buying it, I replaced it with a red leather strap. That single change completely transformed the watch and gave it a personality of its own.",
+        "experience": "Since then, it has become one of my most frequently worn dress watches. The strap now shows honest signs of wear, reflecting just how often it has accompanied me. Every crease in the leather reminds me that this watch was bought to be enjoyed rather than preserved.",
+        "whyItMatters": "This watch taught me that collecting isn't only about buying watches. It's also about making them your own.",
+        "favoriteMemory": "Seeing how dramatically the watch changed after replacing the original strap with the red leather strap.",
+        "reflection": "Sometimes the smallest modification can completely change how a watch feels on the wrist. Personalisation allowed this affordable Casio to become something uniquely mine.",
+        "collectorReflection": "A collection reflects its owner best when it carries small personal touches that no catalogue can provide."
+      },
+      "collectionNotes": {
+        "currentCondition": "Well Worn",
+        "sentimentalRating": 8,
+        "dailyWear": "Frequent",
+        "wouldSell": false,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Dress",
+        "acquiredAsGift": false,
+        "country": "Japan",
+        "brand": "Casio",
+        "collectionTheme": "Personalisation",
+        "lifeLesson": "Make It Your Own",
+        "isMilestone": false,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "casio",
+          "mtp-vd02bl-2eudf",
+          "dress watch",
+          "blue sunburst",
+          "red leather strap",
+          "strap change",
+          "quartz",
+          "2024"
+        ]
+      },
+      "images": {
+  "folder": "TWK-009",
+  "cover": "TWK-009 cover.jpg",
+  "hero": "TWK-009 hero.jpg",
+  "thumbnail": "TWK-009 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-009 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-009 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-009 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-009 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Sometimes making a watch your own is the most rewarding modification of all.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-010",
+      "catalogNumber": "TWK-010",
+      "chapter": {
+        "number": 10,
+        "title": "A Gift Worth Waiting For",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Timex",
+        "collection": "Weekender",
+        "displayName": "Timex Weekender Chronograph",
+        "model": "Weekender Chronograph",
+        "reference": "TW2P97400",
+        "countryOfOrigin": "USA",
+        "countryCode": "USA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Chronograph",
+        "caseDiameter": "40 mm",
+        "caseMaterial": "Brass",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Green",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Tan Leather NATO Strap",
+        "currentStrap": "Tan Leather NATO Strap",
+        "lugWidth": "20 mm",
+        "waterResistance": "30 m"
+      },
+      "acquisition": {
+        "year": 2024,
+        "type": "Gift",
+        "from": "Friend",
+        "occasion": "Purchased During His Trip to the United States",
+        "purchaseLocation": "United States",
+        "country": "USA",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Timex Weekender Chronograph",
+        "caption": "The first watch I deliberately researched before buying\u2014and one that became an unexpected gift.",
+        "milestone": "First International Purchase",
+        "importance": 9
+      },
+      "story": {
+        "opening": "This was the first watch I truly chased.",
+        "background": "Until this point, most of my watches had been bought because I liked them or had been gifted to me. This was different. I researched prices, compared markets and discovered that the most affordable way to buy this Timex Weekender Chronograph was from the United States.",
+        "acquisition": "A close friend was visiting from US, so I asked him if he could bring the watch back for me. I told him I would pay him once he returned to India. When he finally handed me the watch, he refused to accept any money. Instead, he simply smiled and said, 'This is a gift from me.'",
+        "experience": "I had spent weeks looking forward to owning the watch, and it completely lived up to my expectations. The green dial, the clean field-watch styling and the leather NATO strap made it unlike anything else in my collection. It quickly became my preferred field watch and remains one of the easiest watches to wear.",
+        "whyItMatters": "This watch marks the point where I became a more informed collector. It also reminds me that the greatest value of a watch often comes from the generosity behind it.",
+        "favoriteMemory": "Offering to pay my friend for the watch and watching him refuse, insisting that it was his gift to me.",
+        "reflection": "Every time I wear this watch, I remember not only the excitement of finally owning it but also the friendship that made it even more meaningful.",
+        "collectorReflection": "The journey a watch takes before it reaches your wrist can become just as important as the watch itself."
+      },
+      "collectionNotes": {
+        "currentCondition": "Great",
+        "sentimentalRating": 9,
+        "dailyWear": "Regular",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Field",
+        "acquiredAsGift": true,
+        "country": "USA",
+        "brand": "Timex",
+        "collectionTheme": "Friendship",
+        "lifeLesson": "Kindness Makes Every Gift Priceless",
+        "isMilestone": true,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "timex",
+          "weekender",
+          "chronograph",
+          "tw2p97400",
+          "green dial",
+          "field watch",
+          "friend",
+          "gift",
+          "usa",
+          "quartz"
+        ]
+      },
+      "images": {
+  "folder": "TWK-010",
+  "cover": "TWK-010 cover.jpg",
+  "hero": "TWK-010 hero.jpg",
+  "thumbnail": "TWK-010 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-010 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-010 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-010 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-010 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Sometimes the best gifts are the ones we planned to buy ourselves.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-011",
+      "catalogNumber": "TWK-011",
+      "chapter": {
+        "number": 11,
+        "title": "The Watch That Grew on Me",
+        "featured": false
+      },
+      "identity": {
+        "brand": "Casio",
+        "collection": "Vintage",
+        "displayName": "Casio A168WGG-1BDF",
+        "model": "A168WGG-1BDF",
+        "reference": "A168WGG-1BDF",
+        "countryOfOrigin": "Japan",
+        "countryCode": "JPN"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Digital",
+        "caseDiameter": "36 mm",
+        "caseMaterial": "Resin Case with Gunmetal Finish",
+        "crystal": "Resin Crystal",
+        "dialColor": "Negative LCD Display",
+        "bezel": "Resin",
+        "originalStrap": "Gunmetal Stainless Steel Bracelet",
+        "currentStrap": "Gunmetal Stainless Steel Bracelet",
+        "lugWidth": null,
+        "waterResistance": "30 m"
+      },
+      "acquisition": {
+        "year": 2024,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Casual Weekend Watch",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Casio A168WGG-1BDF",
+        "caption": "A watch that taught me that first impressions aren't always the right ones.",
+        "milestone": "First Vintage Digital Watch",
+        "importance": 6
+      },
+      "story": {
+        "opening": "Sometimes appreciation takes time.",
+        "background": "I had been looking for a vintage Casio digital watch. The F-91W felt a little too small for my wrist, while the A158 never appealed to me because of its bracelet. The A168 offered the perfect balance, and its negative display ultimately became the deciding factor.",
+        "acquisition": "Even after buying it, I wasn't completely convinced. On my first few wears, I questioned whether I had made the right decision. It looked different from the rest of my collection and took some getting used to.",
+        "experience": "Over time, something changed. The more I wore it, the more I appreciated its charm. What initially felt unfamiliar gradually became one of my favourite weekend watches. Today, it accompanies me regularly on casual outings and has become one of the easiest watches to wear without thinking twice.",
+        "whyItMatters": "This watch reminded me that not every purchase creates an instant connection. Some watches quietly earn their place over time.",
+        "favoriteMemory": "Realising one weekend that I had instinctively reached for it without even considering another watch.",
+        "reflection": "Collectors often chase immediate excitement, but this Casio taught me that appreciation sometimes grows slowly. The watches that surprise us often become the ones we enjoy the most.",
+        "collectorReflection": "Not every great watch makes a great first impression. Some simply ask for a little patience."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 6,
+        "dailyWear": "Weekends",
+        "wouldSell": false,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz Digital",
+        "category": "Digital",
+        "acquiredAsGift": false,
+        "country": "Japan",
+        "brand": "Casio",
+        "collectionTheme": "Discovery",
+        "lifeLesson": "Some Things Grow on You",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "casio",
+          "a168",
+          "vintage",
+          "digital",
+          "negative display",
+          "gunmetal",
+          "weekend watch",
+          "quartz"
+        ]
+      },
+      "images": {
+  "folder": "TWK-011",
+  "cover": "TWK-011 cover.jpg",
+  "hero": "TWK-011 hero.jpg",
+  "thumbnail": "TWK-011 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-011 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-011 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-011 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-011 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The best relationships are sometimes the ones that take time to develop.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-012",
+      "catalogNumber": "TWK-012",
+      "chapter": {
+        "number": 12,
+        "title": "The Honest Workhorse",
+        "featured": false
+      },
+      "identity": {
+        "brand": "Casio",
+        "collection": "Standard",
+        "displayName": "Casio MRW200H-2BV",
+        "model": "MRW200H-2BV",
+        "reference": "MRW200H-2BV",
+        "countryOfOrigin": "Japan",
+        "countryCode": "JPN"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": "44 mm",
+        "caseMaterial": "Resin Case and Bezel",
+        "crystal": "Resin Crystal",
+        "dialColor": "Blue",
+        "bezel": "Bi-directional Resin Bezel",
+        "originalStrap": "Black Resin Strap",
+        "currentStrap": "Aftermarket Plastic Strap",
+        "lugWidth": "18 mm",
+        "waterResistance": "100 m"
+      },
+      "acquisition": {
+        "year": 2024,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Beater Watch",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Casio MRW200H-2BV",
+        "caption": "A dependable companion built for the days when practicality matters most.",
+        "milestone": "Dedicated Beater Watch",
+        "importance": 8
+      },
+      "story": {
+        "opening": "Not every watch is bought to be admired. Some are bought to be trusted.",
+        "background": "I wanted a watch that I could wear without hesitation. Something inexpensive, dependable and capable of handling situations where I wouldn't want to risk damaging my other watches.",
+        "acquisition": "The Casio MRW200H was the obvious choice. It offered everything I needed\u2014excellent water resistance, outstanding reliability and a price that encouraged me to wear it freely rather than worry about it.",
+        "experience": "This watch has seen rain, outdoor activities, water and the kind of everyday abuse that would make me think twice about wearing many other watches. It has never let me down. The original resin strap was eventually replaced with an aftermarket plastic strap, but the watch continues to perform exactly as it always has. Its honest signs of wear are proof that it has fulfilled the role it was purchased for.",
+        "whyItMatters": "This watch taught me that reliability often matters far more than luxury. It has always done exactly what I asked of it.",
+        "favoriteMemory": "Reaching for it without a second thought whenever the weather looked bad or the day promised to be rough on a watch.",
+        "reflection": "The MRW200H will never be the most expensive watch in my collection, nor the rarest. Yet it earns my respect every time I wear it because it has never once failed to do its job.",
+        "collectorReflection": "Every collection needs at least one watch that asks for nothing except to be worn."
+      },
+      "collectionNotes": {
+        "currentCondition": "Honest Wear",
+        "sentimentalRating": 8,
+        "dailyWear": "Frequent",
+        "wouldSell": false,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Dive",
+        "acquiredAsGift": false,
+        "country": "Japan",
+        "brand": "Casio",
+        "collectionTheme": "Utility",
+        "lifeLesson": "Reliability Is a Virtue",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "casio",
+          "mrw200h",
+          "beater",
+          "outdoor",
+          "100m",
+          "resin",
+          "blue",
+          "quartz",
+          "daily wear"
+        ]
+      },
+      "images": {
+  "folder": "TWK-012",
+  "cover": "TWK-012 cover.jpg",
+  "hero": "TWK-012 hero.jpg",
+  "thumbnail": "TWK-012 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-012 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-012 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-012 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-012 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The watches we trust the most are often the ones we worry about the least.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-013",
+      "catalogNumber": "TWK-013",
+      "chapter": {
+        "number": 13,
+        "title": "Inspired by the Golden Age",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Timex",
+        "collection": "Q",
+        "displayName": "Timex Q Chronograph",
+        "model": "Q Chronograph",
+        "reference": "TW2W51800UJ",
+        "countryOfOrigin": "USA",
+        "countryCode": "USA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Chronograph",
+        "caseDiameter": "40 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Domed Mineral Crystal",
+        "dialColor": "Salmon",
+        "bezel": "Fixed Tachymeter Bezel",
+        "originalStrap": "Brown Leather",
+        "currentStrap": "Brown Leather",
+        "lugWidth": "20 mm",
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2025,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Vintage Racing Inspired Chronograph",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Timex Q Chronograph",
+        "caption": "A modern chronograph inspired by the golden era of motorsport.",
+        "milestone": "Vintage Racing Chronograph",
+        "importance": 7
+      },
+      "story": {
+        "opening": "Not every watch looks forward. Some celebrate the past.",
+        "background": "As my collection evolved, I found myself becoming increasingly drawn to watches with history and character. Vintage racing chronographs had always fascinated me, and when Timex introduced the Q Chronograph, it immediately captured my attention.",
+        "acquisition": "It wasn't just the design that appealed to me. The warm salmon dial gave the watch a personality unlike anything else in my collection. Combined with the domed crystal and classic panda-inspired layout, it perfectly captured the charm of vintage motorsport chronographs while remaining unmistakably modern.",
+        "experience": "From the moment it arrived, I knew I had made the right decision. The watch exceeded my expectations and quickly became one of the most visually interesting pieces in my collection. Every time I wear it, I appreciate the way Timex managed to blend heritage with modern reliability.",
+        "whyItMatters": "This watch represents the point where I began appreciating the inspiration behind a watch as much as the watch itself.",
+        "favoriteMemory": "Opening the box for the first time and seeing the salmon dial come alive under natural light.",
+        "reflection": "The Timex Q Chronograph reminds me that good design never goes out of fashion. The best watches often honour the past while remaining completely relevant today.",
+        "collectorReflection": "A watch doesn't need decades of history to feel timeless. Sometimes it simply needs to respect the history that came before it."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 6,
+        "dailyWear": "Occasional",
+        "wouldSell": false,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Chronograph",
+        "acquiredAsGift": false,
+        "country": "USA",
+        "brand": "Timex",
+        "collectionTheme": "Design",
+        "lifeLesson": "Great Design Is Timeless",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "timex",
+          "q",
+          "chronograph",
+          "tw2w51800uj",
+          "salmon",
+          "racing",
+          "vintage",
+          "tachymeter",
+          "quartz"
+        ]
+      },
+      "images": {
+  "folder": "TWK-013",
+  "cover": "TWK-013 cover.jpg",
+  "hero": "TWK-013 hero.jpg",
+  "thumbnail": "TWK-013 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-013 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-013 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-013 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-013 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The past has a way of inspiring the watches we love today.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-014",
+      "catalogNumber": "TWK-014",
+      "chapter": {
+        "number": 14,
+        "title": "The World on My Wrist",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Casio",
+        "collection": "Collection",
+        "displayName": "Casio AE1200WHL-5AVDF",
+        "model": "AE1200WHL-5AVDF",
+        "reference": "AE1200WHL-5AVDF",
+        "countryOfOrigin": "Japan",
+        "countryCode": "JPN"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Digital",
+        "caseDiameter": "43 mm",
+        "caseMaterial": "Resin",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Grey Digital Display",
+        "bezel": "Fixed Resin Bezel",
+        "originalStrap": "Brown Leather",
+        "currentStrap": "Brown Leather",
+        "lugWidth": "18 mm",
+        "waterResistance": "100 m"
+      },
+      "acquisition": {
+        "year": 2025,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Travel Watch",
+        "purchaseLocation": "Dubai",
+        "country": "United Arab Emirates",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Casio AE1200WHL-5AVDF",
+        "caption": "A modern icon built for travellers, explorers and dreamers.",
+        "milestone": "The Travel Watch",
+        "importance": 8
+      },
+      "story": {
+        "opening": "Some watches are admired because of luxury. Others because they simply do everything brilliantly.",
+        "background": "Long before I owned it, I already knew about the Casio AE1200. Among enthusiasts it had earned the nickname 'Casio Royale' because of its unmistakable design. I had always admired it and knew that one day it would become part of my collection.",
+        "acquisition": "When the leather strap version became available, it still hadn't officially launched in India. Rather than wait, I paid a premium to have one brought back from Dubai. For me, the additional cost was worth it because I wanted this exact version.",
+        "experience": "The watch immediately justified the wait. The world time function, ten-year battery, 100 metres of water resistance and unmistakable design made it one of the most practical watches I own. It has become my dedicated travel watch and one that I reach for whenever functionality matters as much as style.",
+        "whyItMatters": "This watch perfectly represents what Casio does best\u2014creating practical, dependable watches that become legends without trying to be luxurious.",
+        "favoriteMemory": "Finally holding the leather strap version after waiting for it and knowing it had travelled from Dubai because it wasn't yet available in India.",
+        "reflection": "There are watches that impress through craftsmanship and there are watches that impress through intelligent design. The AE1200 belongs firmly in the second category and proves that usefulness can be just as satisfying as luxury.",
+        "collectorReflection": "A truly great watch isn't measured by its price. It's measured by how often you instinctively reach for it."
+      },
+      "collectionNotes": {
+        "currentCondition": "Great",
+        "sentimentalRating": 6,
+        "dailyWear": "Regular",
+        "wouldSell": false,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz Digital",
+        "category": "Digital",
+        "acquiredAsGift": false,
+        "country": "Japan",
+        "brand": "Casio",
+        "collectionTheme": "Travel",
+        "lifeLesson": "Practicality Never Goes Out of Style",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "casio",
+          "ae1200",
+          "casio royale",
+          "world time",
+          "travel watch",
+          "10 year battery",
+          "dubai",
+          "digital",
+          "quartz"
+        ]
+      },
+     "images": {
+  "folder": "TWK-014",
+  "cover": "TWK-014 cover.jpg",
+  "hero": "TWK-014 hero.jpg",
+  "thumbnail": "TWK-014 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-014 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-014 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-014 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-014 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The best travel companion is the one that never asks for attention.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-015",
+      "catalogNumber": "TWK-015",
+      "chapter": {
+        "number": 15,
+        "title": "Sometimes Someone Else Knows Better",
+        "featured": false
+      },
+      "identity": {
+        "brand": "Sonata",
+        "collection": "Poze",
+        "displayName": "Sonata Poze",
+        "model": "Poze",
+        "reference": "SP70050SP01W",
+        "countryOfOrigin": "India",
+        "countryCode": "IND"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": "42 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Blue",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Blue Silicone Strap",
+        "currentStrap": "Blue Silicone Strap",
+        "lugWidth": null,
+        "waterResistance": "30 m"
+      },
+      "acquisition": {
+        "year": 2025,
+        "type": "Gift",
+        "from": "Wife",
+        "occasion": "Casual Gift",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Sonata Poze",
+        "caption": "A simple watch that reminds me that good choices are sometimes made for us.",
+        "milestone": "Everyday Beater",
+        "importance": 6
+      },
+      "story": {
+        "opening": "Not every watch in a collection is chosen by the collector.",
+        "background": "When my wife decided to gift me this watch, I already had my eyes on the green version. Green had become one of my favourite dial colours, and naturally that was the one I wanted.",
+        "acquisition": "She looked at my collection and simply said, 'You already have too many green watches.' Instead, she chose the blue version. At first, I wasn't entirely convinced, but I trusted her judgement.",
+        "experience": "The more I wore the watch, the more I appreciated her decision. The blue dial brought variety to my collection and quickly became a dependable everyday beater. It is comfortable, practical and has proven to be exactly the kind of watch I can wear without giving it a second thought.",
+        "whyItMatters": "This watch reminds me that collecting is sometimes about balance rather than simply buying another version of what you already love.",
+        "favoriteMemory": "Hearing my wife's reasoning for choosing the blue dial instead of the green one I originally wanted.",
+        "reflection": "Looking back, I think she made the right decision. The blue dial filled a gap in my collection that I probably wouldn't have noticed myself. Every collection benefits from a different perspective.",
+        "collectorReflection": "Sometimes the best additions to a collection are the ones we didn't choose ourselves."
+      },
+      "collectionNotes": {
+        "currentCondition": "Great",
+        "sentimentalRating": 6,
+        "dailyWear": "Regular",
+        "wouldSell": true,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "May Sell"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Everyday",
+        "acquiredAsGift": true,
+        "country": "India",
+        "brand": "Sonata",
+        "collectionTheme": "Everyday Wear",
+        "lifeLesson": "A Different Perspective Can Improve a Collection",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "sonata",
+          "poze",
+          "sp70050sp01w",
+          "blue",
+          "gift",
+          "wife",
+          "beater",
+          "india",
+          "quartz"
+        ]
+      },
+     "images": {
+  "folder": "TWK-015",
+  "cover": "TWK-015 cover.jpg",
+  "hero": "TWK-015 hero.jpg",
+  "thumbnail": "TWK-015 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-015 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-015 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-015 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-015 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Sometimes the watch you need isn't the one you would have chosen.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-016",
+      "catalogNumber": "TWK-016",
+      "chapter": {
+        "number": 16,
+        "title": "The One I Never Planned to Own",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Omega x Swatch",
+        "collection": "Bioceramic MoonSwatch",
+        "displayName": "Mission to Saturn",
+        "model": "Mission to Saturn",
+        "reference": "SO33T100",
+        "countryOfOrigin": "Switzerland",
+        "countryCode": "CHE"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Chronograph",
+        "caseDiameter": "42 mm",
+        "caseMaterial": "Bioceramic",
+        "crystal": "Domed Biosourced Crystal",
+        "dialColor": "Brown",
+        "bezel": "Bioceramic Tachymeter Bezel",
+        "originalStrap": "Brown Velcro Strap",
+        "currentStrap": "Brown Rally Leather Strap",
+        "lugWidth": "20 mm",
+        "waterResistance": "30 m"
+      },
+      "acquisition": {
+        "year": 2025,
+        "type": "Gift",
+        "from": "Brother-in-Law",
+        "occasion": "A Thank You Gift",
+        "purchaseLocation": "Swatch Store, Sydney",
+        "country": "Australia",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Omega x Swatch Mission to Saturn",
+        "caption": "A watch I never intended to own, but one that became part of my story.",
+        "milestone": "Unexpected Gift",
+        "importance": 9
+      },
+      "story": {
+        "opening": "The best additions to a collection are sometimes the ones you never planned for.",
+        "background": "Unlike many collectors, I was never particularly interested in owning a MoonSwatch. I appreciated what the collection represented, but I never felt the urge to buy one for myself.",
+        "acquisition": "My brother-in-law, who lives in Australia, wanted to thank me after I had gifted him a Casio watch that he had admired on my wrist. While visiting the Swatch Boutique in Sydney, he called and gave me a choice between Mission to Mercury and Mission to Saturn. He was leaning towards Mercury, so I chose Saturn. That simple conversation made the watch feel personal before it had even reached my wrist.",
+        "experience": "After receiving the watch, I replaced the original brown Velcro strap with a brown rally leather strap, giving it a more classic appearance that better suited my taste. Although it isn't one of my most frequently worn watches, I genuinely enjoy having it in the collection because every time I see it, I remember the thoughtfulness behind the gift rather than the hype surrounding the MoonSwatch itself.",
+        "whyItMatters": "This watch reminds me that the story behind a watch will always matter more than the watch itself.",
+        "favoriteMemory": "Receiving the call from Australia and choosing Saturn while my brother-in-law chose Mercury for himself.",
+        "reflection": "If I had been shopping for myself, I probably would never have bought a MoonSwatch. Yet today, I cannot imagine my collection without it. Some watches find their way into a collection for reasons far more meaningful than personal desire.",
+        "collectorReflection": "Collectors often chase watches they want. Sometimes the most meaningful watch is the one that quietly chooses you."
+      },
+      "collectionNotes": {
+        "currentCondition": "Good",
+        "sentimentalRating": 9,
+        "dailyWear": "Occasional",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Sports",
+        "acquiredAsGift": true,
+        "country": "Switzerland",
+        "brand": "Omega x Swatch",
+        "collectionTheme": "Family",
+        "lifeLesson": "The Story Behind a Watch Matters More Than the Watch",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": true,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "moonswatch",
+          "omega",
+          "swatch",
+          "mission to saturn",
+          "so33t100",
+          "sydney",
+          "australia",
+          "gift",
+          "brother in law",
+          "bioceramic"
+        ]
+      },
+      "images": {
+  "folder": "TWK-016",
+  "cover": "TWK-016 cover.jpg",
+  "hero": "TWK-016 hero.jpg",
+  "thumbnail": "TWK-016 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-016 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-016 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-016 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-016 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The watches we never planned to own sometimes become the ones with the best stories.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-017",
+      "catalogNumber": "TWK-017",
+      "chapter": {
+        "number": 17,
+        "title": "Learning to Slow Down",
+        "featured": true
+      },
+      "identity": {
+        "brand": "HMT",
+        "collection": "Janata",
+        "displayName": "HMT Janata (Citizen Collaboration)",
+        "model": "Janata",
+        "reference": null,
+        "countryOfOrigin": "India",
+        "countryCode": "IND"
+      },
+      "technicalSpecifications": {
+        "movement": "Hand-Wound Mechanical",
+        "caseDiameter": "35 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Red (Repainted Dial with Arabic Numerals)",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": null,
+        "currentStrap": "Black Leather Strap",
+        "lugWidth": "18 mm",
+        "waterResistance": null
+      },
+      "acquisition": {
+        "year": 2025,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "First Hand-Wound Mechanical Watch",
+        "purchaseLocation": "Online MOD Watch Seller",
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "HMT Janata (Citizen Collaboration)",
+        "caption": "The watch that introduced me to the rhythm of mechanical time.",
+        "milestone": "First Hand-Wound Watch",
+        "importance": 9
+      },
+      "story": {
+        "opening": "Some watches ask for nothing more than a battery. Others ask for your attention every single day.",
+        "background": "I had always wanted a red dial in my collection, and when I found this HMT Janata with Arabic numerals, it immediately caught my eye. Although it featured a repainted dial, I appreciated its unique appearance. I also knew that HMT had collaborated with Citizen in the early years of its history, which made owning a Janata even more meaningful.",
+        "acquisition": "I purchased the watch from an online seller specialising in modified HMT watches. While the red dial was the main attraction, the Arabic numerals gave it an identity unlike any other watch I owned.",
+        "experience": "More important than the appearance was what happened after I started wearing it. This became my first hand-wound mechanical watch. Every morning I found myself winding it before putting it on. I loved the fact that if I neglected it, it would simply stop keeping the correct time. Unlike a quartz watch, it demanded a relationship with its owner. That simple daily ritual changed the way I thought about mechanical watches forever.",
+        "whyItMatters": "This watch introduced me to the idea that a watch can be more than a tool. It can be something that asks for care in return for keeping time.",
+        "favoriteMemory": "Realising that winding the watch each morning quickly became something I genuinely looked forward to rather than a chore.",
+        "reflection": "As my collection continued to grow, this watch eventually found a new home. I passed it on to my younger cousin, who had just begun his own journey into watch collecting. It felt fitting that the watch which introduced me to hand-wound movements would now inspire someone else in the same way.",
+        "collectorReflection": "Every collection should inspire another. Sometimes the greatest legacy of a watch is the passion it awakens in its next owner."
+      },
+      "collectionNotes": {
+        "currentCondition": "Gifted to Family",
+        "sentimentalRating": 8,
+        "dailyWear": "No Longer Owned",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Gifted"
+      },
+      "ownership": {
+        "currentOwner": "Younger Cousin",
+        "ownershipStatus": "Gifted",
+        "futureDisposition": "Passed On"
+      },
+      "analytics": {
+        "movementType": "Hand-Wound Mechanical",
+        "category": "Dress",
+        "acquiredAsGift": false,
+        "country": "India",
+        "brand": "HMT",
+        "collectionTheme": "Mechanical Journey",
+        "lifeLesson": "The Best Watches Ask for Your Time in Return",
+        "isMilestone": true,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": true,
+        "isQuartz": false
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "hmt",
+          "janata",
+          "citizen collaboration",
+          "hand wound",
+          "mechanical",
+          "red dial",
+          "arabic numerals",
+          "india",
+          "first mechanical"
+        ]
+      },
+      "images": {
+  "folder": "TWK-017",
+  "cover": "TWK-017 cover.jpg",
+  "hero": "TWK-017 hero.jpg",
+  "thumbnail": "TWK-017 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-017 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-017 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-017 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-017 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The finest watches don't just keep time\u2014they teach patience.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-018",
+      "catalogNumber": "TWK-018",
+      "chapter": {
+        "number": 18,
+        "title": "An Unplanned Sunday",
+        "featured": true
+      },
+      "identity": {
+        "brand": "HMT",
+        "collection": "Tareeq",
+        "displayName": "HMT Tareeq Quartz",
+        "model": "Tareeq Quartz",
+        "reference": null,
+        "countryOfOrigin": "India",
+        "countryCode": "IND"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": "35.84 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Sunray Blue",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Folded Stainless Steel Bracelet",
+        "currentStrap": "Leather Strap / Milanese Mesh Bracelet",
+        "lugWidth": "18 mm",
+        "waterResistance": "30 m"
+      },
+      "acquisition": {
+        "year": 2025,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Visit to the HMT Museum",
+        "purchaseLocation": "HMT Museum Store, Bengaluru",
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "HMT Tareeq Quartz",
+        "caption": "A spontaneous purchase that rekindled my appreciation for HMT.",
+        "milestone": "First Watch Purchased at the HMT Museum",
+        "importance": 8
+      },
+      "story": {
+        "opening": "The best discoveries are sometimes made without a plan.",
+        "background": "It was a quiet Sunday afternoon, and I found myself looking for something to do. On a whim, I decided to visit the HMT Museum in Bengaluru. I had no intention of buying a watch that day\u2014I simply wanted to explore a piece of Indian watchmaking history.",
+        "acquisition": "As I browsed through the museum store, this HMT Tareeq immediately caught my eye. The sunray blue dial was understated yet elegant, and I found myself walking out with a watch I hadn't planned to buy only an hour earlier.",
+        "experience": "One of the details I enjoy most about this watch is the way the dial changes character throughout the day. Depending on the lighting, it can appear subtle and restrained or bright and full of life. I eventually replaced the original folded steel bracelet with either a leather strap or a Milanese mesh bracelet, both of which suit the watch beautifully.",
+        "whyItMatters": "This watch reminds me that some of the most satisfying purchases are the ones that happen naturally, without months of planning or research.",
+        "favoriteMemory": "Walking into the HMT Museum simply to spend a Sunday afternoon and leaving with a watch that had immediately earned a place in my collection.",
+        "reflection": "As my collection has continued to evolve, this watch has found itself competing with my HMT Tareeq Mechanical. Because of that, I may eventually part with it. Even if that happens, it will always represent a memorable afternoon and a reminder that collecting should remain enjoyable and spontaneous.",
+        "collectorReflection": "Not every meaningful watch is planned. Sometimes the collection chooses the collector."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 7,
+        "dailyWear": "Occasional",
+        "wouldSell": true,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "May Sell"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Dress",
+        "acquiredAsGift": false,
+        "country": "India",
+        "brand": "HMT",
+        "collectionTheme": "Discovery",
+        "lifeLesson": "Leave Room for Spontaneity",
+        "isMilestone": true,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "hmt",
+          "tareeq",
+          "quartz",
+          "museum",
+          "bengaluru",
+          "sunray blue",
+          "india",
+          "dress watch",
+          "mesh bracelet"
+        ]
+      },
+     "images": {
+  "folder": "TWK-018",
+  "cover": "TWK-018 cover.jpg",
+  "hero": "TWK-018 hero.jpg",
+  "thumbnail": "TWK-018 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-018 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-018 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-018 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-018 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Some of the best days begin with no plan at all.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-019",
+      "catalogNumber": "TWK-019",
+      "chapter": {
+        "number": 19,
+        "title": "The First Automatic",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Timex",
+        "collection": "Marlin",
+        "displayName": "Timex Marlin Automatic",
+        "model": "Marlin Automatic",
+        "reference": "TW2W93100UJ",
+        "countryOfOrigin": "USA",
+        "countryCode": "USA"
+      },
+      "technicalSpecifications": {
+        "movement": "Automatic",
+        "caseDiameter": "40 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Dark Blue",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": "Black Leather Strap",
+        "currentStrap": "Jubilee Stainless Steel Bracelet",
+        "lugWidth": "20 mm",
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2026,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "First Automatic Watch",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Timex Marlin Automatic",
+        "caption": "The watch that introduced me to the world of automatic movements.",
+        "milestone": "First Automatic Watch",
+        "importance": 10
+      },
+      "story": {
+        "opening": "Every collector remembers their first automatic watch. This one will always be mine.",
+        "background": "When I decided it was finally time to buy my first automatic watch, I spent weeks researching the options. I compared watches from Alba, Invicta and several smaller brands, trying to find the best balance between quality, design and value.",
+        "acquisition": "Although there were less expensive choices available, I kept coming back to the Timex Marlin. Eventually, I decided to stretch my budget rather than settle for something I wasn't completely convinced about. Looking back, it was the right decision.",
+        "experience": "The deep blue dial, vintage-inspired design and smooth automatic movement immediately made the watch feel special. I later replaced the original black leather strap with a Jubilee bracelet, giving it a completely different personality while retaining everything I loved about the watch itself. More importantly, it became the first automatic movement I owned and the watch that deepened my appreciation for traditional mechanical watchmaking.",
+        "whyItMatters": "This watch marks one of the biggest milestones in my collecting journey\u2014the transition from quartz watches to automatic movements.",
+        "favoriteMemory": "Putting on my first automatic watch and feeling the smooth sweep of the seconds hand, knowing I had finally reached a milestone I had been looking forward to for years.",
+        "reflection": "Every collection has defining moments. Buying my first automatic was one of them. It wasn't simply another watch; it represented a new chapter in how I appreciated horology.",
+        "collectorReflection": "The first automatic watch doesn't just change your collection. It changes the way you look at every watch that follows."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 10,
+        "dailyWear": "Regular",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Automatic",
+        "category": "Vintage Inspired",
+        "acquiredAsGift": false,
+        "country": "USA",
+        "brand": "Timex",
+        "collectionTheme": "Mechanical Journey",
+        "lifeLesson": "Some Milestones Are Worth Waiting For",
+        "isMilestone": true,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": true,
+        "isMechanical": true,
+        "isQuartz": false
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "timex",
+          "marlin",
+          "automatic",
+          "tw2w93100uj",
+          "first automatic",
+          "blue dial",
+          "jubilee bracelet",
+          "mechanical",
+          "india"
+        ]
+      },
+      "images": {
+  "folder": "TWK-019",
+  "cover": "TWK-019 cover.jpg",
+  "hero": "TWK-019 hero.jpg",
+  "thumbnail": "TWK-019 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-019 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-019 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-019 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-019 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The first automatic watch doesn't just tell time\u2014it marks a new chapter in a collector's journey.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-020",
+      "catalogNumber": "TWK-020",
+      "chapter": {
+        "number": 20,
+        "title": "A Dream Realised",
+        "featured": true
+      },
+      "identity": {
+        "brand": "Seiko",
+        "collection": "Prospex",
+        "displayName": "Seiko Prospex PADI 60th Anniversary",
+        "model": "Prospex PADI Diver",
+        "reference": "SRPL53K1",
+        "countryOfOrigin": "Japan",
+        "countryCode": "JPN"
+      },
+      "technicalSpecifications": {
+        "movement": "Automatic",
+        "calibre": "Seiko 4R36",
+        "caseDiameter": "41.7 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Sapphire Crystal",
+        "dialColor": "Green Gradient with Wave Texture",
+        "bezel": "Green Unidirectional Dive Bezel",
+        "originalStrap": "Stainless Steel Bracelet",
+        "currentStrap": "Stainless Steel Bracelet",
+        "lugWidth": "20 mm",
+        "waterResistance": "200 m"
+      },
+      "acquisition": {
+        "year": 2026,
+        "type": "Self Purchase",
+        "from": null,
+        "occasion": "Reward After a Challenging Year",
+        "purchaseLocation": "Ethos Watches",
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Seiko Prospex PADI 60th Anniversary",
+        "caption": "A dream fulfilled through perseverance, faith and patience.",
+        "milestone": "First Premium Japanese Diver",
+        "importance": 10
+      },
+      "story": {
+        "opening": "Some watches are bought because we want them. Others are bought because we have finally earned them.",
+        "background": "The year 2025 was one of the most demanding years of my professional life. It tested my patience, resilience and commitment. Around the same time, I had the privilege of completing Umrah, a deeply meaningful experience that gave me perspective and gratitude. Shortly afterwards, my company recognised the year's hard work by announcing a substantial bonus.",
+        "acquisition": "For years I had dreamed of owning a Seiko diver, and this felt like the right moment. The PADI 60th Anniversary edition immediately stood apart from every other Seiko I had considered. The green gradient dial with its subtle wave texture, the matching green bezel and the anniversary significance made it impossible to ignore. I spent considerable time negotiating with a senior executive at Ethos to secure the best possible deal before finally placing the order. A few days later, the watch arrived at my home, carefully shipped from their Mohali boutique.",
+        "experience": "The first time I held it, I knew this was the watch I had been waiting for. Every detail exceeded my expectations\u2014from the way the dial changed under different lighting to the reassuring feel of the bezel and bracelet. It wasn't simply another purchase; it was the culmination of years of dreaming, months of patience and a reward for perseverance. Every time I wear it, I remember not only the watch itself but everything that made owning it possible.",
+        "whyItMatters": "This watch represents faith, perseverance, professional achievement and the fulfilment of a long-held dream. More than any other watch in my collection, it tells the story of a chapter in my life rather than a moment.",
+        "favoriteMemory": "Opening the delivery box at home and seeing the green wave-textured dial for the first time, knowing the journey to owning it had finally come to an end.",
+        "reflection": "Years from now I may own watches that cost more or are technically superior, but I doubt any will carry the same emotional weight. This Seiko will always remind me that some rewards are sweetest because of everything that came before them.",
+        "collectorReflection": "The finest watches are not always the rarest\u2014they are the ones that represent the greatest personal victories."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 10,
+        "dailyWear": "Frequent",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Automatic",
+        "category": "Dive",
+        "acquiredAsGift": false,
+        "country": "Japan",
+        "brand": "Seiko",
+        "collectionTheme": "Achievement",
+        "lifeLesson": "Perseverance Makes Success More Meaningful",
+        "isMilestone": true,
+        "isDressWatch": false,
+        "isSportsWatch": true,
+        "isChronograph": false,
+        "isAutomatic": true,
+        "isMechanical": true,
+        "isQuartz": false
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "seiko",
+          "prospex",
+          "padi",
+          "srpl53k1",
+          "60th anniversary",
+          "automatic",
+          "diver",
+          "green dial",
+          "wave texture",
+          "umrah",
+          "achievement"
+        ]
+      },
+      "images": {
+  "folder": "TWK-020",
+  "cover": "TWK-020 cover.jpg",
+  "hero": "TWK-020 hero.jpg",
+  "thumbnail": "TWK-020 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-020 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-020 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-020 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-020 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Some dreams are worth every challenge it takes to reach them.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-021",
+      "catalogNumber": "TWK-021",
+      "chapter": {
+        "number": 21,
+        "title": "Not Every Watch Is Forever",
+        "featured": false
+      },
+      "identity": {
+        "brand": "Timex",
+        "collection": null,
+        "displayName": "Timex TWEG25301",
+        "model": "TWEG25301",
+        "reference": "TWEG25301",
+        "countryOfOrigin": "USA",
+        "countryCode": "USA"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz",
+        "caseDiameter": "43 mm",
+        "caseMaterial": "Brass",
+        "crystal": "Mineral Crystal",
+        "dialColor": "White",
+        "bezel": "Fixed Gold-Tone Bezel",
+        "originalStrap": "Two-Tone Folded Steel Bracelet",
+        "currentStrap": "Green NATO Strap",
+        "lugWidth": "20 mm",
+        "waterResistance": "30 m"
+      },
+      "acquisition": {
+        "year": 2026,
+        "type": "Gift",
+        "from": "Friend",
+        "occasion": "Passed On",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Timex TWEG25301",
+        "caption": "A reminder that every collection evolves over time.",
+        "milestone": "An Unexpected Addition",
+        "importance": 5
+      },
+      "story": {
+        "opening": "Not every watch joins a collection because you were searching for it.",
+        "background": "A friend had ordered this Timex for himself, but once it arrived, he realised the 43 mm case was simply too large for his wrist. Knowing that I collected watches, he decided to pass it on to me.",
+        "acquisition": "When I first tried it on, I immediately understood why he had decided to let it go. I also found it larger than I usually prefer. Nevertheless, I appreciated the gesture and welcomed it into my collection.",
+        "experience": "Over time, I replaced the original two-tone folded steel bracelet with a green NATO strap. The change gave the watch a more casual personality and made it far more enjoyable to wear. Even so, the case size has always prevented it from becoming a regular part of my rotation.",
+        "whyItMatters": "This watch reminds me that collecting isn't only about finding perfect watches. It's also about appreciating the stories and friendships behind them.",
+        "favoriteMemory": "Receiving the watch from a friend who knew it would be appreciated more in my collection than sitting unworn in his.",
+        "reflection": "Unlike many of my watches, I don't expect this one to stay with me forever. One day it will probably be sold or gifted to another collector, continuing the journey that brought it to me in the first place.",
+        "collectorReflection": "A collection is never static. Some watches become lifelong companions, while others simply accompany us for a chapter of the journey."
+      },
+      "collectionNotes": {
+        "currentCondition": "Good",
+        "sentimentalRating": 3,
+        "dailyWear": "Rare",
+        "wouldSell": true,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Sell or Gift Away"
+      },
+      "analytics": {
+        "movementType": "Quartz",
+        "category": "Everyday",
+        "acquiredAsGift": true,
+        "country": "USA",
+        "brand": "Timex",
+        "collectionTheme": "Evolution",
+        "lifeLesson": "Not Every Watch Is Meant to Stay Forever",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "timex",
+          "tweg25301",
+          "quartz",
+          "gift",
+          "friend",
+          "green nato",
+          "43mm",
+          "collection evolution"
+        ]
+      },
+      "images": {
+  "folder": "TWK-021",
+  "cover": "TWK-021 cover.jpg",
+  "hero": "TWK-021 hero.jpg",
+  "thumbnail": "TWK-021 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-021 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-021 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-021 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-021 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Every collector eventually learns that some watches are chapters, not the whole story.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-022",
+      "catalogNumber": "TWK-022",
+      "chapter": {
+        "number": 22,
+        "title": "Treasure Hunting",
+        "featured": true
+      },
+      "identity": {
+        "brand": "HMT",
+        "collection": "Tareeq",
+        "displayName": "HMT Tareeq Mechanical",
+        "model": "Tareeq Mechanical",
+        "reference": null,
+        "countryOfOrigin": "India",
+        "countryCode": "IND"
+      },
+      "technicalSpecifications": {
+        "movement": "Hand-Wound Mechanical",
+        "caseDiameter": "36 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Mineral Crystal",
+        "dialColor": "Black",
+        "bezel": "Fixed Stainless Steel",
+        "originalStrap": null,
+        "currentStrap": "Milanese Mesh Bracelet",
+        "lugWidth": "18 mm",
+        "waterResistance": null
+      },
+      "acquisition": {
+        "year": 2026,
+        "type": "Self Purchase",
+        "from": "Fellow Collector",
+        "occasion": "Sunday Bazaar Visit",
+        "purchaseLocation": "Sunday Bazaar, Chickpet, Bengaluru",
+        "country": "India",
+        "price": 1450
+      },
+      "museumPlaque": {
+        "displayName": "HMT Tareeq Mechanical",
+        "caption": "One of the most satisfying finds in my collecting journey.",
+        "milestone": "Sunday Bazaar Find",
+        "importance": 9
+      },
+      "story": {
+        "opening": "Some watches are bought in boutiques. Others are discovered.",
+        "background": "I had heard about Bengaluru's famous Sunday Bazaar in Chickpet for quite some time. One weekend, while my wife and daughter were visiting my in-laws, I finally decided to explore it for myself. I had no shopping list and no expectations\u2014I simply wanted to experience the hunt.",
+        "acquisition": "Among countless vintage watches and old timepieces, one watch immediately stood out: an HMT Tareeq Mechanical. I wasn't completely certain about buying it at first, but after inspecting it, I realised it was in remarkably good refurbished condition and didn't even require servicing. For \u20b91,450, I knew I had found something special.",
+        "experience": "Unlike many vintage purchases, this watch was ready to wear from the very beginning. It has become one of the watches I wear most regularly, not because it is the most expensive piece I own, but because every time I look at it I remember the excitement of finding it in an unexpected place. It also meant that I now owned both the quartz and mechanical versions of the Tareeq, allowing me to appreciate the evolution of the model.",
+        "whyItMatters": "This watch represents the thrill of discovering something rather than simply ordering it online. It reminds me that collecting is as much about the journey as it is about the watch.",
+        "favoriteMemory": "Walking through the crowded lanes of Sunday Bazaar and spotting the Tareeq among dozens of forgotten watches, knowing almost immediately that it was coming home with me.",
+        "reflection": "The more my collection grows, the more I appreciate the stories behind each acquisition. Few stories are as enjoyable as finding a mechanical HMT in a bustling street market for less than the price of a modern watch strap.",
+        "collectorReflection": "The greatest treasures aren't always found in luxury boutiques. Sometimes they're waiting quietly on an old market table."
+      },
+      "collectionNotes": {
+        "currentCondition": "Refurbished",
+        "sentimentalRating": 8,
+        "dailyWear": "Regular",
+        "wouldSell": false,
+        "legacyPiece": true,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep Forever"
+      },
+      "analytics": {
+        "movementType": "Hand-Wound Mechanical",
+        "category": "Vintage",
+        "acquiredAsGift": false,
+        "country": "India",
+        "brand": "HMT",
+        "collectionTheme": "Treasure Hunt",
+        "lifeLesson": "The Hunt Is Part of the Reward",
+        "isMilestone": true,
+        "isDressWatch": true,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": true,
+        "isQuartz": false
+      },
+      "website": {
+        "timeline": true,
+        "featured": true,
+        "showOnHomepage": true,
+        "searchTags": [
+          "hmt",
+          "tareeq",
+          "mechanical",
+          "hand wound",
+          "chickpet",
+          "sunday bazaar",
+          "bengaluru",
+          "vintage",
+          "india",
+          "treasure hunt"
+        ]
+      },
+      "images": {
+  "folder": "TWK-022",
+  "cover": "TWK-022 cover.jpg",
+  "hero": "TWK-022 hero.jpg",
+  "thumbnail": "TWK-022 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-022 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-022 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-022 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-022 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "Sometimes the joy of a watch begins long before you wear it.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-023",
+      "catalogNumber": "TWK-023",
+      "chapter": {
+        "number": 23,
+        "title": "Not Every Watch Is Meant for You",
+        "featured": false
+      },
+      "identity": {
+        "brand": "Citizen",
+        "collection": "Tsuyosa",
+        "displayName": "Citizen Tsuyosa",
+        "model": "Tsuyosa",
+        "reference": "NJ0151-88L",
+        "countryOfOrigin": "Japan",
+        "countryCode": "JPN"
+      },
+      "technicalSpecifications": {
+        "movement": "Automatic",
+        "calibre": "Citizen 8210",
+        "caseDiameter": "40 mm",
+        "caseMaterial": "Stainless Steel",
+        "crystal": "Sapphire Crystal",
+        "dialColor": "Deep Blue",
+        "bezel": "Smooth Stainless Steel",
+        "originalStrap": "Integrated Stainless Steel Bracelet",
+        "currentStrap": "Integrated Stainless Steel Bracelet",
+        "lugWidth": null,
+        "waterResistance": "50 m"
+      },
+      "acquisition": {
+        "year": 2026,
+        "type": "Self Purchase",
+        "from": "Fellow Collector",
+        "occasion": "Pre-Owned Purchase",
+        "purchaseLocation": null,
+        "country": "India",
+        "price": null
+      },
+      "museumPlaque": {
+        "displayName": "Citizen Tsuyosa",
+        "caption": "A watch that taught me as much about myself as it did about collecting.",
+        "milestone": "First Integrated Bracelet Watch",
+        "importance": 6
+      },
+      "story": {
+        "opening": "Not every watch we admire is destined to become a favourite.",
+        "background": "The Citizen Tsuyosa had been on my radar for quite some time. I admired its integrated bracelet design, colourful dials and the value it offered. When a fellow collector listed this deep blue example for sale, I decided it was the perfect opportunity to experience the watch for myself.",
+        "acquisition": "The watch had originally been purchased in Singapore, and buying it from another enthusiast made the experience feel a little more personal than simply ordering one from a retailer. Everything about the watch looked right on paper, and I was excited to add it to the collection.",
+        "experience": "After spending time with it, however, I realised something surprising. While I still appreciated the quality, finishing and design, I simply didn't connect with it the way I expected. There was nothing objectively wrong with the watch\u2014it just didn't suit my personal taste as much as I had hoped. That has made me consider selling it in the future so that someone else can enjoy it more than I do.",
+        "whyItMatters": "This watch reminded me that collecting isn't about buying what everyone else loves. It's about discovering what genuinely resonates with you.",
+        "favoriteMemory": "The anticipation of finally owning a Tsuyosa after admiring the collection for so long.",
+        "reflection": "Every collector eventually buys a watch that teaches them something unexpected. For me, the Tsuyosa taught me that admiration from afar doesn't always translate into a lasting connection on the wrist. That lesson is every bit as valuable as finding a watch you love.",
+        "collectorReflection": "A thoughtful collection is defined as much by the watches you choose to keep as by the ones you choose to let go."
+      },
+      "collectionNotes": {
+        "currentCondition": "Excellent",
+        "sentimentalRating": 4,
+        "dailyWear": "Rare",
+        "wouldSell": true,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Likely Sell"
+      },
+      "analytics": {
+        "movementType": "Automatic",
+        "category": "Sports",
+        "acquiredAsGift": false,
+        "country": "Japan",
+        "brand": "Citizen",
+        "collectionTheme": "Self Discovery",
+        "lifeLesson": "Knowing Your Taste Is Part of Collecting",
+        "isMilestone": true,
+        "isDressWatch": true,
+        "isSportsWatch": true,
+        "isChronograph": false,
+        "isAutomatic": true,
+        "isMechanical": true,
+        "isQuartz": false
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "citizen",
+          "tsuyosa",
+          "nj0151-88l",
+          "automatic",
+          "blue",
+          "integrated bracelet",
+          "pre-owned",
+          "collector",
+          "japan"
+        ]
+      },
+      "images": {
+  "folder": "TWK-023",
+  "cover": "TWK-023 cover.jpg",
+  "hero": "TWK-023 hero.jpg",
+  "thumbnail": "TWK-023 thumbnail.jpg",
+  "gallery": [
+    {
+      "file": "TWK-023 front.jpg",
+      "title": "Front View"
+    },
+    {
+      "file": "TWK-023 wrist.jpg",
+      "title": "On the Wrist"
+    },
+    {
+      "file": "TWK-023 dial.jpg",
+      "title": "Dial Close-up"
+    },
+    {
+      "file": "TWK-023 caseback.jpg",
+      "title": "Caseback"
+    }
+  ]
+},
+      "book": {
+        "chapterQuote": "The watches that don't stay often teach us as much as the ones that do.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    }
+  ]
+}

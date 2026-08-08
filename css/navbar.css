@@ -1,0 +1,290 @@
+/*==============================================================
+
+ TIME WELL KEPT
+ Navigation
+ Version 2.0.0
+
+==============================================================*/
+
+
+/*--------------------------------------------------------------
+  Navbar
+--------------------------------------------------------------*/
+
+.navbar{
+
+    position:fixed;
+
+    top:0;
+
+    left:0;
+
+    width:100%;
+
+    z-index:var(--z-navbar);
+
+    background:rgba(17,17,17,.82);
+
+    backdrop-filter:blur(18px);
+
+    -webkit-backdrop-filter:blur(18px);
+
+    border-bottom:1px solid rgba(255,255,255,.05);
+
+    transition:var(--transition-normal);
+
+}
+
+
+/*--------------------------------------------------------------
+  Navigation Container
+--------------------------------------------------------------*/
+
+.nav-container{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    height:82px;
+
+}
+
+
+/*--------------------------------------------------------------
+  Logo
+--------------------------------------------------------------*/
+
+.logo{
+
+    font-family:var(--font-heading);
+
+    font-size:1.6rem;
+
+    font-weight:600;
+
+    letter-spacing:4px;
+
+    text-transform:uppercase;
+
+    color:var(--color-text);
+
+    transition:var(--transition-fast);
+
+}
+
+.logo:hover{
+
+    color:var(--color-gold);
+
+}
+
+
+/*--------------------------------------------------------------
+  Navigation Menu
+--------------------------------------------------------------*/
+
+.nav-menu{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:2.8rem;
+
+}
+
+
+/*--------------------------------------------------------------
+  Navigation Links
+--------------------------------------------------------------*/
+
+.nav-menu a{
+
+    position:relative;
+
+    font-family:var(--font-body);
+
+    font-size:.92rem;
+
+    font-weight:500;
+
+    letter-spacing:2px;
+
+    text-transform:uppercase;
+
+    color:var(--color-text-secondary);
+
+    transition:var(--transition-fast);
+
+}
+
+
+/* Gold underline animation */
+
+.nav-menu a::after{
+
+    content:"";
+
+    position:absolute;
+
+    left:0;
+
+    bottom:-8px;
+
+    width:0;
+
+    height:2px;
+
+    background:var(--color-gold);
+
+    transition:width .3s ease;
+
+}
+
+
+.nav-menu a:hover{
+
+    color:var(--color-text);
+
+}
+
+
+.nav-menu a:hover::after{
+
+    width:100%;
+
+}
+
+
+/*--------------------------------------------------------------
+  Active Link (future use)
+--------------------------------------------------------------*/
+
+.nav-menu a.active{
+
+    color:var(--color-gold);
+
+}
+
+.nav-menu a.active::after{
+
+    width:100%;
+
+}
+
+
+/*--------------------------------------------------------------
+  Mobile Navigation
+--------------------------------------------------------------*/
+
+@media(max-width:900px){
+
+.nav-container{
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    height:auto;
+
+    padding:18px 0;
+
+}
+
+.logo{
+
+    margin-bottom:14px;
+
+}
+
+.nav-menu{
+
+    gap:1.4rem;
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+}
+
+}
+
+
+/*--------------------------------------------------------------
+  Small Phones
+--------------------------------------------------------------*/
+
+@media(max-width:600px){
+
+.logo{
+
+    font-size:1.25rem;
+
+    letter-spacing:2px;
+
+}
+
+.nav-menu{
+
+    gap:1rem;
+
+}
+
+.nav-menu a{
+
+    font-size:.75rem;
+
+    letter-spacing:1px;
+
+}
+}
+.watch-navbar{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+/*=========================================================
+Watch Page Navbar
+=========================================================*/
+
+.watch-navbar{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:28px;
+
+}
+
+.navbar-back{
+
+    color:var(--color-gold);
+
+    text-decoration:none;
+
+    font-size:.85rem;
+
+    letter-spacing:.08em;
+
+    opacity:.75;
+
+    transition:all .3s ease;
+
+}
+
+.navbar-back:hover{
+
+    opacity:1;
+
+    transform:translateX(-4px);
+
+}
+

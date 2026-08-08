@@ -1,0 +1,135 @@
+{
+  "id": "twk-003",
+  "catalogNumber": "TWK-003",
+
+  "chapter": {
+    "number": 3,
+    "title": "Love at First Sight",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Fossil",
+    "collection": "Grant",
+    "displayName": "Fossil FS5190",
+    "model": "FS5190",
+    "reference": "FS5190",
+    "countryOfOrigin": "USA"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Chronograph",
+    "caseDiameter": "45 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Green",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Black Leather",
+    "currentStrap": "Black Silicone",
+    "lugWidth": "24 mm",
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2015,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Walk-in Purchase",
+    "purchaseLocation": "Fossil Store",
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Fossil FS5190",
+    "caption": "The watch that proved instinct can be as important as research.",
+    "milestone": "First Design-Led Purchase",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "Sometimes a watch doesn't need months of research. Sometimes it only needs a single glance.",
+
+    "background": "I wasn't planning to buy a watch that day. I was simply browsing inside a Fossil store when one particular watch immediately caught my attention.",
+
+    "acquisition": "What stopped me wasn't the chronograph layout or the size of the case. It was the distinctive green crystal. It gave the entire watch a unique appearance unlike anything else I had seen. Without overthinking the decision, I bought it almost immediately.",
+
+    "experience": "The watch quickly became one of the most frequently worn pieces in my collection. Years of regular use eventually wore out the original black leather strap, which I replaced with a black silicone strap. Finding a suitable replacement wasn't easy because of its uncommon 24 mm lug width, but the watch continued to earn its place in my rotation. Every mark it carries today reflects years of honest wear rather than neglect.",
+
+    "whyItMatters": "This was the first watch I bought purely because I fell in love with its design. It taught me that sometimes your instincts are worth trusting.",
+
+    "favoriteMemory": "The moment I saw the green crystal and knew almost instantly that I wasn't leaving the store without the watch.",
+
+    "reflection": "Looking at it today, I still remember exactly what caught my eye all those years ago. Good design has a timeless quality, and this watch continues to remind me why I bought it in the first place.",
+
+    "collectorReflection": "Collectors often spend months researching a purchase. This watch reminds me that occasionally the heart reaches the right decision before the mind does."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Well Worn",
+    "sentimentalRating": 9,
+    "dailyWear": "Occasional",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": false,
+    "country": "USA",
+    "brand": "Fossil",
+    "collectionTheme": "Personal Discovery",
+    "lifeLesson": "Trust Your Instincts",
+    "isMilestone": true,
+    "isDressWatch": false,
+    "isSportsWatch": false,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "fossil",
+      "fs5190",
+      "green",
+      "chronograph",
+      "quartz",
+      "self purchase",
+      "design",
+      "green crystal",
+      "2015"
+    ]
+  },
+
+  "images": {
+    "folder": "twk003_fossil_fs5190",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Sometimes the best decisions are made in a single moment.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

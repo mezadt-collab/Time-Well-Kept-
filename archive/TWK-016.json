@@ -1,0 +1,136 @@
+{
+  "id": "twk-016",
+  "catalogNumber": "TWK-016",
+
+  "chapter": {
+    "number": 16,
+    "title": "The One I Never Planned to Own",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Omega x Swatch",
+    "collection": "Bioceramic MoonSwatch",
+    "displayName": "Mission to Saturn",
+    "model": "Mission to Saturn",
+    "reference": "SO33T100",
+    "countryOfOrigin": "Switzerland"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Chronograph",
+    "caseDiameter": "42 mm",
+    "caseMaterial": "Bioceramic",
+    "crystal": "Domed Biosourced Crystal",
+    "dialColor": "Brown",
+    "bezel": "Bioceramic Tachymeter Bezel",
+    "originalStrap": "Brown Velcro Strap",
+    "currentStrap": "Brown Rally Leather Strap",
+    "lugWidth": "20 mm",
+    "waterResistance": "30 m"
+  },
+
+  "acquisition": {
+    "year": 2025,
+    "type": "Gift",
+    "from": "Brother-in-Law",
+    "occasion": "A Thank You Gift",
+    "purchaseLocation": "Swatch Store, Sydney",
+    "country": "Australia",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Omega x Swatch Mission to Saturn",
+    "caption": "A watch I never intended to own, but one that became part of my story.",
+    "milestone": "Unexpected Gift",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "The best additions to a collection are sometimes the ones you never planned for.",
+
+    "background": "Unlike many collectors, I was never particularly interested in owning a MoonSwatch. I appreciated what the collection represented, but I never felt the urge to buy one for myself.",
+
+    "acquisition": "My brother-in-law, who lives in Australia, wanted to thank me after I had gifted him a Casio watch that he had admired on my wrist. While visiting the Swatch Boutique in Sydney, he called and gave me a choice between Mission to Mercury and Mission to Saturn. He was leaning towards Mercury, so I chose Saturn. That simple conversation made the watch feel personal before it had even reached my wrist.",
+
+    "experience": "After receiving the watch, I replaced the original brown Velcro strap with a brown rally leather strap, giving it a more classic appearance that better suited my taste. Although it isn't one of my most frequently worn watches, I genuinely enjoy having it in the collection because every time I see it, I remember the thoughtfulness behind the gift rather than the hype surrounding the MoonSwatch itself.",
+
+    "whyItMatters": "This watch reminds me that the story behind a watch will always matter more than the watch itself.",
+
+    "favoriteMemory": "Receiving the call from Australia and choosing Saturn while my brother-in-law chose Mercury for himself.",
+
+    "reflection": "If I had been shopping for myself, I probably would never have bought a MoonSwatch. Yet today, I cannot imagine my collection without it. Some watches find their way into a collection for reasons far more meaningful than personal desire.",
+
+    "collectorReflection": "Collectors often chase watches they want. Sometimes the most meaningful watch is the one that quietly chooses you."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Good",
+    "sentimentalRating": 9,
+    "dailyWear": "Occasional",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "Switzerland",
+    "brand": "Omega x Swatch",
+    "collectionTheme": "Family",
+    "lifeLesson": "The Story Behind a Watch Matters More Than the Watch",
+    "isMilestone": false,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "moonswatch",
+      "omega",
+      "swatch",
+      "mission to saturn",
+      "so33t100",
+      "sydney",
+      "australia",
+      "gift",
+      "brother in law",
+      "bioceramic"
+    ]
+  },
+
+  "images": {
+    "folder": "twk016_moonswatch_saturn",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The watches we never planned to own sometimes become the ones with the best stories.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

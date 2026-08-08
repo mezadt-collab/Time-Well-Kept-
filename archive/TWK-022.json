@@ -1,0 +1,136 @@
+{
+  "id": "twk-022",
+  "catalogNumber": "TWK-022",
+
+  "chapter": {
+    "number": 22,
+    "title": "Treasure Hunting",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "HMT",
+    "collection": "Tareeq",
+    "displayName": "HMT Tareeq Mechanical",
+    "model": "Tareeq Mechanical",
+    "reference": null,
+    "countryOfOrigin": "India"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Hand-Wound Mechanical",
+    "caseDiameter": "36 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Black",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": null,
+    "currentStrap": "Milanese Mesh Bracelet",
+    "lugWidth": "18 mm",
+    "waterResistance": null
+  },
+
+  "acquisition": {
+    "year": 2026,
+    "type": "Self Purchase",
+    "from": "Fellow Collector",
+    "occasion": "Sunday Bazaar Visit",
+    "purchaseLocation": "Sunday Bazaar, Chickpet, Bengaluru",
+    "country": "India",
+    "price": 1450
+  },
+
+  "museumPlaque": {
+    "displayName": "HMT Tareeq Mechanical",
+    "caption": "One of the most satisfying finds in my collecting journey.",
+    "milestone": "Sunday Bazaar Find",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "Some watches are bought in boutiques. Others are discovered.",
+
+    "background": "I had heard about Bengaluru's famous Sunday Bazaar in Chickpet for quite some time. One weekend, while my wife and daughter were visiting my in-laws, I finally decided to explore it for myself. I had no shopping list and no expectations—I simply wanted to experience the hunt.",
+
+    "acquisition": "Among countless vintage watches and old timepieces, one watch immediately stood out: an HMT Tareeq Mechanical. I wasn't completely certain about buying it at first, but after inspecting it, I realised it was in remarkably good refurbished condition and didn't even require servicing. For ₹1,450, I knew I had found something special.",
+
+    "experience": "Unlike many vintage purchases, this watch was ready to wear from the very beginning. It has become one of the watches I wear most regularly, not because it is the most expensive piece I own, but because every time I look at it I remember the excitement of finding it in an unexpected place. It also meant that I now owned both the quartz and mechanical versions of the Tareeq, allowing me to appreciate the evolution of the model.",
+
+    "whyItMatters": "This watch represents the thrill of discovering something rather than simply ordering it online. It reminds me that collecting is as much about the journey as it is about the watch.",
+
+    "favoriteMemory": "Walking through the crowded lanes of Sunday Bazaar and spotting the Tareeq among dozens of forgotten watches, knowing almost immediately that it was coming home with me.",
+
+    "reflection": "The more my collection grows, the more I appreciate the stories behind each acquisition. Few stories are as enjoyable as finding a mechanical HMT in a bustling street market for less than the price of a modern watch strap.",
+
+    "collectorReflection": "The greatest treasures aren't always found in luxury boutiques. Sometimes they're waiting quietly on an old market table."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Refurbished",
+    "sentimentalRating": 8,
+    "dailyWear": "Regular",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Hand-Wound Mechanical",
+    "acquiredAsGift": false,
+    "country": "India",
+    "brand": "HMT",
+    "collectionTheme": "Treasure Hunt",
+    "lifeLesson": "The Hunt Is Part of the Reward",
+    "isMilestone": true,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": true,
+    "isQuartz": false
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "hmt",
+      "tareeq",
+      "mechanical",
+      "hand wound",
+      "chickpet",
+      "sunday bazaar",
+      "bengaluru",
+      "vintage",
+      "india",
+      "treasure hunt"
+    ]
+  },
+
+  "images": {
+    "folder": "twk022_hmt_tareeq_mechanical",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "market.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Sometimes the joy of a watch begins long before you wear it.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

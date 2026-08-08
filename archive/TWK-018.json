@@ -1,0 +1,135 @@
+{
+  "id": "twk-018",
+  "catalogNumber": "TWK-018",
+
+  "chapter": {
+    "number": 18,
+    "title": "An Unplanned Sunday",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "HMT",
+    "collection": "Tareeq",
+    "displayName": "HMT Tareeq Quartz",
+    "model": "Tareeq Quartz",
+    "reference": null,
+    "countryOfOrigin": "India"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": "35.84 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Sunray Blue",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Folded Stainless Steel Bracelet",
+    "currentStrap": "Leather Strap / Milanese Mesh Bracelet",
+    "lugWidth": "18 mm",
+    "waterResistance": "30 m"
+  },
+
+  "acquisition": {
+    "year": 2025,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Visit to the HMT Museum",
+    "purchaseLocation": "HMT Museum Store, Bengaluru",
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "HMT Tareeq Quartz",
+    "caption": "A spontaneous purchase that rekindled my appreciation for HMT.",
+    "milestone": "First Watch Purchased at the HMT Museum",
+    "importance": 8
+  },
+
+  "story": {
+    "opening": "The best discoveries are sometimes made without a plan.",
+
+    "background": "It was a quiet Sunday afternoon, and I found myself looking for something to do. On a whim, I decided to visit the HMT Museum in Bengaluru. I had no intention of buying a watch that day—I simply wanted to explore a piece of Indian watchmaking history.",
+
+    "acquisition": "As I browsed through the museum store, this HMT Tareeq immediately caught my eye. The sunray blue dial was understated yet elegant, and I found myself walking out with a watch I hadn't planned to buy only an hour earlier.",
+
+    "experience": "One of the details I enjoy most about this watch is the way the dial changes character throughout the day. Depending on the lighting, it can appear subtle and restrained or bright and full of life. I eventually replaced the original folded steel bracelet with either a leather strap or a Milanese mesh bracelet, both of which suit the watch beautifully.",
+
+    "whyItMatters": "This watch reminds me that some of the most satisfying purchases are the ones that happen naturally, without months of planning or research.",
+
+    "favoriteMemory": "Walking into the HMT Museum simply to spend a Sunday afternoon and leaving with a watch that had immediately earned a place in my collection.",
+
+    "reflection": "As my collection has continued to evolve, this watch has found itself competing with my HMT Tareeq Mechanical. Because of that, I may eventually part with it. Even if that happens, it will always represent a memorable afternoon and a reminder that collecting should remain enjoyable and spontaneous.",
+
+    "collectorReflection": "Not every meaningful watch is planned. Sometimes the collection chooses the collector."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 7,
+    "dailyWear": "Occasional",
+    "wouldSell": true,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "May Sell"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": false,
+    "country": "India",
+    "brand": "HMT",
+    "collectionTheme": "Discovery",
+    "lifeLesson": "Leave Room for Spontaneity",
+    "isMilestone": true,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "hmt",
+      "tareeq",
+      "quartz",
+      "museum",
+      "bengaluru",
+      "sunray blue",
+      "india",
+      "dress watch",
+      "mesh bracelet"
+    ]
+  },
+
+  "images": {
+    "folder": "twk018_hmt_tareeq_quartz",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "museum.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Some of the best days begin with no plan at all.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

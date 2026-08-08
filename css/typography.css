@@ -1,0 +1,427 @@
+/*==============================================================
+
+ TIME WELL KEPT
+ Typography
+ Version 2.0.0
+
+==============================================================*/
+
+
+/*--------------------------------------------------------------
+  Body
+--------------------------------------------------------------*/
+
+body{
+
+    font-family:var(--font-body);
+
+    font-size:var(--fs-body);
+
+    font-weight:var(--fw-light);
+
+    color:var(--color-text);
+
+    line-height:1.9;
+
+}
+
+
+/*--------------------------------------------------------------
+  Headings
+--------------------------------------------------------------*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+
+    font-family:var(--font-heading);
+
+    color:var(--color-text);
+
+    font-weight:var(--fw-semibold);
+
+    line-height:1.1;
+
+    letter-spacing:.5px;
+
+}
+
+
+/*--------------------------------------------------------------
+  Hero
+--------------------------------------------------------------*/
+
+.hero h1{
+
+    font-size:var(--fs-hero);
+
+    text-transform:uppercase;
+
+    letter-spacing:6px;
+
+}
+
+.hero h2{
+
+    font-size:2.8rem;
+
+    font-weight:500;
+
+}
+
+
+/*--------------------------------------------------------------
+  Section Titles
+--------------------------------------------------------------*/
+
+section h2{
+
+    font-size:var(--fs-h1);
+
+    text-align:center;
+
+    margin-bottom:1.5rem;
+
+}
+
+
+/*--------------------------------------------------------------
+  Chapter Numbers
+--------------------------------------------------------------*/
+
+.chapter-number{
+
+    text-align:center;
+
+    color:var(--color-gold);
+
+    text-transform:uppercase;
+
+    letter-spacing:8px;
+
+    font-size:.85rem;
+
+    margin-bottom:1rem;
+
+}
+
+
+/*--------------------------------------------------------------
+  Intro Paragraphs
+--------------------------------------------------------------*/
+
+.timeline-intro,
+.collection-intro,
+.section-intro{
+
+    text-align:center;
+
+    color:var(--color-text-secondary);
+
+    max-width:700px;
+
+    margin:0 auto 5rem;
+
+    line-height:1.8;
+
+}
+
+
+/*--------------------------------------------------------------
+  Editorial Body
+--------------------------------------------------------------*/
+
+.editorial-content{
+
+    max-width:var(--reading-width);
+
+    margin:auto;
+
+}
+
+.editorial-content p{
+
+    margin-bottom:2rem;
+
+    color:var(--color-text-secondary);
+
+}
+
+
+/*--------------------------------------------------------------
+  Drop Cap
+--------------------------------------------------------------*/
+
+.dropcap:first-letter{
+
+    float:left;
+
+    font-family:var(--font-heading);
+
+    font-size:5.5rem;
+
+    line-height:.8;
+
+    padding-right:14px;
+
+    color:var(--color-gold);
+
+}
+
+
+/*--------------------------------------------------------------
+  Pull Quote
+--------------------------------------------------------------*/
+
+.editorial-quote{
+
+    font-family:var(--font-heading);
+
+    font-size:2.3rem;
+
+    font-style:italic;
+
+    text-align:center;
+
+    color:var(--color-text);
+
+    max-width:900px;
+
+    margin:0 auto 5rem;
+
+    line-height:1.5;
+
+}
+
+
+/*--------------------------------------------------------------
+  Signature Statement
+--------------------------------------------------------------*/
+
+.signature p{
+
+    font-family:var(--font-heading);
+
+    font-size:2.6rem;
+
+    text-align:center;
+
+    color:var(--color-text);
+
+    margin-bottom:1rem;
+
+}
+
+.signature span{
+
+    display:block;
+
+    text-align:center;
+
+    letter-spacing:5px;
+
+    text-transform:uppercase;
+
+    color:var(--color-gold);
+
+    font-size:.95rem;
+
+}
+
+
+/*--------------------------------------------------------------
+  Memory Line
+--------------------------------------------------------------*/
+
+.memory-line{
+
+    text-align:center;
+
+    font-family:var(--font-heading);
+
+    font-size:3rem;
+
+    color:var(--color-text);
+
+    margin:5rem 0;
+
+}
+
+
+/*--------------------------------------------------------------
+  Closing Statement
+--------------------------------------------------------------*/
+
+.editorial-closing{
+
+    margin:6rem auto;
+
+    text-align:center;
+
+}
+
+.editorial-closing p{
+
+    font-size:1.2rem;
+
+    color:var(--color-text-secondary);
+
+}
+
+.editorial-closing h3{
+
+    font-family:var(--font-heading);
+
+    font-size:2.6rem;
+
+    color:var(--color-text);
+
+    margin-top:1rem;
+
+}
+
+
+/*--------------------------------------------------------------
+  Timeline
+--------------------------------------------------------------*/
+
+.timeline-year h3{
+
+    font-size:2rem;
+
+    color:var(--color-gold);
+
+}
+
+.timeline-watch a{
+
+    transition:var(--transition-fast);
+
+}
+
+.timeline-watch a:hover{
+
+    color:var(--color-gold);
+
+}
+
+
+/*--------------------------------------------------------------
+  Footer
+--------------------------------------------------------------*/
+
+.footer h2{
+
+    font-size:3rem;
+
+    margin-bottom:1rem;
+
+}
+
+.footer blockquote{
+
+    font-family:var(--font-heading);
+
+    font-size:1.8rem;
+
+    font-style:italic;
+
+    line-height:1.6;
+
+}
+
+
+/*--------------------------------------------------------------
+  Responsive
+--------------------------------------------------------------*/
+
+@media(max-width:992px){
+
+.hero h1{
+
+    font-size:4rem;
+
+}
+
+section h2{
+
+    font-size:3rem;
+
+}
+
+.memory-line{
+
+    font-size:2.3rem;
+
+}
+
+.signature p{
+
+    font-size:2rem;
+
+}
+
+.editorial-quote{
+
+    font-size:1.8rem;
+
+}
+
+}
+
+@media(max-width:768px){
+
+body{
+
+    font-size:1rem;
+
+}
+
+.hero h1{
+
+    font-size:3rem;
+
+    letter-spacing:4px;
+
+}
+
+.hero h2{
+
+    font-size:2rem;
+
+}
+
+section h2{
+
+    font-size:2.4rem;
+
+}
+
+.memory-line{
+
+    font-size:2rem;
+
+}
+
+.signature p{
+
+    font-size:1.7rem;
+
+}
+
+.editorial-quote{
+
+    font-size:1.5rem;
+
+}
+
+.dropcap:first-letter{
+
+    font-size:4rem;
+
+}
+
+}

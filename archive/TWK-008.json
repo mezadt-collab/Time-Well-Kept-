@@ -1,0 +1,136 @@
+{
+  "id": "twk-008",
+  "catalogNumber": "TWK-008",
+
+  "chapter": {
+    "number": 8,
+    "title": "The First Swiss",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Tissot",
+    "collection": "T-Sport",
+    "displayName": "Tissot V8 Chronograph",
+    "model": "V8 Chronograph",
+    "reference": "T106.417.36.031.00",
+    "countryOfOrigin": "Switzerland"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Swiss Quartz Chronograph",
+    "caseDiameter": "42.5 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Sapphire Crystal",
+    "dialColor": "White",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Black Leather",
+    "currentStrap": "Black Leather",
+    "lugWidth": null,
+    "waterResistance": "100 m"
+  },
+
+  "acquisition": {
+    "year": 2022,
+    "type": "Gift",
+    "from": "Wife and Brothers-in-Law",
+    "occasion": "Birthday",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Tissot V8 Chronograph",
+    "caption": "My first Swiss watch, given as an unforgettable surprise.",
+    "milestone": "First Swiss Watch",
+    "importance": 10
+  },
+
+  "story": {
+    "opening": "Some surprises become memories for a lifetime.",
+
+    "background": "A few days after my birthday, we were planning to buy a watch for my brother-in-law's tenth wedding anniversary. I had asked my wife to help me choose a suitable gift, completely unaware that she and her two brothers had other plans.",
+
+    "acquisition": "Instead of buying a watch for someone else, they decided to surprise me with my very first Swiss watch. On my birthday, they presented me with this Tissot V8 Chronograph. It was completely unexpected and made the occasion even more special.",
+
+    "experience": "Beyond being my first Swiss watch, it represented a significant milestone in my collecting journey. The sapphire crystal, refined finishing and understated sporty design showed me why Swiss watchmaking has earned its reputation. Every time I wear it, I remember not only the watch itself but also the generosity and thoughtfulness behind the gift.",
+
+    "whyItMatters": "This watch represents my entry into Swiss watchmaking and reminds me that some of the most meaningful milestones are the ones we never see coming.",
+
+    "favoriteMemory": "Opening the gift on my birthday and realising that my wife and her brothers had secretly planned to surprise me with my first Swiss watch.",
+
+    "reflection": "Many collectors remember their first Swiss watch because of the brand. I remember mine because of the people who placed it on my wrist. That is what makes it truly irreplaceable.",
+
+    "collectorReflection": "The finest milestones are not always achieved alone. Sometimes they are gifted by the people who want to celebrate your journey."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 10,
+    "dailyWear": "Occasional",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "Switzerland",
+    "brand": "Tissot",
+    "collectionTheme": "Family",
+    "lifeLesson": "The Greatest Surprises Are Given With Love",
+    "isMilestone": true,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "tissot",
+      "v8",
+      "t1064173603100",
+      "swiss",
+      "first swiss",
+      "chronograph",
+      "birthday",
+      "surprise",
+      "gift",
+      "sapphire"
+    ]
+  },
+
+  "images": {
+    "folder": "twk008_tissot_v8",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The greatest surprises are the ones we never see coming.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

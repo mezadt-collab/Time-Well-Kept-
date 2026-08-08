@@ -1,0 +1,136 @@
+{
+  "id": "twk-004",
+  "catalogNumber": "TWK-004",
+
+  "chapter": {
+    "number": 4,
+    "title": "A New Beginning",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Michael Kors",
+    "collection": "Ryker",
+    "displayName": "Michael Kors Ryker Chronograph",
+    "model": "Ryker Chronograph",
+    "reference": "MK8528",
+    "countryOfOrigin": "USA"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Chronograph",
+    "caseDiameter": "43 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Grey",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Stainless Steel Bracelet",
+    "currentStrap": "Stainless Steel Bracelet",
+    "lugWidth": null,
+    "waterResistance": "100 m"
+  },
+
+  "acquisition": {
+    "year": 2017,
+    "type": "Gift",
+    "from": "In-Laws",
+    "occasion": "Birthday after Engagement",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Michael Kors Ryker Chronograph",
+    "caption": "A watch that celebrates the beginning of a new chapter in life.",
+    "milestone": "Engagement Gift",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "Some watches mark moments in time. Others mark entirely new chapters in life.",
+
+    "background": "This Michael Kors Ryker Chronograph entered my collection shortly after my engagement. It was presented to me by my in-laws as a birthday gift, making it one of the first watches connected to an important milestone in my personal life.",
+
+    "acquisition": "At the time, I wasn't particularly familiar with Michael Kors watches. That didn't matter. What made this watch special was never the name on the dial—it was the thought behind the gift and the occasion it represented.",
+
+    "experience": "The watch accompanied me through an exciting period filled with anticipation as I prepared for marriage. Although it doesn't receive as much wrist time today, it remains in excellent condition and continues to occupy an important place in the collection because of the memories attached to it.",
+
+    "whyItMatters": "This watch represents the beginning of a new family and reminds me that the most meaningful watches are often those connected to life's biggest milestones.",
+
+    "favoriteMemory": "Receiving the watch as a birthday gift shortly after my engagement and recognising that it marked the beginning of a completely new chapter in my life.",
+
+    "reflection": "Today, I don't look at this watch through the lens of specifications or brand prestige. I see it as a reminder of a joyful period filled with excitement, family and new beginnings.",
+
+    "collectorReflection": "Some watches become valuable because of what they are. Others become priceless because of when they entered our lives."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 9,
+    "dailyWear": "Rare",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "USA",
+    "brand": "Michael Kors",
+    "collectionTheme": "Family",
+    "lifeLesson": "New Beginnings",
+    "isMilestone": true,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "michael kors",
+      "ryker",
+      "mk8528",
+      "chronograph",
+      "engagement",
+      "birthday",
+      "gift",
+      "family",
+      "grey",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk004_michael_kors_ryker",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The most meaningful milestones deserve to be remembered.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "twk-011",
+  "catalogNumber": "TWK-011",
+
+  "chapter": {
+    "number": 11,
+    "title": "The Watch That Grew on Me",
+    "featured": false
+  },
+
+  "identity": {
+    "brand": "Casio",
+    "collection": "Vintage",
+    "displayName": "Casio A168WGG-1BDF",
+    "model": "A168WGG-1BDF",
+    "reference": "A168WGG-1BDF",
+    "countryOfOrigin": "Japan"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Digital",
+    "caseDiameter": "36 mm",
+    "caseMaterial": "Resin Case with Gunmetal Finish",
+    "crystal": "Resin Crystal",
+    "dialColor": "Negative LCD Display",
+    "bezel": "Resin",
+    "originalStrap": "Gunmetal Stainless Steel Bracelet",
+    "currentStrap": "Gunmetal Stainless Steel Bracelet",
+    "lugWidth": null,
+    "waterResistance": "30 m"
+  },
+
+  "acquisition": {
+    "year": 2024,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Casual Weekend Watch",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Casio A168WGG-1BDF",
+    "caption": "A watch that taught me that first impressions aren't always the right ones.",
+    "milestone": "First Vintage Digital Watch",
+    "importance": 6
+  },
+
+  "story": {
+    "opening": "Sometimes appreciation takes time.",
+
+    "background": "I had been looking for a vintage Casio digital watch. The F-91W felt a little too small for my wrist, while the A158 never appealed to me because of its bracelet. The A168 offered the perfect balance, and its negative display ultimately became the deciding factor.",
+
+    "acquisition": "Even after buying it, I wasn't completely convinced. On my first few wears, I questioned whether I had made the right decision. It looked different from the rest of my collection and took some getting used to.",
+
+    "experience": "Over time, something changed. The more I wore it, the more I appreciated its charm. What initially felt unfamiliar gradually became one of my favourite weekend watches. Today, it accompanies me regularly on casual outings and has become one of the easiest watches to wear without thinking twice.",
+
+    "whyItMatters": "This watch reminded me that not every purchase creates an instant connection. Some watches quietly earn their place over time.",
+
+    "favoriteMemory": "Realising one weekend that I had instinctively reached for it without even considering another watch.",
+
+    "reflection": "Collectors often chase immediate excitement, but this Casio taught me that appreciation sometimes grows slowly. The watches that surprise us often become the ones we enjoy the most.",
+
+    "collectorReflection": "Not every great watch makes a great first impression. Some simply ask for a little patience."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 6,
+    "dailyWear": "Weekends",
+    "wouldSell": false,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz Digital",
+    "acquiredAsGift": false,
+    "country": "Japan",
+    "brand": "Casio",
+    "collectionTheme": "Discovery",
+    "lifeLesson": "Some Things Grow on You",
+    "isMilestone": false,
+    "isDressWatch": false,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": false,
+    "showOnHomepage": true,
+    "searchTags": [
+      "casio",
+      "a168",
+      "vintage",
+      "digital",
+      "negative display",
+      "gunmetal",
+      "weekend watch",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk011_casio_a168wgg",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "display.jpg",
+      "bracelet.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The best relationships are sometimes the ones that take time to develop.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

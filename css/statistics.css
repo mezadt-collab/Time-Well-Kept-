@@ -1,0 +1,684 @@
+/*==========================================================
+CHAPTER FIVE
+THE COLLECTION AT A GLANCE
+==========================================================*/
+
+.statistics-section{
+
+    background:#111;
+
+       padding:80px 0;
+
+}
+
+.statistics-container{
+
+    width:min(1100px,92vw);
+
+    margin:0 auto;
+
+}
+
+.statistics-introduction{
+
+    max-width:760px;
+
+      margin:30px auto 50px;
+
+    text-align:center;
+
+    color:#d7d7d7;
+
+    font-size:1.25rem;
+
+    line-height:1.9;
+
+}
+
+.statistics-block{
+
+     margin:70px 0;
+
+}
+
+.statistics-heading{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:3rem;
+
+    font-weight:500;
+
+    text-align:center;
+
+    color:#b08d57;
+
+    margin-bottom:20px;
+
+}
+
+.statistics-subtitle{
+
+    text-align:center;
+
+    color:#9b9b9b;
+
+    font-size:1.05rem;
+
+    max-width:700px;
+
+     margin:0 auto 35px;
+
+    line-height:1.8;
+
+}
+/*==========================================================
+COLLECTION OVERVIEW
+==========================================================*/
+
+.statistics-grid{
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:24px;
+    margin-top:50px;
+
+}
+
+.stat-card{
+
+    background:#171717;
+    border:1px solid rgba(176,141,87,.25);
+    padding:34px 20px;
+    text-align:center;
+    border-radius:14px;
+
+}
+
+.stat-card:hover{
+
+    border-color:#b08d57;
+
+    transform:translateY(-4px);
+
+}
+
+.stat-number{
+
+    display:block;
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:3.2rem;
+
+    font-weight:500;
+
+    color:#b08d57;
+
+    margin-bottom:14px;
+
+}
+
+.stat-label{
+
+    display:block;
+
+    font-size:.82rem;
+
+    letter-spacing:3px;
+
+    text-transform:uppercase;
+
+    color:#cfcfcf;
+
+}
+
+
+#world-map{
+
+    width:100%;
+
+    max-width:900px;
+
+    margin:60px auto;
+
+}
+
+#world-map svg{
+
+    display:block;
+
+    width:100%;
+
+    height:auto;
+
+    background:transparent;
+
+}
+
+#world-map{
+
+    width:100%;
+    max-width:900px;
+    margin:60px auto;
+
+}
+
+#world-map svg{
+
+    display:block;
+    width:100%;
+    height:auto;
+    background:transparent;
+
+}
+
+#world-map path{
+
+    transition:fill .35s ease;
+
+}
+
+.world-map-wrapper{
+
+    width:min(900px,92vw);
+    margin:70px auto;
+
+}
+/*==========================================================
+COUNTRY LIST
+==========================================================*/
+
+.country-list{
+
+    max-width:900px;
+
+   margin:30px auto;
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:60px;
+
+}
+
+.country-card{
+
+    padding-bottom:24px;
+
+    border-bottom:1px solid rgba(176,141,87,.25);
+
+}
+
+.country-title{
+
+    font-family:var(--font-heading);
+
+    color:var(--color-gold);
+
+    font-size:1.6rem;
+
+    letter-spacing:.12em;
+
+    text-transform:uppercase;
+
+    margin-bottom:20px;
+
+}
+
+.country-brand{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin-bottom:12px;
+
+    font-size:.95rem;
+
+    color:var(--color-text);
+
+}
+
+.country-count{
+
+    color:var(--color-gold);
+
+    font-weight:600;
+
+}
+/*==========================================================
+RESPONSIVE
+==========================================================*/
+
+@media (max-width:900px){
+
+    .statistics-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    .country-list{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .brand-row{
+
+        grid-template-columns:120px 1fr 40px;
+
+        gap:15px;
+
+    }
+
+}
+
+@media (max-width:600px){
+
+    .statistics-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .statistics-heading{
+
+        font-size:2.2rem;
+
+    }
+
+    .statistics-introduction{
+
+        font-size:1.05rem;
+
+    }
+
+}
+/* Override global section padding inside Statistics */
+
+.statistics-section > section{
+
+    padding:0 !important;
+    margin:0 !important;
+
+}
+
+.statistics-section .statistics-block{
+
+    padding:60px 0;
+    margin:0;
+
+}
+
+.statistics-section .statistics-block:first-child{
+
+    padding-top:20px;
+
+}
+
+.statistics-section .statistics-block:last-child{
+
+    padding-bottom:20px;
+
+}
+/*==========================================================
+MOVEMENT DISTRIBUTION
+==========================================================*/
+
+.movement-distribution{
+
+    width:min(700px,90vw);
+
+    margin:60px auto 0;
+
+}
+
+.movement-row{
+
+    margin-bottom:34px;
+
+}
+
+.movement-header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-bottom:10px;
+
+}
+
+.movement-label{
+
+    font-size:1rem;
+
+    letter-spacing:.12em;
+
+    text-transform:uppercase;
+
+    color:#b08d57;
+
+}
+
+.movement-value{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:1.6rem;
+
+    color:#b08d57;
+
+}
+
+.movement-track{
+
+    height:8px;
+
+    background:#2a2a2a;
+
+    border-radius:999px;
+
+    overflow:hidden;
+
+}
+
+.movement-fill{
+
+    height:100%;
+
+    width:0;
+
+    background:#b08d57;
+
+    border-radius:999px;
+
+    transition:width .8s ease;
+
+}
+/*==========================================================
+WISHLIST PLAQUES
+==========================================================*/
+
+.wishlist-grid {
+    width: min(1100px, 90%);
+    margin: 70px auto 120px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 34px;
+}
+
+.wishlist-plaque {
+    background: #171717;
+    border: 1px solid rgba(176, 141, 87, 0.28);
+    padding: 28px;
+    min-height: 250px;
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    transition:
+        transform 0.3s ease,
+        border-color 0.3s ease,
+        box-shadow 0.3s ease;
+}
+
+.wishlist-plaque:hover {
+    transform: translateY(-4px);
+    border-color: rgba(176, 141, 87, 0.65);
+    box-shadow: 0 12px 35px rgba(0,0,0,0.35);
+}
+
+/*----------------------------------------------------------
+WISHLIST IMAGES
+----------------------------------------------------------*/
+
+.wishlist-images {
+    width: 150px;
+    min-width: 150px;
+    height: 150px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.wishlist-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+/* Two-image plaques */
+
+.wishlist-images:has(.wishlist-image:nth-child(2)) {
+    gap: 6px;
+}
+
+.wishlist-images:has(.wishlist-image:nth-child(2))
+.wishlist-image {
+    width: calc(50% - 3px);
+}
+
+/*----------------------------------------------------------
+WISHLIST CONTENT
+----------------------------------------------------------*/
+
+.wishlist-content {
+    flex: 1;
+}
+
+.wishlist-title {
+    margin: 0 0 8px;
+
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.8rem;
+    font-weight: 500;
+
+    color: #b08d57;
+}
+
+.wishlist-subtitle {
+    margin-bottom: 16px;
+
+    font-size: 0.78rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+
+    color: #9b9b9b;
+}
+
+.wishlist-description {
+    margin: 0 0 20px;
+
+    font-size: 0.95rem;
+    line-height: 1.6;
+
+    color: #c5c5c5;
+}
+
+.wishlist-status {
+    display: inline-block;
+
+    padding: 5px 12px;
+
+    border: 1px solid rgba(176, 141, 87, 0.35);
+
+    font-size: 0.68rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+
+    color: #b08d57;
+}
+
+/*----------------------------------------------------------
+GERMAN BRAND PLACEHOLDER
+----------------------------------------------------------*/
+
+.wishlist-placeholder {
+    width: 150px;
+    min-width: 150px;
+    height: 150px;
+
+    border: 1px solid rgba(176, 141, 87, 0.18);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+}
+
+.wishlist-placeholder span {
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    color: #666;
+}
+
+/*----------------------------------------------------------
+MOBILE
+----------------------------------------------------------*/
+
+@media (max-width: 800px) {
+
+    .wishlist-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .wishlist-plaque {
+        padding: 22px;
+    }
+
+}
+/*==========================================================
+CHAPTER FIVE — THE ROAD AHEAD
+==========================================================*/
+
+.wishlist-section .section-title {
+
+    font-family:"Cormorant Garamond", serif;
+
+    font-size:4.5rem;
+
+    font-weight:500;
+
+    color:#f5f0e8;
+
+    text-align:center;
+
+    margin:0 0 20px;
+
+}
+.wishlist-section .section-title::after {
+
+    content:"";
+
+    display:block;
+
+    width:170px;
+
+    height:2px;
+
+    background:linear-gradient(
+        90deg,
+        transparent,
+        #b08d57,
+        transparent
+    );
+
+    margin:28px auto 0;
+
+}
+
+.wishlist-section .section-subtitle {
+
+    text-align:center;
+
+    color:#9b9b9b;
+
+    font-size:1.05rem;
+
+    max-width:700px;
+
+    margin:0 auto 35px;
+
+    line-height:1.8;
+
+}
+
+/*==========================================================
+ROAD AHEAD → LEGACY SPACING
+==========================================================*/
+
+.wishlist-section {
+
+    padding-bottom:40px !important;
+
+}
+
+.wishlist-grid {
+
+    margin-bottom:0;
+
+}
+
+
+/*==========================================================
+STATISTICS CHAPTER HEADER
+==========================================================*/
+
+#statistics > .statistics-container > .chapter-number {
+
+    display:block;
+
+    width:100%;
+
+    text-align:center;
+
+    margin:0 0 24px;
+
+}
+
+#statistics > .statistics-container > .section-title {
+
+    display:block;
+
+    width:100%;
+
+    text-align:center;
+
+    margin:0 0 20px;
+
+}
+
+#statistics > .statistics-container > .editorial-divider {
+
+    margin-left:auto;
+    margin-right:auto;
+
+}
+/*==========================================================
+STATISTICS CHAPTER TITLE
+==========================================================*/
+
+#statistics > .statistics-container > .section-title {
+
+    font-family:"Cormorant Garamond", serif;
+
+    font-size:4.5rem;
+
+    font-weight:500;
+
+    color:#f5f0e8;
+
+    text-align:center;
+
+    margin:0 0 20px;
+
+}

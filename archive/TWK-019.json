@@ -1,0 +1,135 @@
+{
+  "id": "twk-019",
+  "catalogNumber": "TWK-019",
+
+  "chapter": {
+    "number": 19,
+    "title": "The First Automatic",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Timex",
+    "collection": "Marlin",
+    "displayName": "Timex Marlin Automatic",
+    "model": "Marlin Automatic",
+    "reference": "TW2W93100UJ",
+    "countryOfOrigin": "USA"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Automatic",
+    "caseDiameter": "40 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Dark Blue",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Black Leather Strap",
+    "currentStrap": "Jubilee Stainless Steel Bracelet",
+    "lugWidth": "20 mm",
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2026,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "First Automatic Watch",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Timex Marlin Automatic",
+    "caption": "The watch that introduced me to the world of automatic movements.",
+    "milestone": "First Automatic Watch",
+    "importance": 10
+  },
+
+  "story": {
+    "opening": "Every collector remembers their first automatic watch. This one will always be mine.",
+
+    "background": "When I decided it was finally time to buy my first automatic watch, I spent weeks researching the options. I compared watches from Alba, Invicta and several smaller brands, trying to find the best balance between quality, design and value.",
+
+    "acquisition": "Although there were less expensive choices available, I kept coming back to the Timex Marlin. Eventually, I decided to stretch my budget rather than settle for something I wasn't completely convinced about. Looking back, it was the right decision.",
+
+    "experience": "The deep blue dial, vintage-inspired design and smooth automatic movement immediately made the watch feel special. I later replaced the original black leather strap with a Jubilee bracelet, giving it a completely different personality while retaining everything I loved about the watch itself. More importantly, it became the first automatic movement I owned and the watch that deepened my appreciation for traditional mechanical watchmaking.",
+
+    "whyItMatters": "This watch marks one of the biggest milestones in my collecting journey—the transition from quartz watches to automatic movements.",
+
+    "favoriteMemory": "Putting on my first automatic watch and feeling the smooth sweep of the seconds hand, knowing I had finally reached a milestone I had been looking forward to for years.",
+
+    "reflection": "Every collection has defining moments. Buying my first automatic was one of them. It wasn't simply another watch; it represented a new chapter in how I appreciated horology.",
+
+    "collectorReflection": "The first automatic watch doesn't just change your collection. It changes the way you look at every watch that follows."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 10,
+    "dailyWear": "Regular",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Automatic",
+    "acquiredAsGift": false,
+    "country": "USA",
+    "brand": "Timex",
+    "collectionTheme": "Mechanical Journey",
+    "lifeLesson": "Some Milestones Are Worth Waiting For",
+    "isMilestone": true,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": true,
+    "isMechanical": true,
+    "isQuartz": false
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "timex",
+      "marlin",
+      "automatic",
+      "tw2w93100uj",
+      "first automatic",
+      "blue dial",
+      "jubilee bracelet",
+      "mechanical",
+      "india"
+    ]
+  },
+
+  "images": {
+    "folder": "twk019_timex_marlin_automatic",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The first automatic watch doesn't just tell time—it marks a new chapter in a collector's journey.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

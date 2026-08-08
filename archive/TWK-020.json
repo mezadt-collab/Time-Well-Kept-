@@ -1,0 +1,139 @@
+{
+  "id": "twk-020",
+  "catalogNumber": "TWK-020",
+
+  "chapter": {
+    "number": 20,
+    "title": "A Dream Realised",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Seiko",
+    "collection": "Prospex",
+    "displayName": "Seiko Prospex PADI 60th Anniversary",
+    "model": "Prospex PADI Diver",
+    "reference": "SRPL53K1",
+    "countryOfOrigin": "Japan"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Automatic",
+    "calibre": "Seiko 4R36",
+    "caseDiameter": "41.7 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Sapphire Crystal",
+    "dialColor": "Green Gradient with Wave Texture",
+    "bezel": "Green Unidirectional Dive Bezel",
+    "originalStrap": "Stainless Steel Bracelet",
+    "currentStrap": "Stainless Steel Bracelet",
+    "lugWidth": "20 mm",
+    "waterResistance": "200 m"
+  },
+
+  "acquisition": {
+    "year": 2026,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Reward After a Challenging Year",
+    "purchaseLocation": "Ethos Watches",
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Seiko Prospex PADI 60th Anniversary",
+    "caption": "A dream fulfilled through perseverance, faith and patience.",
+    "milestone": "First Premium Japanese Diver",
+    "importance": 10
+  },
+
+  "story": {
+    "opening": "Some watches are bought because we want them. Others are bought because we have finally earned them.",
+
+    "background": "The year 2025 was one of the most demanding years of my professional life. It tested my patience, resilience and commitment. Around the same time, I had the privilege of completing Umrah, a deeply meaningful experience that gave me perspective and gratitude. Shortly afterwards, my company recognised the year's hard work by announcing a substantial bonus.",
+
+    "acquisition": "For years I had dreamed of owning a Seiko diver, and this felt like the right moment. The PADI 60th Anniversary edition immediately stood apart from every other Seiko I had considered. The green gradient dial with its subtle wave texture, the matching green bezel and the anniversary significance made it impossible to ignore. I spent considerable time negotiating with a senior executive at Ethos to secure the best possible deal before finally placing the order. A few days later, the watch arrived at my home, carefully shipped from their Mohali boutique.",
+
+    "experience": "The first time I held it, I knew this was the watch I had been waiting for. Every detail exceeded my expectations—from the way the dial changed under different lighting to the reassuring feel of the bezel and bracelet. It wasn't simply another purchase; it was the culmination of years of dreaming, months of patience and a reward for perseverance. Every time I wear it, I remember not only the watch itself but everything that made owning it possible.",
+
+    "whyItMatters": "This watch represents faith, perseverance, professional achievement and the fulfilment of a long-held dream. More than any other watch in my collection, it tells the story of a chapter in my life rather than a moment.",
+
+    "favoriteMemory": "Opening the delivery box at home and seeing the green wave-textured dial for the first time, knowing the journey to owning it had finally come to an end.",
+
+    "reflection": "Years from now I may own watches that cost more or are technically superior, but I doubt any will carry the same emotional weight. This Seiko will always remind me that some rewards are sweetest because of everything that came before them.",
+
+    "collectorReflection": "The finest watches are not always the rarest—they are the ones that represent the greatest personal victories."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 10,
+    "dailyWear": "Frequent",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Automatic",
+    "acquiredAsGift": false,
+    "country": "Japan",
+    "brand": "Seiko",
+    "collectionTheme": "Achievement",
+    "lifeLesson": "Perseverance Makes Success More Meaningful",
+    "isMilestone": true,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": false,
+    "isAutomatic": true,
+    "isMechanical": true,
+    "isQuartz": false
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "seiko",
+      "prospex",
+      "padi",
+      "srpl53k1",
+      "60th anniversary",
+      "automatic",
+      "diver",
+      "green dial",
+      "wave texture",
+      "umrah",
+      "achievement"
+    ]
+  },
+
+  "images": {
+    "folder": "twk020_seiko_padi_srpl53k1",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "bezel.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Some dreams are worth every challenge it takes to reach them.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

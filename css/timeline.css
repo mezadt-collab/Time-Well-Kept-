@@ -1,0 +1,326 @@
+/* ==========================================================
+   VERTICAL TIMELINE (ARCHIVED)
+   Retained for future reference
+========================================================== */
+.timeline-year-group{
+
+    margin-bottom:30px;
+
+}
+
+.timeline-year-heading{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size: 3.5rem;
+font-weight: 500; 
+ opacity:.95;  
+
+    color:#b08d57;
+
+    margin-bottom:20px;
+
+    letter-spacing:4px;
+
+}
+
+.timeline-item{
+
+    display:flex;
+
+    align-items:flex-start;
+
+    margin-left:40px;
+
+    position:relative;
+
+    padding-bottom:20px;
+
+}
+
+.timeline-item:last-child{
+
+    padding-bottom:0;
+
+}
+
+.timeline-marker{
+
+    width:16px;
+
+    height:16px;
+
+    background:#b08d57;
+
+    border-radius:50%;
+
+    position:relative;
+
+    margin-right:24px;
+
+    flex-shrink:0;
+
+}
+
+.timeline-marker::after{
+
+    content:"";
+
+    position:absolute;
+
+    left:7px;
+
+    top:16px;
+
+    width:2px;
+
+    height:100%;
+
+    background:#d8d8d8;
+
+}
+
+.timeline-item:last-child .timeline-marker::after{
+
+    display:none;
+
+}
+
+.timeline-content{
+
+    padding-bottom:5px;
+
+}
+
+.timeline-number{
+
+    color:#888;
+
+    letter-spacing:3px;
+
+    font-size:.8rem;
+
+    margin-bottom:12px;
+
+    text-transform:uppercase;
+
+}
+
+.timeline-content h3{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:2rem;
+
+    margin:0 0 6px;
+
+}
+
+.timeline-content p{
+
+    color:#777;
+
+    font-size:1rem;
+
+    margin:0;
+    line-height: 1.5;
+
+}
+/*==========================================================
+CHAPTER TWO
+THE COLLECTOR'S JOURNEY
+==========================================================*/
+
+.journey-section{
+
+    background:#111;
+
+    padding:100px 0;
+
+}
+
+.journey-shell{
+
+    position:relative;
+
+    width:min(1100px,92vw);
+
+    margin:0 auto;
+
+}
+
+.journey-content{
+
+    width:100%;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.journey-page{
+
+    width:100%;
+
+    max-width:820px;
+
+    margin:0 auto;
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    justify-content:center;
+
+    text-align:center;
+
+}
+/*==========================================================
+INTRO PAGE
+==========================================================*/
+
+.journey-intro-page{
+
+    min-height:500px;
+
+}
+
+.journey-introduction{
+
+    max-width:700px;
+
+    margin-top:35px;
+
+    color:#d7d7d7;
+
+    font-size:1.25rem;
+
+    line-height:1.9;
+
+}
+/*==========================================================
+YEAR PAGE
+==========================================================*/
+
+.journey-year{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:6rem;
+
+    font-weight:500;
+
+    color:#b08d57;
+
+    margin-bottom:70px;
+
+}
+
+.journey-watch-list{
+
+    width:100%;
+
+    min-height:180px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.journey-watch{
+
+    font-size:1.25rem;
+
+    color:#ddd;
+
+    margin:14px 0;
+
+    letter-spacing:1px;
+
+}
+/*==========================================================
+ARROWS
+==========================================================*/
+
+.journey-arrow{
+
+    position:absolute;
+
+    top:50%;
+
+    transform:translateY(-50%);
+
+    width:72px;
+
+    height:72px;
+
+    border-radius:50%;
+
+    border:2px solid #b08d57;
+
+    background:transparent;
+
+    color:#b08d57;
+
+    font-size:2rem;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.journey-arrow:hover{
+
+    background:#b08d57;
+
+    color:#111;
+
+}
+
+.journey-arrow-left{
+
+    left:-60px;
+
+}
+
+.journey-arrow-right{
+
+    right:-60px;
+
+}
+/*==========================================================
+PROGRESS
+==========================================================*/
+
+.journey-progress{
+
+    margin-top:50px;
+
+    text-align:center;
+
+        color:#b08d57;
+
+    font-size:1rem;
+
+    letter-spacing:5px;
+
+    letter-spacing:4px;
+
+}

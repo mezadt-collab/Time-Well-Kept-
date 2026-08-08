@@ -1,0 +1,135 @@
+{
+  "id": "twk-013",
+  "catalogNumber": "TWK-013",
+
+  "chapter": {
+    "number": 13,
+    "title": "Inspired by the Golden Age",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Timex",
+    "collection": "Q",
+    "displayName": "Timex Q Chronograph",
+    "model": "Q Chronograph",
+    "reference": "TW2W51800UJ",
+    "countryOfOrigin": "USA"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Chronograph",
+    "caseDiameter": "40 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Domed Mineral Crystal",
+    "dialColor": "Salmon",
+    "bezel": "Fixed Tachymeter Bezel",
+    "originalStrap": "Brown Leather",
+    "currentStrap": "Brown Leather",
+    "lugWidth": "20 mm",
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2025,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Vintage Racing Inspired Chronograph",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Timex Q Chronograph",
+    "caption": "A modern chronograph inspired by the golden era of motorsport.",
+    "milestone": "Vintage Racing Chronograph",
+    "importance": 7
+  },
+
+  "story": {
+    "opening": "Not every watch looks forward. Some celebrate the past.",
+
+    "background": "As my collection evolved, I found myself becoming increasingly drawn to watches with history and character. Vintage racing chronographs had always fascinated me, and when Timex introduced the Q Chronograph, it immediately captured my attention.",
+
+    "acquisition": "It wasn't just the design that appealed to me. The warm salmon dial gave the watch a personality unlike anything else in my collection. Combined with the domed crystal and classic panda-inspired layout, it perfectly captured the charm of vintage motorsport chronographs while remaining unmistakably modern.",
+
+    "experience": "From the moment it arrived, I knew I had made the right decision. The watch exceeded my expectations and quickly became one of the most visually interesting pieces in my collection. Every time I wear it, I appreciate the way Timex managed to blend heritage with modern reliability.",
+
+    "whyItMatters": "This watch represents the point where I began appreciating the inspiration behind a watch as much as the watch itself.",
+
+    "favoriteMemory": "Opening the box for the first time and seeing the salmon dial come alive under natural light.",
+
+    "reflection": "The Timex Q Chronograph reminds me that good design never goes out of fashion. The best watches often honour the past while remaining completely relevant today.",
+
+    "collectorReflection": "A watch doesn't need decades of history to feel timeless. Sometimes it simply needs to respect the history that came before it."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 6,
+    "dailyWear": "Occasional",
+    "wouldSell": false,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": false,
+    "country": "USA",
+    "brand": "Timex",
+    "collectionTheme": "Design",
+    "lifeLesson": "Great Design Is Timeless",
+    "isMilestone": false,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "timex",
+      "q",
+      "chronograph",
+      "tw2w51800uj",
+      "salmon",
+      "racing",
+      "vintage",
+      "tachymeter",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk013_timex_q_chronograph",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The past has a way of inspiring the watches we love today.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

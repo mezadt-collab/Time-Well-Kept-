@@ -1,0 +1,136 @@
+{
+  "id": "twk-010",
+  "catalogNumber": "TWK-010",
+
+  "chapter": {
+    "number": 10,
+    "title": "A Gift Worth Waiting For",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Timex",
+    "collection": "Weekender",
+    "displayName": "Timex Weekender Chronograph",
+    "model": "Weekender Chronograph",
+    "reference": "TW2P97400",
+    "countryOfOrigin": "USA"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Chronograph",
+    "caseDiameter": "40 mm",
+    "caseMaterial": "Brass",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Green",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Tan Leather NATO Strap",
+    "currentStrap": "Tan Leather NATO Strap",
+    "lugWidth": "20 mm",
+    "waterResistance": "30 m"
+  },
+
+  "acquisition": {
+    "year": 2024,
+    "type": "Gift",
+    "from": "Friend",
+    "occasion": "Purchased During His Trip to the United States",
+    "purchaseLocation": "United States",
+    "country": "USA",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Timex Weekender Chronograph",
+    "caption": "The first watch I deliberately researched before buying—and one that became an unexpected gift.",
+    "milestone": "First International Purchase",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "This was the first watch I truly chased.",
+
+    "background": "Until this point, most of my watches had been bought because I liked them or had been gifted to me. This was different. I researched prices, compared markets and discovered that the most affordable way to buy this Timex Weekender Chronograph was from the United States.",
+
+    "acquisition": "A close friend was travelling to the US, so I asked him if he could bring the watch back for me. I told him I would pay him once he returned to India. When he finally handed me the watch, he refused to accept any money. Instead, he simply smiled and said, 'This is a gift from me.'",
+
+    "experience": "I had spent weeks looking forward to owning the watch, and it completely lived up to my expectations. The green dial, the clean field-watch styling and the leather NATO strap made it unlike anything else in my collection. It quickly became my preferred field watch and remains one of the easiest watches to wear.",
+
+    "whyItMatters": "This watch marks the point where I became a more informed collector. It also reminds me that the greatest value of a watch often comes from the generosity behind it.",
+
+    "favoriteMemory": "Offering to pay my friend for the watch and watching him refuse, insisting that it was his gift to me.",
+
+    "reflection": "Every time I wear this watch, I remember not only the excitement of finally owning it but also the friendship that made it even more meaningful.",
+
+    "collectorReflection": "The journey a watch takes before it reaches your wrist can become just as important as the watch itself."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Great",
+    "sentimentalRating": 9,
+    "dailyWear": "Regular",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "USA",
+    "brand": "Timex",
+    "collectionTheme": "Friendship",
+    "lifeLesson": "Kindness Makes Every Gift Priceless",
+    "isMilestone": true,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "timex",
+      "weekender",
+      "chronograph",
+      "tw2p97400",
+      "green dial",
+      "field watch",
+      "friend",
+      "gift",
+      "usa",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk010_timex_weekender_chronograph",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Sometimes the best gifts are the ones we planned to buy ourselves.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

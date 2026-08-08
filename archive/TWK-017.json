@@ -1,0 +1,135 @@
+{
+  "id": "twk-017",
+  "catalogNumber": "TWK-017",
+
+  "chapter": {
+    "number": 17,
+    "title": "Learning to Slow Down",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "HMT",
+    "collection": "Janata",
+    "displayName": "HMT Janata (Citizen Collaboration)",
+    "model": "Janata",
+    "reference": null,
+    "countryOfOrigin": "India"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Hand-Wound Mechanical",
+    "caseDiameter": "35 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Red (Repainted Dial with Arabic Numerals)",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": null,
+    "currentStrap": "Black Leather Strap",
+    "lugWidth": "18 mm",
+    "waterResistance": null
+  },
+
+  "acquisition": {
+    "year": 2025,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "First Hand-Wound Mechanical Watch",
+    "purchaseLocation": "Online MOD Watch Seller",
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "HMT Janata (Citizen Collaboration)",
+    "caption": "The watch that introduced me to the rhythm of mechanical time.",
+    "milestone": "First Hand-Wound Watch",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "Some watches ask for nothing more than a battery. Others ask for your attention every single day.",
+
+    "background": "I had always wanted a red dial in my collection, and when I found this HMT Janata with Arabic numerals, it immediately caught my eye. Although it featured a repainted dial, I appreciated its unique appearance. I also knew that HMT had collaborated with Citizen in the early years of its history, which made owning a Janata even more meaningful.",
+
+    "acquisition": "I purchased the watch from an online seller specialising in modified HMT watches. While the red dial was the main attraction, the Arabic numerals gave it an identity unlike any other watch I owned.",
+
+    "experience": "More important than the appearance was what happened after I started wearing it. This became my first hand-wound mechanical watch. Every morning I found myself winding it before putting it on. I loved the fact that if I neglected it, it would simply stop keeping the correct time. Unlike a quartz watch, it demanded a relationship with its owner. That simple daily ritual changed the way I thought about mechanical watches forever.",
+
+    "whyItMatters": "This watch introduced me to the idea that a watch can be more than a tool. It can be something that asks for care in return for keeping time.",
+
+    "favoriteMemory": "Realising that winding the watch each morning quickly became something I genuinely looked forward to rather than a chore.",
+
+    "reflection": "As my collection continued to grow, this watch eventually found a new home. I passed it on to my younger cousin, who had just begun his own journey into watch collecting. It felt fitting that the watch which introduced me to hand-wound movements would now inspire someone else in the same way.",
+
+    "collectorReflection": "Every collection should inspire another. Sometimes the greatest legacy of a watch is the passion it awakens in its next owner."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Gifted to Family",
+    "sentimentalRating": 8,
+    "dailyWear": "No Longer Owned",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Gifted"
+  },
+
+  "ownership": {
+    "currentOwner": "Younger Cousin",
+    "ownershipStatus": "Gifted",
+    "futureDisposition": "Passed On"
+  },
+
+  "analytics": {
+    "movementType": "Hand-Wound Mechanical",
+    "acquiredAsGift": false,
+    "country": "India",
+    "brand": "HMT",
+    "collectionTheme": "Mechanical Journey",
+    "lifeLesson": "The Best Watches Ask for Your Time in Return",
+    "isMilestone": true,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": true,
+    "isQuartz": false
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "hmt",
+      "janata",
+      "citizen collaboration",
+      "hand wound",
+      "mechanical",
+      "red dial",
+      "arabic numerals",
+      "india",
+      "first mechanical"
+    ]
+  },
+
+  "images": {
+    "folder": "twk017_hmt_janata",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The finest watches don't just keep time—they teach patience.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

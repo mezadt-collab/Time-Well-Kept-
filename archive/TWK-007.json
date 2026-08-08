@@ -1,0 +1,136 @@
+{
+  "id": "twk-007",
+  "catalogNumber": "TWK-007",
+
+  "chapter": {
+    "number": 7,
+    "title": "The Surprise",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Daniel Wellington",
+    "collection": "Dapper",
+    "displayName": "Daniel Wellington Dapper",
+    "model": "Dapper",
+    "reference": "B38S9",
+    "countryOfOrigin": "Sweden"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz",
+    "caseDiameter": "38 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "White",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Brown Leather",
+    "currentStrap": "Brown Leather",
+    "lugWidth": null,
+    "waterResistance": "30 m"
+  },
+
+  "acquisition": {
+    "year": 2019,
+    "type": "Gift",
+    "from": "Wife",
+    "occasion": "Surprise Gift",
+    "purchaseLocation": "Daniel Wellington Boutique",
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Daniel Wellington Dapper",
+    "caption": "A reminder that the greatest surprises come from the people who know us best.",
+    "milestone": "First Watch Gifted by My Wife",
+    "importance": 10
+  },
+
+  "story": {
+    "opening": "Some watches remind us of a moment. This one reminds me of the person who created that moment.",
+
+    "background": "My wife and I were walking through a shopping mall with no intention of buying anything. We wandered into a Daniel Wellington boutique, where this watch immediately caught my eye. I casually mentioned that I liked it, and we continued walking through the mall.",
+
+    "acquisition": "A little later, she told me she was going to the washroom. After waiting longer than expected, I went looking for her. Instead of finding her outside the restroom, I found her inside the Daniel Wellington store, standing at the counter and paying for the watch. She had quietly gone back to buy it as a surprise.",
+
+    "experience": "I wore the watch regularly for many years. Its clean white dial, Roman numerals and blue hands gave it a timeless elegance that made it one of my favourite dress watches. Every time I fastened it to my wrist, I was reminded of that unexpected moment inside the boutique.",
+
+    "whyItMatters": "This isn't simply a watch from my wife. It is a reminder of the thoughtfulness behind an unexpected gesture and the joy of being truly known by someone.",
+
+    "favoriteMemory": "Walking into the boutique expecting to find my wife after a long wait and discovering that she was secretly buying the very watch I had admired only minutes earlier.",
+
+    "reflection": "Years later, the watch still represents much more than its minimalist design. It reminds me that love often reveals itself in the quietest gestures rather than the grandest occasions.",
+
+    "collectorReflection": "The finest surprises are the ones that show someone was listening, even when you didn't expect them to."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 10,
+    "dailyWear": "Occasional",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "Sweden",
+    "brand": "Daniel Wellington",
+    "collectionTheme": "Marriage",
+    "lifeLesson": "Love Is Found in the Little Things",
+    "isMilestone": true,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "daniel wellington",
+      "dapper",
+      "b38s9",
+      "wife",
+      "surprise",
+      "gift",
+      "dress watch",
+      "white dial",
+      "roman numerals",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk007_daniel_wellington_dapper",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The best surprises are the ones that come from the people who know us best.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

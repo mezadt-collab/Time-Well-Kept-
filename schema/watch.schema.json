@@ -1,0 +1,405 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timewellkept.com/schema/watch.schema.json",
+  "title": "Time Well Kept Watch Schema",
+  "description": "Schema for all watches in the Time Well Kept collection.",
+  "type": "object",
+  "required": [
+    "id",
+    "catalogNumber",
+    "chapter",
+    "identity",
+    "technicalSpecifications",
+    "acquisition",
+    "museumPlaque",
+    "story",
+    "collectionNotes",
+    "ownership",
+    "analytics",
+    "website",
+    "images",
+    "book"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "catalogNumber": {
+      "type": "string"
+    },
+    "chapter": {
+      "type": "object",
+      "required": [
+        "number",
+        "title",
+        "featured"
+      ],
+      "properties": {
+        "number": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "featured": {
+          "type": "boolean"
+        }
+      }
+    },
+    "identity": {
+      "type": "object",
+      "required": [
+        "brand",
+        "displayName",
+        "countryOfOrigin"
+      ],
+      "properties": {
+        "brand": {
+          "type": "string"
+        },
+        "collection": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "displayName": {
+          "type": "string"
+        },
+        "model": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "countryOfOrigin": {
+          "type": "string"
+        }
+      }
+    },
+    "technicalSpecifications": {
+      "type": "object",
+      "properties": {
+        "movement": {
+          "type": "string"
+        },
+        "calibre": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "caseDiameter": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "caseThickness": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "lugToLug": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "weight": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "caseMaterial": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "crystal": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "dialColor": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "bezel": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "originalStrap": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "currentStrap": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "lugWidth": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "waterResistance": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "acquisition": {
+      "type": "object",
+      "properties": {
+        "year": {
+          "type": "integer"
+        },
+        "type": {
+          "type": "string"
+        },
+        "from": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "occasion": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "purchaseLocation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "country": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "price": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      }
+    },
+    "museumPlaque": {
+      "type": "object",
+      "properties": {
+        "displayName": {
+          "type": "string"
+        },
+        "caption": {
+          "type": "string"
+        },
+        "milestone": {
+          "type": "string"
+        },
+        "importance": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10
+        }
+      }
+    },
+    "story": {
+      "type": "object",
+      "properties": {
+        "opening": {
+          "type": "string"
+        },
+        "background": {
+          "type": "string"
+        },
+        "acquisition": {
+          "type": "string"
+        },
+        "experience": {
+          "type": "string"
+        },
+        "whyItMatters": {
+          "type": "string"
+        },
+        "favoriteMemory": {
+          "type": "string"
+        },
+        "reflection": {
+          "type": "string"
+        },
+        "collectorReflection": {
+          "type": "string"
+        }
+      }
+    },
+    "collectionNotes": {
+      "type": "object",
+      "properties": {
+        "currentCondition": {
+          "type": "string"
+        },
+        "sentimentalRating": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "dailyWear": {
+          "type": "string"
+        },
+        "wouldSell": {
+          "type": "boolean"
+        },
+        "legacyPiece": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        }
+      }
+    },
+    "ownership": {
+      "type": "object",
+      "properties": {
+        "currentOwner": {
+          "type": "string"
+        },
+        "ownershipStatus": {
+          "type": "string"
+        },
+        "futureDisposition": {
+          "type": "string"
+        }
+      }
+    },
+    "analytics": {
+      "type": "object",
+      "properties": {
+        "movementType": {
+          "type": "string"
+        },
+        "acquiredAsGift": {
+          "type": "boolean"
+        },
+        "country": {
+          "type": "string"
+        },
+        "brand": {
+          "type": "string"
+        },
+        "collectionTheme": {
+          "type": "string"
+        },
+        "lifeLesson": {
+          "type": "string"
+        },
+        "isMilestone": {
+          "type": "boolean"
+        },
+        "isDressWatch": {
+          "type": "boolean"
+        },
+        "isSportsWatch": {
+          "type": "boolean"
+        },
+        "isChronograph": {
+          "type": "boolean"
+        },
+        "isAutomatic": {
+          "type": "boolean"
+        },
+        "isMechanical": {
+          "type": "boolean"
+        },
+        "isQuartz": {
+          "type": "boolean"
+        }
+      }
+    },
+    "website": {
+      "type": "object",
+      "properties": {
+        "timeline": {
+          "type": "boolean"
+        },
+        "featured": {
+          "type": "boolean"
+        },
+        "showOnHomepage": {
+          "type": "boolean"
+        },
+        "searchTags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "images": {
+      "type": "object",
+      "properties": {
+        "folder": {
+          "type": "string"
+        },
+        "cover": {
+          "type": "string"
+        },
+        "hero": {
+          "type": "string"
+        },
+        "thumbnail": {
+          "type": "string"
+        },
+        "gallery": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "book": {
+      "type": "object",
+      "properties": {
+        "chapterQuote": {
+          "type": "string"
+        },
+        "chapterOpeningImage": {
+          "type": "string"
+        },
+        "showMuseumPlaque": {
+          "type": "boolean"
+        },
+        "showCollectorReflection": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

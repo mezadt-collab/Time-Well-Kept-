@@ -1,0 +1,135 @@
+{
+  "id": "twk-002",
+  "catalogNumber": "TWK-002",
+
+  "chapter": {
+    "number": 2,
+    "title": "The First Chronograph",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Fossil",
+    "collection": "Grant",
+    "displayName": "Fossil Grant Chronograph",
+    "model": "Grant Chronograph",
+    "reference": null,
+    "countryOfOrigin": "USA"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Chronograph",
+    "caseDiameter": "44 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Navy Blue",
+    "bezel": "Fixed Stainless Steel",
+    "originalStrap": "Stainless Steel Bracelet",
+    "currentStrap": "Stainless Steel Bracelet",
+    "lugWidth": null,
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2014,
+    "type": "Gift",
+    "from": null,
+    "occasion": null,
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Fossil Grant Chronograph",
+    "caption": "One of the earliest companions in my collecting journey.",
+    "milestone": "First Chronograph",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "Some watches become memorable because of how they were acquired. Others become memorable because they simply stayed with you through the years.",
+
+    "background": "This Fossil Grant Chronograph became part of my collection in 2014. At the time, my appreciation for watches was still developing, and this watch quickly became one of my most frequently worn pieces.",
+
+    "acquisition": "Its navy blue dial immediately stood out to me. It was versatile enough to wear almost anywhere, yet distinctive enough to feel special every time I put it on.",
+
+    "experience": "Over the years, the watch became well worn through regular use. Every scratch and mark tells the story of a watch that was enjoyed rather than preserved inside a watch box. It remains on its original stainless steel bracelet, which I can still swap whenever I choose.",
+
+    "whyItMatters": "This was my first chronograph and one of the watches that transformed wearing a watch from a habit into something I genuinely enjoyed.",
+
+    "favoriteMemory": "Watching the watch age naturally over the years, knowing every mark came from moments lived rather than time spent in storage.",
+
+    "reflection": "Looking at it today, I don't see an old Fossil. I see one of the watches that quietly accompanied me through the early years of my collecting journey. It reminds me that sentimental value is earned through time on the wrist.",
+
+    "collectorReflection": "A watch doesn't become important because it stays perfect. It becomes important because it stays with you."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Well Worn",
+    "sentimentalRating": 9,
+    "dailyWear": "No",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "USA",
+    "brand": "Fossil",
+    "collectionTheme": "Early Collection",
+    "lifeLesson": "The watches we wear become the ones we remember.",
+    "isMilestone": true,
+    "isDressWatch": false,
+    "isSportsWatch": false,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "fossil",
+      "grant",
+      "chronograph",
+      "blue",
+      "navy",
+      "quartz",
+      "first chronograph",
+      "well worn",
+      "early collection"
+    ]
+  },
+
+  "images": {
+    "folder": "twk002_fossil_grant_chronograph",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Some watches stay long enough to become part of your story.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

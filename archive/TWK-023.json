@@ -1,0 +1,136 @@
+{
+  "id": "twk-023",
+  "catalogNumber": "TWK-023",
+
+  "chapter": {
+    "number": 23,
+    "title": "Not Every Watch Is Meant for You",
+    "featured": false
+  },
+
+  "identity": {
+    "brand": "Citizen",
+    "collection": "Tsuyosa",
+    "displayName": "Citizen Tsuyosa",
+    "model": "Tsuyosa",
+    "reference": "NJ0151-88L",
+    "countryOfOrigin": "Japan"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Automatic",
+    "calibre": "Citizen 8210",
+    "caseDiameter": "40 mm",
+    "caseMaterial": "Stainless Steel",
+    "crystal": "Sapphire Crystal",
+    "dialColor": "Deep Blue",
+    "bezel": "Smooth Stainless Steel",
+    "originalStrap": "Integrated Stainless Steel Bracelet",
+    "currentStrap": "Integrated Stainless Steel Bracelet",
+    "lugWidth": null,
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2026,
+    "type": "Self Purchase",
+    "from": "Fellow Collector",
+    "occasion": "Pre-Owned Purchase",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Citizen Tsuyosa",
+    "caption": "A watch that taught me as much about myself as it did about collecting.",
+    "milestone": "First Integrated Bracelet Watch",
+    "importance": 6
+  },
+
+  "story": {
+    "opening": "Not every watch we admire is destined to become a favourite.",
+
+    "background": "The Citizen Tsuyosa had been on my radar for quite some time. I admired its integrated bracelet design, colourful dials and the value it offered. When a fellow collector listed this deep blue example for sale, I decided it was the perfect opportunity to experience the watch for myself.",
+
+    "acquisition": "The watch had originally been purchased in Singapore, and buying it from another enthusiast made the experience feel a little more personal than simply ordering one from a retailer. Everything about the watch looked right on paper, and I was excited to add it to the collection.",
+
+    "experience": "After spending time with it, however, I realised something surprising. While I still appreciated the quality, finishing and design, I simply didn't connect with it the way I expected. There was nothing objectively wrong with the watch—it just didn't suit my personal taste as much as I had hoped. That has made me consider selling it in the future so that someone else can enjoy it more than I do.",
+
+    "whyItMatters": "This watch reminded me that collecting isn't about buying what everyone else loves. It's about discovering what genuinely resonates with you.",
+
+    "favoriteMemory": "The anticipation of finally owning a Tsuyosa after admiring the collection for so long.",
+
+    "reflection": "Every collector eventually buys a watch that teaches them something unexpected. For me, the Tsuyosa taught me that admiration from afar doesn't always translate into a lasting connection on the wrist. That lesson is every bit as valuable as finding a watch you love.",
+
+    "collectorReflection": "A thoughtful collection is defined as much by the watches you choose to keep as by the ones you choose to let go."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 4,
+    "dailyWear": "Rare",
+    "wouldSell": true,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Likely Sell"
+  },
+
+  "analytics": {
+    "movementType": "Automatic",
+    "acquiredAsGift": false,
+    "country": "Japan",
+    "brand": "Citizen",
+    "collectionTheme": "Self Discovery",
+    "lifeLesson": "Knowing Your Taste Is Part of Collecting",
+    "isMilestone": true,
+    "isDressWatch": true,
+    "isSportsWatch": true,
+    "isChronograph": false,
+    "isAutomatic": true,
+    "isMechanical": true,
+    "isQuartz": false
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": false,
+    "showOnHomepage": true,
+    "searchTags": [
+      "citizen",
+      "tsuyosa",
+      "nj0151-88l",
+      "automatic",
+      "blue",
+      "integrated bracelet",
+      "pre-owned",
+      "collector",
+      "japan"
+    ]
+  },
+
+  "images": {
+    "folder": "twk023_citizen_tsuyosa",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "bracelet.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The watches that don't stay often teach us as much as the ones that do.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

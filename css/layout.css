@@ -1,0 +1,312 @@
+/*==============================================================
+
+ TIME WELL KEPT
+ Layout
+ Version 2.0.0
+
+==============================================================*/
+
+
+/*--------------------------------------------------------------
+  Main Container
+--------------------------------------------------------------*/
+
+.container{
+
+    width:min(var(--container-width),92%);
+
+    margin:0 auto;
+
+}
+
+
+/*--------------------------------------------------------------
+  Reading Width
+--------------------------------------------------------------*/
+
+.editorial-container{
+
+    width:min(var(--reading-width),90%);
+
+    margin:0 auto;
+
+}
+
+
+/*--------------------------------------------------------------
+  Sections
+--------------------------------------------------------------*/
+
+section{
+
+    position:relative;
+
+    padding:var(--space-xxl) 0;
+
+}
+
+
+/*--------------------------------------------------------------
+  Full Screen Sections
+--------------------------------------------------------------*/
+
+.hero{
+
+    min-height:100vh;
+
+}
+
+
+/*--------------------------------------------------------------
+  Alternating Backgrounds
+--------------------------------------------------------------*/
+
+.editorial{
+
+    background:var(--color-surface);
+
+}
+
+.timeline{
+
+    background:var(--color-background);
+
+}
+
+.collection{
+
+    background:var(--color-surface);
+
+}
+
+.coming-soon{
+
+    background:var(--color-background);
+
+}
+
+.footer{
+
+    background:#0C0C0C;
+
+}
+
+
+/*--------------------------------------------------------------
+  Section Dividers
+--------------------------------------------------------------*/
+
+.section-divider{
+
+    width:180px;
+
+    height:2px;
+
+    margin:3rem auto;
+
+    background:linear-gradient(
+        90deg,
+        transparent,
+        var(--color-gold),
+        transparent
+    );
+
+}
+
+
+/*--------------------------------------------------------------
+  Editorial Divider
+--------------------------------------------------------------*/
+
+.editorial-divider{
+
+    width:180px;
+
+    height:2px;
+
+    margin:2rem auto 5rem;
+
+    background:linear-gradient(
+        90deg,
+        transparent,
+        var(--color-gold),
+        transparent
+    );
+
+}
+
+
+/*--------------------------------------------------------------
+  Gold Divider
+--------------------------------------------------------------*/
+
+.gold-line{
+
+    width:180px;
+
+    height:2px;
+
+    margin:2rem auto;
+
+    background:linear-gradient(
+        90deg,
+        transparent,
+        var(--color-gold),
+        transparent
+    );
+
+}
+
+
+/*--------------------------------------------------------------
+  Flex Utilities
+--------------------------------------------------------------*/
+
+.flex{
+
+    display:flex;
+
+}
+
+.flex-center{
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.flex-between{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+.flex-column{
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+
+/*--------------------------------------------------------------
+  Grid Utilities
+--------------------------------------------------------------*/
+
+.grid{
+
+    display:grid;
+
+}
+
+.grid-2{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:3rem;
+
+}
+
+.grid-3{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:2rem;
+
+}
+
+
+/*--------------------------------------------------------------
+  Cards
+--------------------------------------------------------------*/
+
+.card{
+
+    background:var(--color-surface-light);
+
+    border:1px solid var(--color-border);
+
+    border-radius:var(--radius-md);
+
+    overflow:hidden;
+
+    box-shadow:var(--shadow-soft);
+
+}
+
+
+/*--------------------------------------------------------------
+  Spacing Utilities
+--------------------------------------------------------------*/
+
+.mt-sm{margin-top:var(--space-sm);}
+.mt-md{margin-top:var(--space-md);}
+.mt-lg{margin-top:var(--space-lg);}
+.mt-xl{margin-top:var(--space-xl);}
+
+.mb-sm{margin-bottom:var(--space-sm);}
+.mb-md{margin-bottom:var(--space-md);}
+.mb-lg{margin-bottom:var(--space-lg);}
+.mb-xl{margin-bottom:var(--space-xl);}
+
+
+/*--------------------------------------------------------------
+  Responsive
+--------------------------------------------------------------*/
+
+@media(max-width:992px){
+
+.grid-2{
+
+    grid-template-columns:1fr;
+
+}
+
+.grid-3{
+
+    grid-template-columns:1fr;
+
+}
+
+section{
+
+    padding:6rem 0;
+
+}
+
+}
+
+
+@media(max-width:768px){
+
+.container{
+
+    width:94%;
+
+}
+
+.editorial-container{
+
+    width:94%;
+
+}
+
+section{
+
+    padding:5rem 0;
+
+}
+
+}

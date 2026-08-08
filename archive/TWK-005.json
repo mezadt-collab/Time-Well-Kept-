@@ -1,0 +1,136 @@
+{
+  "id": "twk-005",
+  "catalogNumber": "TWK-005",
+
+  "chapter": {
+    "number": 5,
+    "title": "A Wedding to Remember",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Emporio Armani",
+    "collection": "Ceramica",
+    "displayName": "Emporio Armani Ceramica Renato Chronograph",
+    "model": "Ceramica Renato Chronograph",
+    "reference": "AR1452",
+    "countryOfOrigin": "Italy"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Chronograph",
+    "caseDiameter": "43 mm",
+    "caseMaterial": "Stainless Steel coated with Black Ceramic",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Black",
+    "bezel": "Fixed Ceramic Bezel",
+    "originalStrap": "Black Ceramic Bracelet",
+    "currentStrap": "Black Ceramic Bracelet",
+    "lugWidth": null,
+    "waterResistance": "50 m"
+  },
+
+  "acquisition": {
+    "year": 2018,
+    "type": "Gift",
+    "from": "In-Laws",
+    "occasion": "Wedding",
+    "purchaseLocation": null,
+    "country": "India",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Emporio Armani Ceramica Renato Chronograph",
+    "caption": "A reminder of one of the happiest days of my life.",
+    "milestone": "Wedding Gift",
+    "importance": 9
+  },
+
+  "story": {
+    "opening": "Some watches become special because of where they take you. Others because they remind you where your new life began.",
+
+    "background": "This Emporio Armani Ceramica Renato Chronograph was presented to me on my wedding day by my in-laws. By then, watches had already become an important part of my life, making the gift even more meaningful.",
+
+    "acquisition": "Finished in black ceramic, the watch immediately stood out from everything else I owned. Its sleek monochromatic design felt modern and elegant, making it perfectly suited to the occasion it represented.",
+
+    "experience": "Although it no longer receives regular wrist time, every time I open the watch box and see it, I'm reminded of my wedding day and everything that followed. It remains in excellent condition and continues to occupy an important place within the collection.",
+
+    "whyItMatters": "This watch isn't simply a wedding gift. It represents the beginning of married life and the memories that came with it.",
+
+    "favoriteMemory": "Wearing the watch on one of the most important days of my life and knowing it would always remind me of that occasion.",
+
+    "reflection": "As collectors, we often speak about watches marking moments in time. Few moments are as significant as the day you begin a new chapter with someone you love. This watch preserves that memory better than any photograph ever could.",
+
+    "collectorReflection": "Some watches measure hours. Others measure milestones."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Excellent",
+    "sentimentalRating": 9,
+    "dailyWear": "Rare",
+    "wouldSell": false,
+    "legacyPiece": true,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz",
+    "acquiredAsGift": true,
+    "country": "Italy",
+    "brand": "Emporio Armani",
+    "collectionTheme": "Marriage",
+    "lifeLesson": "Celebrate Life's Milestones",
+    "isMilestone": true,
+    "isDressWatch": true,
+    "isSportsWatch": false,
+    "isChronograph": true,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "emporio armani",
+      "ar1452",
+      "ceramica",
+      "renato",
+      "chronograph",
+      "wedding",
+      "gift",
+      "ceramic",
+      "black",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk005_emporio_armani_ceramica",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "dial.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "Some moments deserve to be remembered forever.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}

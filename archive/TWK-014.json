@@ -1,0 +1,135 @@
+{
+  "id": "twk-014",
+  "catalogNumber": "TWK-014",
+
+  "chapter": {
+    "number": 14,
+    "title": "The World on My Wrist",
+    "featured": true
+  },
+
+  "identity": {
+    "brand": "Casio",
+    "collection": "Collection",
+    "displayName": "Casio AE1200WHL-5AVDF",
+    "model": "AE1200WHL-5AVDF",
+    "reference": "AE1200WHL-5AVDF",
+    "countryOfOrigin": "Japan"
+  },
+
+  "technicalSpecifications": {
+    "movement": "Quartz Digital",
+    "caseDiameter": "43 mm",
+    "caseMaterial": "Resin",
+    "crystal": "Mineral Crystal",
+    "dialColor": "Grey Digital Display",
+    "bezel": "Fixed Resin Bezel",
+    "originalStrap": "Brown Leather",
+    "currentStrap": "Brown Leather",
+    "lugWidth": "18 mm",
+    "waterResistance": "100 m"
+  },
+
+  "acquisition": {
+    "year": 2025,
+    "type": "Self Purchase",
+    "from": null,
+    "occasion": "Travel Watch",
+    "purchaseLocation": "Dubai",
+    "country": "United Arab Emirates",
+    "price": null
+  },
+
+  "museumPlaque": {
+    "displayName": "Casio AE1200WHL-5AVDF",
+    "caption": "A modern icon built for travellers, explorers and dreamers.",
+    "milestone": "The Travel Watch",
+    "importance": 8
+  },
+
+  "story": {
+    "opening": "Some watches are admired because of luxury. Others because they simply do everything brilliantly.",
+
+    "background": "Long before I owned it, I already knew about the Casio AE1200. Among enthusiasts it had earned the nickname 'Casio Royale' because of its unmistakable design. I had always admired it and knew that one day it would become part of my collection.",
+
+    "acquisition": "When the leather strap version became available, it still hadn't officially launched in India. Rather than wait, I paid a premium to have one brought back from Dubai. For me, the additional cost was worth it because I wanted this exact version.",
+
+    "experience": "The watch immediately justified the wait. The world time function, ten-year battery, 100 metres of water resistance and unmistakable design made it one of the most practical watches I own. It has become my dedicated travel watch and one that I reach for whenever functionality matters as much as style.",
+
+    "whyItMatters": "This watch perfectly represents what Casio does best—creating practical, dependable watches that become legends without trying to be luxurious.",
+
+    "favoriteMemory": "Finally holding the leather strap version after waiting for it and knowing it had travelled from Dubai because it wasn't yet available in India.",
+
+    "reflection": "There are watches that impress through craftsmanship and there are watches that impress through intelligent design. The AE1200 belongs firmly in the second category and proves that usefulness can be just as satisfying as luxury.",
+
+    "collectorReflection": "A truly great watch isn't measured by its price. It's measured by how often you instinctively reach for it."
+  },
+
+  "collectionNotes": {
+    "currentCondition": "Great",
+    "sentimentalRating": 6,
+    "dailyWear": "Regular",
+    "wouldSell": false,
+    "legacyPiece": false,
+    "status": "Collection"
+  },
+
+  "ownership": {
+    "currentOwner": "Tanveer Mezad",
+    "ownershipStatus": "Owned",
+    "futureDisposition": "Keep Forever"
+  },
+
+  "analytics": {
+    "movementType": "Quartz Digital",
+    "acquiredAsGift": false,
+    "country": "Japan",
+    "brand": "Casio",
+    "collectionTheme": "Travel",
+    "lifeLesson": "Practicality Never Goes Out of Style",
+    "isMilestone": false,
+    "isDressWatch": false,
+    "isSportsWatch": true,
+    "isChronograph": false,
+    "isAutomatic": false,
+    "isMechanical": false,
+    "isQuartz": true
+  },
+
+  "website": {
+    "timeline": true,
+    "featured": true,
+    "showOnHomepage": true,
+    "searchTags": [
+      "casio",
+      "ae1200",
+      "casio royale",
+      "world time",
+      "travel watch",
+      "10 year battery",
+      "dubai",
+      "digital",
+      "quartz"
+    ]
+  },
+
+  "images": {
+    "folder": "twk014_casio_ae1200",
+    "cover": "cover.jpg",
+    "hero": "hero.jpg",
+    "thumbnail": "thumbnail.jpg",
+    "gallery": [
+      "front.jpg",
+      "wrist.jpg",
+      "display.jpg",
+      "caseback.jpg"
+    ]
+  },
+
+  "book": {
+    "chapterQuote": "The best travel companion is the one that never asks for attention.",
+    "chapterOpeningImage": "hero.jpg",
+    "showMuseumPlaque": true,
+    "showCollectorReflection": true
+  }
+}
