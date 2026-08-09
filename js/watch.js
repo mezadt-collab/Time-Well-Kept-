@@ -324,31 +324,16 @@ function renderGallery(){
 
     const images = currentWatch.images;
 
-    if(!images || !images.gallery || images.gallery.length===0){
-
+    if(!images || !images.gallery || images.gallery.length === 0){
         return "";
-
     }
 
-    /*--------------------------------------
-    Remove hero image from thumbnails
-    --------------------------------------*/
-
-    const gallery = images.gallery.filter(image=>{
-        
-
-        return image.file!==images.hero;
-
+    const gallery = images.gallery.filter(image => {
+        return image.file !== images.hero;
     });
 
-    /*--------------------------------------
-    If nothing remains, don't show gallery
-    --------------------------------------*/
-
-    if(gallery.length===0){
-
+    if(gallery.length === 0){
         return "";
-
     }
 
     return `
@@ -358,80 +343,76 @@ function renderGallery(){
     <div class="watch-container">
 
         <h2 class="section-title">
-
             Museum Gallery
-
         </h2>
 
         <p class="gallery-intro">
-
             Explore this watch in greater detail.
-
         </p>
-        <div class="gallery-layout">    
 
-        <div class="gallery-main">
+        <div class="gallery-layout">
 
-    <button
-        id="gallery-prev"
-        class="gallery-arrow"
-        aria-label="Previous Image"
-    >
-        &#10094;
-    </button>
+            <div class="gallery-main">
 
-    <img
-        id="gallery-main-image"
-        src="${galleryImage(gallery[0].file)}"
-        alt="${gallery[0].title}"
-    >
+                <button
+                    id="gallery-prev"
+                    class="gallery-arrow"
+                    aria-label="Previous Image"
+                >
+                    &#10094;
+                </button>
 
-    <button
-        id="gallery-next"
-        class="gallery-arrow"
-        aria-label="Next Image"
-    >
-        &#10095;
-    </button>
-   ${gallery.length > 1 ? `
+                <img
+                    id="gallery-main-image"
+                    src="${galleryImage(gallery[0].file)}"
+                    alt="${gallery[0].title}"
+                >
 
-<div class="gallery-thumbnails">
+                <button
+                    id="gallery-next"
+                    class="gallery-arrow"
+                    aria-label="Next Image"
+                >
+                    &#10095;
+                </button>
 
-    ${gallery.map((image,index)=>`
+            </div>
 
-        <button
+            ${
+                gallery.length > 1
+                ? `
 
-            class="gallery-thumb ${index===0?"active":""}"
+                <div class="gallery-thumbnails">
 
-            data-image="${galleryImage(image.file)}"
+                    ${gallery.map((image,index) => `
 
-            data-title="${image.title}"
+                        <button
+                            class="gallery-thumb ${index === 0 ? "active" : ""}"
+                            data-image="${galleryImage(image.file)}"
+                            data-title="${image.title}"
+                        >
 
-        >
+                            <img
+                                src="${galleryImage(image.file)}"
+                                alt="${image.title}"
+                                loading="lazy"
+                            >
 
-            <img
+                            <span>
+                                ${image.title}
+                            </span>
 
-                src="${galleryImage(image.file)}"
+                        </button>
 
-                alt="${image.title}"
+                    `).join("")}
 
-                loading="lazy"
+                </div>
 
-            >
+                `
+                : ""
+            }
 
-            <span>
-
-                ${image.title}
-
-            </span>
-
-        </button>
-
-    `).join("")}
-
-</div>
-
-` : ""}
+        </div>
 
     </div>
 
