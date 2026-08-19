@@ -3,7 +3,7 @@
     "title": "Time Well Kept",
     "collector": "Tanveer Mezad",
     "version": "1.0",
-    "watchCount": 23
+    "watchCount": 24
   },
   "watches": [
     {
@@ -20,7 +20,7 @@
         "displayName": "GIO Collection Retirement Watch",
         "model": "Retirement Watch",
         "reference": null,
-        "countryOfOrigin":"Italy",
+        "countryOfOrigin": "Italy",
         "countryCode": "ITA"
       },
       "technicalSpecifications": {
@@ -88,7 +88,6 @@
         "isAutomatic": false,
         "isMechanical": false,
         "isQuartz": true
-
       },
       "website": {
         "timeline": true,
@@ -106,30 +105,30 @@
           "india"
         ]
       },
-    "images": {
-  "folder": "TWK-001",
-  "cover": "TWK-001 cover.jpg",
-  "hero": "TWK-001 hero.jpg",
-  "thumbnail": "TWK-001 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-001 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-001 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-001 caseback.jpg",
-      "title": "Caseback"
-    },
-    {
-      "file": "TWK-001 family.jpg",
-      "title": "Family Legacy"
-    }
-  ]
-},
+      "images": {
+        "folder": "TWK-001",
+        "cover": "TWK-001 cover.jpg",
+        "hero": "TWK-001 hero.jpg",
+        "thumbnail": "TWK-001 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-001 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-001 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-001 caseback.jpg",
+            "title": "Caseback"
+          },
+          {
+            "file": "TWK-001 family.jpg",
+            "title": "Family Legacy"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Every collection has a beginning.",
         "chapterOpeningImage": "hero.jpg",
@@ -237,29 +236,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-002",
-  "cover": "TWK-002 cover.jpg",
-  "hero": "TWK-002 hero.jpg",
-  "thumbnail": "TWK-002 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-002 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-002 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-002 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-002 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-002",
+        "cover": "TWK-002 cover.jpg",
+        "hero": "TWK-002 hero.jpg",
+        "thumbnail": "TWK-002 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-002 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-002 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-002 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-002 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Some watches stay long enough to become part of your story.",
         "chapterOpeningImage": "hero.jpg",
@@ -366,24 +365,24 @@
           "2015"
         ]
       },
-"images": {
-  "folder": "TWK-003",
-  "hero": "TWK-003 hero.jpg",
-  "gallery": [
-    {
-      "file": "TWK-003 hero.jpg",
-      "title": "Hero View"
-    },
-    {
-      "file": "TWK-003 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-003 dial.jpg",
-      "title": "Dial Close-up"
-    }
-  ]
-},
+      "images": {
+        "folder": "TWK-003",
+        "hero": "TWK-003 hero.jpg",
+        "gallery": [
+          {
+            "file": "TWK-003 hero.jpg",
+            "title": "Hero View"
+          },
+          {
+            "file": "TWK-003 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-003 dial.jpg",
+            "title": "Dial Close-up"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Sometimes the best decisions are made in a single moment.",
         "chapterOpeningImage": "hero.jpg",
@@ -438,7 +437,7 @@
       "story": {
         "opening": "Some watches mark moments in time. Others mark entirely new chapters in life.",
         "background": "This Michael Kors Ryker Chronograph entered my collection shortly after my engagement. It was presented to me by my in-laws as a birthday gift, making it one of the first watches connected to an important milestone in my personal life.",
-        "acquisition": "At the time, I wasn't particularly familiar with Michael Kors watches. That didn't matter. What made this watch special was never the name on the dial\u2014it was the thought behind the gift and the occasion it represented.",
+        "acquisition": "At the time, I wasn't particularly familiar with Michael Kors watches. That didn't matter. What made this watch special was never the name on the dial—it was the thought behind the gift and the occasion it represented.",
         "experience": "The watch accompanied me through an exciting period filled with anticipation as I prepared for marriage. Although it doesn't receive as much wrist time today, it remains in excellent condition and continues to occupy an important place in the collection because of the memories attached to it.",
         "whyItMatters": "This watch represents the beginning of a new family and reminds me that the most meaningful watches are often those connected to life's biggest milestones.",
         "favoriteMemory": "Receiving the watch as a birthday gift shortly after my engagement and recognising that it marked the beginning of a completely new chapter in my life.",
@@ -492,29 +491,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-004",
-  "cover": "TWK-004 cover.jpg",
-  "hero": "TWK-004 hero.jpg",
-  "thumbnail": "TWK-004 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-004 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-004 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-004 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-004 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-004",
+        "cover": "TWK-004 cover.jpg",
+        "hero": "TWK-004 hero.jpg",
+        "thumbnail": "TWK-004 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-004 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-004 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-004 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-004 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The most meaningful milestones deserve to be remembered.",
         "chapterOpeningImage": "hero.jpg",
@@ -623,29 +622,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-005",
-  "cover": "TWK-005 cover.jpg",
-  "hero": "TWK-005 hero.jpg",
-  "thumbnail": "TWK-005 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-005 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-005 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-005 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-005 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-005",
+        "cover": "TWK-005 cover.jpg",
+        "hero": "TWK-005 hero.jpg",
+        "thumbnail": "TWK-005 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-005 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-005 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-005 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-005 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Some moments deserve to be remembered forever.",
         "chapterOpeningImage": "hero.jpg",
@@ -704,7 +703,7 @@
         "experience": "Over the years, the watch has remained in good condition. While it doesn't receive as much wrist time today, every time I see it I remember the generosity behind the gift rather than the watch itself.",
         "whyItMatters": "This watch represents the people who wanted us to begin married life with something meaningful that we had chosen ourselves.",
         "favoriteMemory": "Shopping together with my wife while my cousin encouraged us to choose the watches we truly wanted, making the gift feel deeply personal.",
-        "reflection": "This watch reminds me that the thought behind a gift often matters far more than its value. It wasn't just a wedding present\u2014it was a gesture of kindness and affection that has stayed with me ever since.",
+        "reflection": "This watch reminds me that the thought behind a gift often matters far more than its value. It wasn't just a wedding present—it was a gesture of kindness and affection that has stayed with me ever since.",
         "collectorReflection": "The finest gifts are not those chosen for us, but those that allow us to express who we are."
       },
       "collectionNotes": {
@@ -754,29 +753,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-006",
-  "cover": "TWK-006 cover.jpg",
-  "hero": "TWK-006 hero.jpg",
-  "thumbnail": "TWK-006 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-006 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-006 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-006 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-006 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-006",
+        "cover": "TWK-006 cover.jpg",
+        "hero": "TWK-006 hero.jpg",
+        "thumbnail": "TWK-006 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-006 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-006 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-006 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-006 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The most meaningful gifts are the ones chosen with love.",
         "chapterOpeningImage": "hero.jpg",
@@ -799,7 +798,7 @@
         "model": "Dapper",
         "reference": "B38S9",
         "countryOfOrigin": "Sweden",
-        "countryCode": "SWE" 
+        "countryCode": "SWE"
       },
       "technicalSpecifications": {
         "movement": "Quartz",
@@ -885,29 +884,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-007",
-  "cover": "TWK-007 cover.jpg",
-  "hero": "TWK-007 hero.jpg",
-  "thumbnail": "TWK-007 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-007 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-007 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-007 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-007 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-007",
+        "cover": "TWK-007 cover.jpg",
+        "hero": "TWK-007 hero.jpg",
+        "thumbnail": "TWK-007 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-007 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-007 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-007 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-007 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The best surprises are the ones that come from the people who know us best.",
         "chapterOpeningImage": "hero.jpg",
@@ -1016,29 +1015,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-008",
-  "cover": "TWK-008 cover.jpg",
-  "hero": "TWK-008 hero.jpg",
-  "thumbnail": "TWK-008 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-008 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-008 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-008 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-008 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-008",
+        "cover": "TWK-008 cover.jpg",
+        "hero": "TWK-008 hero.jpg",
+        "thumbnail": "TWK-008 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-008 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-008 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-008 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-008 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The greatest surprises are the ones we never see coming.",
         "chapterOpeningImage": "hero.jpg",
@@ -1145,29 +1144,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-009",
-  "cover": "TWK-009 cover.jpg",
-  "hero": "TWK-009 hero.jpg",
-  "thumbnail": "TWK-009 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-009 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-009 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-009 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-009 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-009",
+        "cover": "TWK-009 cover.jpg",
+        "hero": "TWK-009 hero.jpg",
+        "thumbnail": "TWK-009 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-009 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-009 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-009 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-009 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Sometimes making a watch your own is the most rewarding modification of all.",
         "chapterOpeningImage": "hero.jpg",
@@ -1215,7 +1214,7 @@
       },
       "museumPlaque": {
         "displayName": "Timex Weekender Chronograph",
-        "caption": "The first watch I deliberately researched before buying\u2014and one that became an unexpected gift.",
+        "caption": "The first watch I deliberately researched before buying—and one that became an unexpected gift.",
         "milestone": "First International Purchase",
         "importance": 9
       },
@@ -1276,29 +1275,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-010",
-  "cover": "TWK-010 cover.jpg",
-  "hero": "TWK-010 hero.jpg",
-  "thumbnail": "TWK-010 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-010 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-010 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-010 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-010 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-010",
+        "cover": "TWK-010 cover.jpg",
+        "hero": "TWK-010 hero.jpg",
+        "thumbnail": "TWK-010 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-010 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-010 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-010 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-010 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Sometimes the best gifts are the ones we planned to buy ourselves.",
         "chapterOpeningImage": "hero.jpg",
@@ -1405,29 +1404,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-011",
-  "cover": "TWK-011 cover.jpg",
-  "hero": "TWK-011 hero.jpg",
-  "thumbnail": "TWK-011 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-011 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-011 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-011 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-011 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-011",
+        "cover": "TWK-011 cover.jpg",
+        "hero": "TWK-011 hero.jpg",
+        "thumbnail": "TWK-011 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-011 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-011 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-011 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-011 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The best relationships are sometimes the ones that take time to develop.",
         "chapterOpeningImage": "hero.jpg",
@@ -1482,7 +1481,7 @@
       "story": {
         "opening": "Not every watch is bought to be admired. Some are bought to be trusted.",
         "background": "I wanted a watch that I could wear without hesitation. Something inexpensive, dependable and capable of handling situations where I wouldn't want to risk damaging my other watches.",
-        "acquisition": "The Casio MRW200H was the obvious choice. It offered everything I needed\u2014excellent water resistance, outstanding reliability and a price that encouraged me to wear it freely rather than worry about it.",
+        "acquisition": "The Casio MRW200H was the obvious choice. It offered everything I needed—excellent water resistance, outstanding reliability and a price that encouraged me to wear it freely rather than worry about it.",
         "experience": "This watch has seen rain, outdoor activities, water and the kind of everyday abuse that would make me think twice about wearing many other watches. It has never let me down. The original resin strap was eventually replaced with an aftermarket plastic strap, but the watch continues to perform exactly as it always has. Its honest signs of wear are proof that it has fulfilled the role it was purchased for.",
         "whyItMatters": "This watch taught me that reliability often matters far more than luxury. It has always done exactly what I asked of it.",
         "favoriteMemory": "Reaching for it without a second thought whenever the weather looked bad or the day promised to be rough on a watch.",
@@ -1535,29 +1534,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-012",
-  "cover": "TWK-012 cover.jpg",
-  "hero": "TWK-012 hero.jpg",
-  "thumbnail": "TWK-012 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-012 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-012 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-012 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-012 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-012",
+        "cover": "TWK-012 cover.jpg",
+        "hero": "TWK-012 hero.jpg",
+        "thumbnail": "TWK-012 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-012 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-012 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-012 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-012 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The watches we trust the most are often the ones we worry about the least.",
         "chapterOpeningImage": "hero.jpg",
@@ -1665,29 +1664,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-013",
-  "cover": "TWK-013 cover.jpg",
-  "hero": "TWK-013 hero.jpg",
-  "thumbnail": "TWK-013 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-013 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-013 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-013 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-013 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-013",
+        "cover": "TWK-013 cover.jpg",
+        "hero": "TWK-013 hero.jpg",
+        "thumbnail": "TWK-013 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-013 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-013 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-013 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-013 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The past has a way of inspiring the watches we love today.",
         "chapterOpeningImage": "hero.jpg",
@@ -1744,7 +1743,7 @@
         "background": "Long before I owned it, I already knew about the Casio AE1200. Among enthusiasts it had earned the nickname 'Casio Royale' because of its unmistakable design. I had always admired it and knew that one day it would become part of my collection.",
         "acquisition": "When the leather strap version became available, it still hadn't officially launched in India. Rather than wait, I paid a premium to have one brought back from Dubai. For me, the additional cost was worth it because I wanted this exact version.",
         "experience": "The watch immediately justified the wait. The world time function, ten-year battery, 100 metres of water resistance and unmistakable design made it one of the most practical watches I own. It has become my dedicated travel watch and one that I reach for whenever functionality matters as much as style.",
-        "whyItMatters": "This watch perfectly represents what Casio does best\u2014creating practical, dependable watches that become legends without trying to be luxurious.",
+        "whyItMatters": "This watch perfectly represents what Casio does best—creating practical, dependable watches that become legends without trying to be luxurious.",
         "favoriteMemory": "Finally holding the leather strap version after waiting for it and knowing it had travelled from Dubai because it wasn't yet available in India.",
         "reflection": "There are watches that impress through craftsmanship and there are watches that impress through intelligent design. The AE1200 belongs firmly in the second category and proves that usefulness can be just as satisfying as luxury.",
         "collectorReflection": "A truly great watch isn't measured by its price. It's measured by how often you instinctively reach for it."
@@ -1794,30 +1793,30 @@
           "quartz"
         ]
       },
-     "images": {
-  "folder": "TWK-014",
-  "cover": "TWK-014 cover.jpg",
-  "hero": "TWK-014 hero.jpg",
-  "thumbnail": "TWK-014 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-014 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-014 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-014 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-014 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+      "images": {
+        "folder": "TWK-014",
+        "cover": "TWK-014 cover.jpg",
+        "hero": "TWK-014 hero.jpg",
+        "thumbnail": "TWK-014 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-014 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-014 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-014 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-014 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The best travel companion is the one that never asks for attention.",
         "chapterOpeningImage": "hero.jpg",
@@ -1924,30 +1923,30 @@
           "quartz"
         ]
       },
-     "images": {
-  "folder": "TWK-015",
-  "cover": "TWK-015 cover.jpg",
-  "hero": "TWK-015 hero.jpg",
-  "thumbnail": "TWK-015 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-015 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-015 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-015 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-015 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+      "images": {
+        "folder": "TWK-015",
+        "cover": "TWK-015 cover.jpg",
+        "hero": "TWK-015 hero.jpg",
+        "thumbnail": "TWK-015 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-015 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-015 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-015 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-015 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Sometimes the watch you need isn't the one you would have chosen.",
         "chapterOpeningImage": "hero.jpg",
@@ -2056,29 +2055,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-016",
-  "cover": "TWK-016 cover.jpg",
-  "hero": "TWK-016 hero.jpg",
-  "thumbnail": "TWK-016 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-016 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-016 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-016 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-016 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-016",
+        "cover": "TWK-016 cover.jpg",
+        "hero": "TWK-016 hero.jpg",
+        "thumbnail": "TWK-016 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-016 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-016 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-016 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-016 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The watches we never planned to own sometimes become the ones with the best stories.",
         "chapterOpeningImage": "hero.jpg",
@@ -2186,31 +2185,31 @@
         ]
       },
       "images": {
-  "folder": "TWK-017",
-  "cover": "TWK-017 cover.jpg",
-  "hero": "TWK-017 hero.jpg",
-  "thumbnail": "TWK-017 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-017 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-017 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-017 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-017 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-017",
+        "cover": "TWK-017 cover.jpg",
+        "hero": "TWK-017 hero.jpg",
+        "thumbnail": "TWK-017 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-017 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-017 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-017 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-017 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
-        "chapterQuote": "The finest watches don't just keep time\u2014they teach patience.",
+        "chapterQuote": "The finest watches don't just keep time—they teach patience.",
         "chapterOpeningImage": "hero.jpg",
         "showMuseumPlaque": true,
         "showCollectorReflection": true
@@ -2262,7 +2261,7 @@
       },
       "story": {
         "opening": "The best discoveries are sometimes made without a plan.",
-        "background": "It was a quiet Sunday afternoon, and I found myself looking for something to do. On a whim, I decided to visit the HMT Museum in Bengaluru. I had no intention of buying a watch that day\u2014I simply wanted to explore a piece of Indian watchmaking history.",
+        "background": "It was a quiet Sunday afternoon, and I found myself looking for something to do. On a whim, I decided to visit the HMT Museum in Bengaluru. I had no intention of buying a watch that day—I simply wanted to explore a piece of Indian watchmaking history.",
         "acquisition": "As I browsed through the museum store, this HMT Tareeq immediately caught my eye. The sunray blue dial was understated yet elegant, and I found myself walking out with a watch I hadn't planned to buy only an hour earlier.",
         "experience": "One of the details I enjoy most about this watch is the way the dial changes character throughout the day. Depending on the lighting, it can appear subtle and restrained or bright and full of life. I eventually replaced the original folded steel bracelet with either a leather strap or a Milanese mesh bracelet, both of which suit the watch beautifully.",
         "whyItMatters": "This watch reminds me that some of the most satisfying purchases are the ones that happen naturally, without months of planning or research.",
@@ -2315,30 +2314,30 @@
           "mesh bracelet"
         ]
       },
-     "images": {
-  "folder": "TWK-018",
-  "cover": "TWK-018 cover.jpg",
-  "hero": "TWK-018 hero.jpg",
-  "thumbnail": "TWK-018 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-018 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-018 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-018 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-018 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+      "images": {
+        "folder": "TWK-018",
+        "cover": "TWK-018 cover.jpg",
+        "hero": "TWK-018 hero.jpg",
+        "thumbnail": "TWK-018 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-018 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-018 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-018 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-018 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Some of the best days begin with no plan at all.",
         "chapterOpeningImage": "hero.jpg",
@@ -2395,7 +2394,7 @@
         "background": "When I decided it was finally time to buy my first automatic watch, I spent weeks researching the options. I compared watches from Alba, Invicta and several smaller brands, trying to find the best balance between quality, design and value.",
         "acquisition": "Although there were less expensive choices available, I kept coming back to the Timex Marlin. Eventually, I decided to stretch my budget rather than settle for something I wasn't completely convinced about. Looking back, it was the right decision.",
         "experience": "The deep blue dial, vintage-inspired design and smooth automatic movement immediately made the watch feel special. I later replaced the original black leather strap with a Jubilee bracelet, giving it a completely different personality while retaining everything I loved about the watch itself. More importantly, it became the first automatic movement I owned and the watch that deepened my appreciation for traditional mechanical watchmaking.",
-        "whyItMatters": "This watch marks one of the biggest milestones in my collecting journey\u2014the transition from quartz watches to automatic movements.",
+        "whyItMatters": "This watch marks one of the biggest milestones in my collecting journey—the transition from quartz watches to automatic movements.",
         "favoriteMemory": "Putting on my first automatic watch and feeling the smooth sweep of the seconds hand, knowing I had finally reached a milestone I had been looking forward to for years.",
         "reflection": "Every collection has defining moments. Buying my first automatic was one of them. It wasn't simply another watch; it represented a new chapter in how I appreciated horology.",
         "collectorReflection": "The first automatic watch doesn't just change your collection. It changes the way you look at every watch that follows."
@@ -2446,31 +2445,31 @@
         ]
       },
       "images": {
-  "folder": "TWK-019",
-  "cover": "TWK-019 cover.jpg",
-  "hero": "TWK-019 hero.jpg",
-  "thumbnail": "TWK-019 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-019 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-019 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-019 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-019 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-019",
+        "cover": "TWK-019 cover.jpg",
+        "hero": "TWK-019 hero.jpg",
+        "thumbnail": "TWK-019 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-019 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-019 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-019 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-019 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
-        "chapterQuote": "The first automatic watch doesn't just tell time\u2014it marks a new chapter in a collector's journey.",
+        "chapterQuote": "The first automatic watch doesn't just tell time—it marks a new chapter in a collector's journey.",
         "chapterOpeningImage": "hero.jpg",
         "showMuseumPlaque": true,
         "showCollectorReflection": true
@@ -2525,11 +2524,11 @@
         "opening": "Some watches are bought because we want them. Others are bought because we have finally earned them.",
         "background": "The year 2025 was one of the most demanding years of my professional life. It tested my patience, resilience and commitment. Around the same time, I had the privilege of completing Umrah, a deeply meaningful experience that gave me perspective and gratitude. Shortly afterwards, my company recognised the year's hard work by announcing a substantial bonus.",
         "acquisition": "For years I had dreamed of owning a Seiko diver, and this felt like the right moment. The PADI 60th Anniversary edition immediately stood apart from every other Seiko I had considered. The green gradient dial with its subtle wave texture, the matching green bezel and the anniversary significance made it impossible to ignore. I spent considerable time negotiating with a senior executive at Ethos to secure the best possible deal before finally placing the order. A few days later, the watch arrived at my home, carefully shipped from their Mohali boutique.",
-        "experience": "The first time I held it, I knew this was the watch I had been waiting for. Every detail exceeded my expectations\u2014from the way the dial changed under different lighting to the reassuring feel of the bezel and bracelet. It wasn't simply another purchase; it was the culmination of years of dreaming, months of patience and a reward for perseverance. Every time I wear it, I remember not only the watch itself but everything that made owning it possible.",
+        "experience": "The first time I held it, I knew this was the watch I had been waiting for. Every detail exceeded my expectations—from the way the dial changed under different lighting to the reassuring feel of the bezel and bracelet. It wasn't simply another purchase; it was the culmination of years of dreaming, months of patience and a reward for perseverance. Every time I wear it, I remember not only the watch itself but everything that made owning it possible.",
         "whyItMatters": "This watch represents faith, perseverance, professional achievement and the fulfilment of a long-held dream. More than any other watch in my collection, it tells the story of a chapter in my life rather than a moment.",
         "favoriteMemory": "Opening the delivery box at home and seeing the green wave-textured dial for the first time, knowing the journey to owning it had finally come to an end.",
         "reflection": "Years from now I may own watches that cost more or are technically superior, but I doubt any will carry the same emotional weight. This Seiko will always remind me that some rewards are sweetest because of everything that came before them.",
-        "collectorReflection": "The finest watches are not always the rarest\u2014they are the ones that represent the greatest personal victories."
+        "collectorReflection": "The finest watches are not always the rarest—they are the ones that represent the greatest personal victories."
       },
       "collectionNotes": {
         "currentCondition": "Excellent",
@@ -2579,29 +2578,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-020",
-  "cover": "TWK-020 cover.jpg",
-  "hero": "TWK-020 hero.jpg",
-  "thumbnail": "TWK-020 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-020 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-020 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-020 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-020 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-020",
+        "cover": "TWK-020 cover.jpg",
+        "hero": "TWK-020 hero.jpg",
+        "thumbnail": "TWK-020 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-020 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-020 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-020 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-020 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Some dreams are worth every challenge it takes to reach them.",
         "chapterOpeningImage": "hero.jpg",
@@ -2708,29 +2707,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-021",
-  "cover": "TWK-021 cover.jpg",
-  "hero": "TWK-021 hero.jpg",
-  "thumbnail": "TWK-021 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-021 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-021 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-021 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-021 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-021",
+        "cover": "TWK-021 cover.jpg",
+        "hero": "TWK-021 hero.jpg",
+        "thumbnail": "TWK-021 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-021 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-021 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-021 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-021 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Every collector eventually learns that some watches are chapters, not the whole story.",
         "chapterOpeningImage": "hero.jpg",
@@ -2784,8 +2783,8 @@
       },
       "story": {
         "opening": "Some watches are bought in boutiques. Others are discovered.",
-        "background": "I had heard about Bengaluru's famous Sunday Bazaar in Chickpet for quite some time. One weekend, while my wife and daughter were visiting my in-laws, I finally decided to explore it for myself. I had no shopping list and no expectations\u2014I simply wanted to experience the hunt.",
-        "acquisition": "Among countless vintage watches and old timepieces, one watch immediately stood out: an HMT Tareeq Mechanical. I wasn't completely certain about buying it at first, but after inspecting it, I realised it was in remarkably good refurbished condition and didn't even require servicing. For \u20b91,450, I knew I had found something special.",
+        "background": "I had heard about Bengaluru's famous Sunday Bazaar in Chickpet for quite some time. One weekend, while my wife and daughter were visiting my in-laws, I finally decided to explore it for myself. I had no shopping list and no expectations—I simply wanted to experience the hunt.",
+        "acquisition": "Among countless vintage watches and old timepieces, one watch immediately stood out: an HMT Tareeq Mechanical. I wasn't completely certain about buying it at first, but after inspecting it, I realised it was in remarkably good refurbished condition and didn't even require servicing. For ₹1,450, I knew I had found something special.",
         "experience": "Unlike many vintage purchases, this watch was ready to wear from the very beginning. It has become one of the watches I wear most regularly, not because it is the most expensive piece I own, but because every time I look at it I remember the excitement of finding it in an unexpected place. It also meant that I now owned both the quartz and mechanical versions of the Tareeq, allowing me to appreciate the evolution of the model.",
         "whyItMatters": "This watch represents the thrill of discovering something rather than simply ordering it online. It reminds me that collecting is as much about the journey as it is about the watch.",
         "favoriteMemory": "Walking through the crowded lanes of Sunday Bazaar and spotting the Tareeq among dozens of forgotten watches, knowing almost immediately that it was coming home with me.",
@@ -2839,29 +2838,29 @@
         ]
       },
       "images": {
-  "folder": "TWK-022",
-  "cover": "TWK-022 cover.jpg",
-  "hero": "TWK-022 hero.jpg",
-  "thumbnail": "TWK-022 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-022 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-022 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-022 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-022 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-022",
+        "cover": "TWK-022 cover.jpg",
+        "hero": "TWK-022 hero.jpg",
+        "thumbnail": "TWK-022 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-022 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-022 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-022 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-022 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "Sometimes the joy of a watch begins long before you wear it.",
         "chapterOpeningImage": "hero.jpg",
@@ -2918,7 +2917,7 @@
         "opening": "Not every watch we admire is destined to become a favourite.",
         "background": "The Citizen Tsuyosa had been on my radar for quite some time. I admired its integrated bracelet design, colourful dials and the value it offered. When a fellow collector listed this deep blue example for sale, I decided it was the perfect opportunity to experience the watch for myself.",
         "acquisition": "The watch had originally been purchased in Singapore, and buying it from another enthusiast made the experience feel a little more personal than simply ordering one from a retailer. Everything about the watch looked right on paper, and I was excited to add it to the collection.",
-        "experience": "After spending time with it, however, I realised something surprising. While I still appreciated the quality, finishing and design, I simply didn't connect with it the way I expected. There was nothing objectively wrong with the watch\u2014it just didn't suit my personal taste as much as I had hoped. That has made me consider selling it in the future so that someone else can enjoy it more than I do.",
+        "experience": "After spending time with it, however, I realised something surprising. While I still appreciated the quality, finishing and design, I simply didn't connect with it the way I expected. There was nothing objectively wrong with the watch—it just didn't suit my personal taste as much as I had hoped. That has made me consider selling it in the future so that someone else can enjoy it more than I do.",
         "whyItMatters": "This watch reminded me that collecting isn't about buying what everyone else loves. It's about discovering what genuinely resonates with you.",
         "favoriteMemory": "The anticipation of finally owning a Tsuyosa after admiring the collection for so long.",
         "reflection": "Every collector eventually buys a watch that teaches them something unexpected. For me, the Tsuyosa taught me that admiration from afar doesn't always translate into a lasting connection on the wrist. That lesson is every bit as valuable as finding a watch you love.",
@@ -2970,31 +2969,160 @@
         ]
       },
       "images": {
-  "folder": "TWK-023",
-  "cover": "TWK-023 cover.jpg",
-  "hero": "TWK-023 hero.jpg",
-  "thumbnail": "TWK-023 thumbnail.jpg",
-  "gallery": [
-    {
-      "file": "TWK-023 front.jpg",
-      "title": "Front View"
-    },
-    {
-      "file": "TWK-023 wrist.jpg",
-      "title": "On the Wrist"
-    },
-    {
-      "file": "TWK-023 dial.jpg",
-      "title": "Dial Close-up"
-    },
-    {
-      "file": "TWK-023 caseback.jpg",
-      "title": "Caseback"
-    }
-  ]
-},
+        "folder": "TWK-023",
+        "cover": "TWK-023 cover.jpg",
+        "hero": "TWK-023 hero.jpg",
+        "thumbnail": "TWK-023 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-023 front.jpg",
+            "title": "Front View"
+          },
+          {
+            "file": "TWK-023 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-023 dial.jpg",
+            "title": "Dial Close-up"
+          },
+          {
+            "file": "TWK-023 caseback.jpg",
+            "title": "Caseback"
+          }
+        ]
+      },
       "book": {
         "chapterQuote": "The watches that don't stay often teach us as much as the ones that do.",
+        "chapterOpeningImage": "hero.jpg",
+        "showMuseumPlaque": true,
+        "showCollectorReflection": true
+      }
+    },
+    {
+      "id": "twk-024",
+      "catalogNumber": "TWK-024",
+      "chapter": {
+        "number": 24,
+        "title": "A Little Bit of Fun",
+        "featured": false
+      },
+      "identity": {
+        "brand": "Casio",
+        "collection": "F-91W",
+        "displayName": "Casio F-91WG-9 Red LCD Mod",
+        "model": "F-91WG-9",
+        "reference": "F-91WG-9",
+        "countryOfOrigin": "Japan",
+        "countryCode": "JPN"
+      },
+      "technicalSpecifications": {
+        "movement": "Quartz Digital",
+        "caseDiameter": "38.2 mm",
+        "caseMaterial": "Resin",
+        "crystal": "Resin Crystal",
+        "dialColor": "Red LCD (modded with red colour film)",
+        "bezel": "Resin",
+        "originalStrap": "Black Resin Strap",
+        "currentStrap": "Black Resin Strap",
+        "lugWidth": null,
+        "waterResistance": "Water Resistant"
+      },
+      "acquisition": {
+        "year": 2026,
+        "type": "Self Purchase",
+        "from": "WhatsApp Watch Group",
+        "occasion": "Impulse Purchase",
+        "purchaseLocation": "WhatsApp Watch Group",
+        "country": "India",
+        "price": 1800
+      },
+      "museumPlaque": {
+        "displayName": "Casio F-91WG-9 Red LCD Mod",
+        "caption": "A tiny Casio bought simply because it looked cool.",
+        "milestone": "Fun Digital Mod",
+        "importance": 6
+      },
+      "story": {
+        "opening": "Not every watch needs to be serious. Sometimes you see something fun, and you simply want it on your wrist.",
+        "background": "I came across this Casio F-91WG-9 while searching for something completely different. The base watch is the familiar F-91W, but the seller had added a simple red colour film over the LCD. The result immediately caught my eye.",
+        "acquisition": "The watch was offered brand new through a WhatsApp watch group for ₹1,800 plus shipping, complete with its box, tags and warranty. At that price, I didn't need a long justification. I liked the look, so I bought it.",
+        "experience": "The red display works surprisingly well with the gold accents of the F-91WG-9. In normal light, the contrast is good and the watch has a distinctive retro character. The trade-off appears in low light: the film reduces legibility and also prevents the built-in light from passing through effectively. It is a cosmetic modification rather than a functional improvement, but that is part of its charm.",
+        "whyItMatters": "This watch reminds me that a collection should have room for inexpensive watches bought purely for enjoyment. Not every addition needs to mark a major milestone.",
+        "favoriteMemory": "Seeing the red LCD on the wrist for the first time and realising that such a simple modification completely changed the personality of the F-91W.",
+        "reflection": "The F-91W is already an icon, but this little modification gives it a very different personality. It sacrifices some low-light practicality for visual character, and for a ₹1,800 purchase, I am perfectly happy with that trade-off.",
+        "collectorReflection": "A collection should not take itself too seriously. Sometimes the best watch is simply the one that makes you smile when you look at your wrist."
+      },
+      "collectionNotes": {
+        "currentCondition": "New",
+        "sentimentalRating": 5,
+        "dailyWear": "Occasional",
+        "wouldSell": false,
+        "legacyPiece": false,
+        "status": "Collection"
+      },
+      "ownership": {
+        "currentOwner": "Tanveer Mezad",
+        "ownershipStatus": "Owned",
+        "futureDisposition": "Keep"
+      },
+      "analytics": {
+        "movementType": "Quartz Digital",
+        "category": "Digital",
+        "acquiredAsGift": false,
+        "country": "Japan",
+        "brand": "Casio",
+        "collectionTheme": "Fun & Personalisation",
+        "lifeLesson": "Collect What Makes You Smile",
+        "isMilestone": false,
+        "isDressWatch": false,
+        "isSportsWatch": false,
+        "isChronograph": false,
+        "isAutomatic": false,
+        "isMechanical": false,
+        "isQuartz": true
+      },
+      "website": {
+        "timeline": true,
+        "featured": false,
+        "showOnHomepage": true,
+        "searchTags": [
+          "casio",
+          "f-91w",
+          "f-91wg-9",
+          "digital",
+          "red lcd",
+          "mod",
+          "red film",
+          "gold",
+          "retro",
+          "fun watch",
+          "quartz",
+          "2026"
+        ]
+      },
+      "images": {
+        "folder": "TWK-024",
+        "cover": "TWK-024 hero.jpg",
+        "hero": "TWK-024 hero.jpg",
+        "thumbnail": "TWK-024 thumbnail.jpg",
+        "gallery": [
+          {
+            "file": "TWK-024 hero.jpg",
+            "title": "Hero View"
+          },
+          {
+            "file": "TWK-024 wrist.jpg",
+            "title": "On the Wrist"
+          },
+          {
+            "file": "TWK-024 close-up.jpg",
+            "title": "Red LCD Close-up"
+          }
+        ]
+      },
+      "book": {
+        "chapterQuote": "A collection should have room for watches that simply make you smile.",
         "chapterOpeningImage": "hero.jpg",
         "showMuseumPlaque": true,
         "showCollectorReflection": true
