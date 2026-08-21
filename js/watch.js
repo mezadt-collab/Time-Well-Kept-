@@ -2,8 +2,8 @@
 ==========================================================
 TIME WELL KEPT
 watch.js
-Version 7
-Gallery stability + image orientation
+Version 8
+Automatic folder-driven Museum Gallery
 ==========================================================
 */
 
@@ -25,11 +25,12 @@ async function initialiseWatchPage(){
         if(!currentWatch){ showError("Watch not found."); return; }
         timeline = await TimeWellKept.getTimeline();
         currentIndex = timeline.findIndex(watch => watch.catalogNumber === currentWatch.catalogNumber);
+
         const galleryItems = await loadGalleryItems();
-renderWatch(galleryItems);
-initialiseGallery(galleryItems);
-initialiseGalleryImages();
-initialiseRevealAnimation();
+        renderWatch(galleryItems);
+        initialiseGallery(galleryItems);
+        initialiseGalleryImages();
+        initialiseRevealAnimation();
     }catch(error){ console.error(error); showError("Unable to load chapter."); }
 }
 
@@ -46,7 +47,9 @@ async function loadGalleryItems(){
     if(!folder) return [];
 
     try{
-        const response = await fetch("../archive/gallery-manifest.json");
+        const response = await fetch("../archive/gallery-manifest.json", {
+            cache: "no-store"
+        });
 
         if(!response.ok){
             throw new Error(`Gallery manifest failed: ${response.status}`);
@@ -68,13 +71,12 @@ async function loadGalleryItems(){
         return files
             .filter(file => !excluded.has(String(file).toLowerCase()))
             .map((file,index) => ({
-                file: file,
+                file,
                 title: galleryTitle(file,index)
             }));
     }
     catch(error){
         console.error("Unable to load gallery manifest:", error);
-
         return [];
     }
 }
@@ -100,8 +102,8 @@ function galleryTitle(file,index){
 function showLoading(){ document.getElementById("watch-page").innerHTML=`<section class="watch-loading"><div class="watch-container"><h2>Loading Chapter...</h2></div></section>`; }
 function showError(message){ document.getElementById("watch-page").innerHTML=`<section class="watch-error"><div class="watch-container"><h2>${message}</h2></div></section>`; }
 
-function renderWatch(){
-    document.getElementById("watch-page").innerHTML=`${renderHero()}${renderGallery()}${renderStory()}${renderMuseumPlaque()}${renderCollectorReflection()}${renderNavigation()}`;
+function renderWatch(galleryItems){
+    document.getElementById("watch-page").innerHTML=`${renderHero()}${renderGallery(galleryItems)}${renderStory()}${renderMuseumPlaque()}${renderCollectorReflection()}${renderNavigation()}`;
 }
 
 function renderHero(){
@@ -109,8 +111,7 @@ return `<section class="watch-hero"><div class="watch-container"><div class="wat
 }
 
 function renderGallery(gallery){
-    const gallery=getGalleryItems();
-    if(!gallery.length) return "";
+    if(!Array.isArray(gallery) || !gallery.length) return "";
     return `<section class="watch-gallery"><div class="watch-container"><h2 class="section-title">Museum Gallery</h2><p class="gallery-intro">Explore this watch in greater detail.</p><div class="gallery-layout"><div class="gallery-main"><button id="gallery-prev" class="gallery-arrow" aria-label="Previous Image" type="button">&#10094;</button><img id="gallery-main-image" class="gallery-main-image" src="${galleryImage(gallery[0].file)}" alt="${gallery[0].title}" decoding="async"><button id="gallery-next" class="gallery-arrow" aria-label="Next Image" type="button">&#10095;</button></div>${gallery.length>1?`<div class="gallery-thumbnails">${gallery.map((image,index)=>`<button class="gallery-thumb ${index===0?"active":""}" data-index="${index}" type="button" aria-label="Show ${image.title}"><img src="${galleryImage(image.file)}" alt="${image.title}" loading="lazy" decoding="async"><span>${image.title}</span></button>`).join("")}</div>`:""}</div></div></section>`;
 }
 
@@ -136,9 +137,11 @@ function initialiseGallery(items){
     const thumbnails=Array.from(document.querySelectorAll(".gallery-thumb"));
     const previous=document.getElementById("gallery-prev");
     const next=document.getElementById("gallery-next");
-  if(!Array.isArray(items) || !items.length){
-    return;
-}
+
+    if(!Array.isArray(items) || !items.length){
+        return;
+    }
+
     let galleryIndex=0;
     let fadeTimer=null;
 
