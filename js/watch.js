@@ -25,10 +25,11 @@ async function initialiseWatchPage(){
         if(!currentWatch){ showError("Watch not found."); return; }
         timeline = await TimeWellKept.getTimeline();
         currentIndex = timeline.findIndex(watch => watch.catalogNumber === currentWatch.catalogNumber);
-        renderWatch();
-        initialiseGallery();
-        initialiseGalleryImages();
-        initialiseRevealAnimation();
+        const galleryItems = await loadGalleryItems();
+renderWatch(galleryItems);
+initialiseGallery(galleryItems);
+initialiseGalleryImages();
+initialiseRevealAnimation();
     }catch(error){ console.error(error); showError("Unable to load chapter."); }
 }
 
@@ -38,14 +39,62 @@ function heroImage(){ return `../images/watches/${currentWatch.images.folder}/${
 function galleryImage(file){ return `../images/watches/${currentWatch.images.folder}/${file}`; }
 function value(data){ return data === undefined || data === null || data === "" ? "" : data; }
 
-function getGalleryItems(){
+async function loadGalleryItems(){
     const images = currentWatch?.images;
-    if(!images || !Array.isArray(images.gallery)) return [];
-    return images.gallery.map((image,index)=>{
-        if(typeof image === "string") return {file:image,title:image.replace(/^.*?[\\/]/,"").replace(/\.[^.]+$/,"") || `Image ${index+1}`};
-        if(image && typeof image === "object" && image.file) return {file:image.file,title:image.title || image.file.replace(/^.*?[\\/]/,"").replace(/\.[^.]+$/,"") || `Image ${index+1}`};
-        return null;
-    }).filter(Boolean).filter(image=>image.file !== images.hero);
+    const folder = images?.folder;
+
+    if(!folder) return [];
+
+    try{
+        const response = await fetch("../archive/gallery-manifest.json");
+
+        if(!response.ok){
+            throw new Error(`Gallery manifest failed: ${response.status}`);
+        }
+
+        const manifest = await response.json();
+        const files = manifest[folder];
+
+        if(!Array.isArray(files)){
+            return [];
+        }
+
+        const excluded = new Set(
+            [images.hero, images.cover, images.thumbnail]
+                .filter(Boolean)
+                .map(name => String(name).toLowerCase())
+        );
+
+        return files
+            .filter(file => !excluded.has(String(file).toLowerCase()))
+            .map((file,index) => ({
+                file: file,
+                title: galleryTitle(file,index)
+            }));
+    }
+    catch(error){
+        console.error("Unable to load gallery manifest:", error);
+
+        return [];
+    }
+}
+
+function galleryTitle(file,index){
+    const name = String(file || "")
+        .replace(/^.*?[\\/]/,"")
+        .replace(/\.[^.]+$/,"")
+        .replace(/[_-]+/g," ")
+        .replace(/\s+/g," ")
+        .trim();
+
+    if(!name){
+        return `Image ${index + 1}`;
+    }
+
+    return name.replace(
+        /\b\w/g,
+        letter => letter.toUpperCase()
+    );
 }
 
 function showLoading(){ document.getElementById("watch-page").innerHTML=`<section class="watch-loading"><div class="watch-container"><h2>Loading Chapter...</h2></div></section>`; }
@@ -59,7 +108,7 @@ function renderHero(){
 return `<section class="watch-hero"><div class="watch-container"><div class="watch-container"><span class="catalog-number">${value(currentWatch.catalogNumber)}</span><h1>${value(currentWatch.identity.displayName)}</h1><div class="watch-year">${value(currentWatch.acquisition.year)}</div><h2>${value(currentWatch.chapter.title)}</h2><img id="hero-image" class="watch-hero-image" src="${heroImage()}" alt="${value(currentWatch.identity.displayName)}"><blockquote class="museum-caption">"${value(currentWatch.museumPlaque.caption)}"</blockquote></div></div></section>`;
 }
 
-function renderGallery(){
+function renderGallery(gallery){
     const gallery=getGalleryItems();
     if(!gallery.length) return "";
     return `<section class="watch-gallery"><div class="watch-container"><h2 class="section-title">Museum Gallery</h2><p class="gallery-intro">Explore this watch in greater detail.</p><div class="gallery-layout"><div class="gallery-main"><button id="gallery-prev" class="gallery-arrow" aria-label="Previous Image" type="button">&#10094;</button><img id="gallery-main-image" class="gallery-main-image" src="${galleryImage(gallery[0].file)}" alt="${gallery[0].title}" decoding="async"><button id="gallery-next" class="gallery-arrow" aria-label="Next Image" type="button">&#10095;</button></div>${gallery.length>1?`<div class="gallery-thumbnails">${gallery.map((image,index)=>`<button class="gallery-thumb ${index===0?"active":""}" data-index="${index}" type="button" aria-label="Show ${image.title}"><img src="${galleryImage(image.file)}" alt="${image.title}" loading="lazy" decoding="async"><span>${image.title}</span></button>`).join("")}</div>`:""}</div></div></section>`;
@@ -81,13 +130,15 @@ function renderNavigation(){ const previous=previousChapter(); const next=nextCh
 
 function setActiveThumbnail(thumbnails,index){ thumbnails.forEach(button=>button.classList.toggle("active",Number(button.dataset.index)===index)); }
 
-function initialiseGallery(){
+function initialiseGallery(items){
     const mainImage=document.getElementById("gallery-main-image");
     if(!mainImage)return;
     const thumbnails=Array.from(document.querySelectorAll(".gallery-thumb"));
     const previous=document.getElementById("gallery-prev");
     const next=document.getElementById("gallery-next");
-    const items=getGalleryItems();
+  if(!Array.isArray(items) || !items.length){
+    return;
+}
     let galleryIndex=0;
     let fadeTimer=null;
 
