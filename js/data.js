@@ -4,6 +4,7 @@ TIME WELL KEPT
 Data Layer
 ----------------------------------------------------------
 Responsible for loading and providing access to watches.json
+and supplemental collection entries.
 ==========================================================
 */
 
@@ -24,16 +25,52 @@ async function loadDatabase() {
     try {
 
         const DATA_PATH = window.location.pathname.includes("/pages/")
-    ? "../data/watches.json"
-    : "data/watches.json";
+            ? "../data/watches.json"
+            : "data/watches.json";
 
-const response = await fetch(DATA_PATH);
+        const response = await fetch(DATA_PATH);
 
         if (!response.ok) {
             throw new Error(`Unable to load watches.json (${response.status})`);
         }
 
         watchDatabase = await response.json();
+
+        // Supplemental watch entries live in separate files so individual
+        // additions can be reviewed without rewriting the main database.
+        const supplementalPaths = window.location.pathname.includes("/pages/")
+            ? ["../data/twk-025.json"]
+            : ["data/twk-025.json"];
+
+        for (const supplementalPath of supplementalPaths) {
+            try {
+                const supplementalResponse = await fetch(supplementalPath);
+
+                if (!supplementalResponse.ok) {
+                    console.warn(`Supplemental watch data unavailable: ${supplementalPath}`);
+                    continue;
+                }
+
+                const supplementalData = await supplementalResponse.json();
+                const supplementalWatches = Array.isArray(supplementalData.watches)
+                    ? supplementalData.watches
+                    : [];
+
+                watchDatabase.watches = [
+                    ...watchDatabase.watches,
+                    ...supplementalWatches.filter(
+                        supplementalWatch =>
+                            !watchDatabase.watches.some(
+                                watch => watch.catalogNumber === supplementalWatch.catalogNumber
+                            )
+                    )
+                ];
+            } catch (supplementalError) {
+                console.warn("Supplemental watch load skipped:", supplementalError);
+            }
+        }
+
+        watchDatabase.collection.watchCount = watchDatabase.watches.length;
 
         console.log(
             `Loaded ${watchDatabase.collection.watchCount} watches successfully.`
