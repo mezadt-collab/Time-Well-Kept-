@@ -30,7 +30,7 @@
         "dialMarkers": "Painted/Luminous Rectangular Indices",
         "bezel": "Fixed Stainless Steel",
         "originalStrap": null,
-        "currentStrap": "Brown Leather Strap",
+        "currentStrap": "Blue Leather Strap",
         "lugWidth": "18 mm",
         "waterResistance": null
       },
@@ -46,13 +46,13 @@
       "museumPlaque": {
         "displayName": "HMT Aroop",
         "caption": "A vintage HMT discovered for the joy of owning a piece of Indian watchmaking history.",
-        "milestone": "Vintage HMT Aroop",
+        "milestone": "Vintage HMT Acquisition",
         "importance": 8
       },
       "story": {
         "opening": "Some watches are valuable because of what they cost. Others because of what they represent.",
         "background": "The HMT Aroop is one of the watches that made me appreciate vintage Indian watchmaking more deeply. Its blue dial, classic proportions and hand-wound 0231 movement give it a character that modern watches rarely reproduce.",
-        "acquisition": "I found this Aroop as a pre-owned watch and paid ₹2,700 for it. The watch appears original apart from the strap, which has been replaced with a brown leather strap. The caseback carries the marking 501042, while the movement is the HMT 0231 with 17 jewels.",
+        "acquisition": "I found this Aroop as a pre-owned watch and paid ₹2,700 for it. The watch appears original apart from the strap. The caseback carries the marking 501042, while the movement is the HMT 0231 with 17 jewels.",
         "experience": "What makes this watch particularly interesting is the uncertainty around its exact production year. Based on comparison with documented original Aroops, the watch is currently recorded as circa 1986 rather than being assigned a falsely precise year. That uncertainty is part of the appeal of vintage HMT collecting: the research is part of the ownership experience.",
         "whyItMatters": "This watch represents a growing appreciation for Indian horology and the history of HMT. It is also one of the pieces in the collection where authenticity and provenance are being documented carefully rather than assumed.",
         "favoriteMemory": "Finding an original-looking blue Aroop with its 0231 movement and realising that a small, inexpensive vintage HMT could carry so much history.",
@@ -93,35 +93,15 @@
         "timeline": true,
         "featured": true,
         "showOnHomepage": true,
-        "searchTags": [
-          "hmt",
-          "aroop",
-          "india",
-          "indian horology",
-          "0231",
-          "17 jewels",
-          "hand wound",
-          "mechanical",
-          "vintage",
-          "blue dial",
-          "501042",
-          "1986"
-        ]
+        "searchTags": ["hmt","aroop","india","indian horology","0231","17 jewels","hand wound","mechanical","vintage","blue dial","501042","1986"]
       },
       "images": {
         "folder": "TWK-025",
-        "cover": "TWK-025 hero.jpg",
-        "hero": "TWK-025 hero.jpg",
-        "thumbnail": "TWK-025 hero.jpg",
+        "cover": "TWK-025-wrist.webp",
+        "hero": "TWK-025-wrist.webp",
+        "thumbnail": "TWK-025-wrist.webp",
         "gallery": [
-          {
-            "file": "TWK-025 hero.jpg",
-            "title": "Front View"
-          },
-          {
-            "file": "TWK-025 caseback.jpg",
-            "title": "Caseback"
-          }
+          {"file": "TWK-025-front.webp", "title": "Front View"}
         ]
       },
       "book": {
